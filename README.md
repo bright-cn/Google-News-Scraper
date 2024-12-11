@@ -133,6 +133,7 @@
         "language": "en"
     }
 }
+```
 👉 您可以在我们的 [news_scraper_output.json](https://github.com/bright-cn/Google-News-Scraper/blob/main/google-news-api-scraper/data/news_scraper_output.json) 文件中找到完整的示例输出。
 
 ### 可直接使用的 Python 代码
