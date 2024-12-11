@@ -21,7 +21,7 @@
   - [自定义您的数据收集](#自定义您的数据收集)
 
 ## 方法一：免费 Google 新闻抓取器
-<img width="700" alt="image" src="https://github.com/bright-cn/Google-News-Scraper/assets/a7d34ffe-17c6-4c59-acbf-aaf84ed1b13e">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/a7d34ffe-17c6-4c59-acbf-aaf84ed1b13e">
 
 此免费工具可根据您感兴趣的任意主题收集新闻文章数据。您将获得从标题到发布日期的各种信息，并整齐地组织起来。
 
