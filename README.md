@@ -1,6 +1,6 @@
 # Google 新闻抓取器
 
-[![推广](https://github.com/bright-cn/Google-News-Scraper/blob/main/images/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://bright.cn/products/serp-api/google-search/news?promo=github15)
+[![推广](https://github.com/bright-cn/Google-News-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://bright.cn/products/serp-api/google-search/news?promo=github15)
 
 本仓库提供两种从 Google 新闻收集数据的方法。  
 - **免费方法：** 适用于小型项目和学习  
