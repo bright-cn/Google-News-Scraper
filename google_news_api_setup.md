@@ -33,4 +33,4 @@
 
 9. 当您调整参数时，右侧会生成一个 CURL 命令。您可以：
    - 使用该命令直接[触发 Data Collection API](https://docs.brightdata.com/scraping-automation/web-data-apis/web-scraper-api/trigger-a-collection)
-   - 在您的[代码](https://github.com/bright-cn/Google-News-Scraper?tab=readme-ov-file#ready-to-use-python-code)中，在 `_trigger_collection` 函数中[传递这些参数](https://github.com/bright-cn/Google-News-Scraper?tab=readme-ov-file#key-input-parameters)
+   - 在您的[代码](https://github.com/bright-cn/Google-News-Scraper?tab=readme-ov-file#可直接使用的-Python-代码)中，在 `_trigger_collection` 函数中[传递这些参数](https://github.com/bright-cn/Google-News-Scraper?tab=readme-ov-file#关键输入参数)
