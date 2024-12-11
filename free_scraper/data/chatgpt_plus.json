@@ -1,0 +1,802 @@
+[
+    {
+        "title": "OpenAI launches full o1 model with image uploads and analysis, debuts ChatGPT Pro - VentureBeat",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTTVmS1I4aW1QanZXTnBfa2tBR3d0Y2JzNjJJNldBZTd1TVVfRmpxaUM3bGJld3RycXhPbU8wM1loT0JGd2JDRzFmU1pLU3FSbkRRZ0FPY29INmdhU1RsWXFqXzdLTjNCbU5ES3pIQXZLbTVmMWVhc0FqVlljeWNPOHZMeFlXV2F5Q21ac0lSZVhIOHlnS05sdkR5ZjhJTU9HazJ6MWJR?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 18:00:00 GMT",
+        "source": "VentureBeat",
+        "source_url": "https://venturebeat.com",
+        "guid": "CBMipgFBVV95cUxQTTVmS1I4aW1QanZXTnBfa2tBR3d0Y2JzNjJJNldBZTd1TVVfRmpxaUM3bGJld3RycXhPbU8wM1loT0JGd2JDRzFmU1pLU3FSbkRRZ0FPY29INmdhU1RsWXFqXzdLTjNCbU5ES3pIQXZLbTVmMWVhc0FqVlljeWNPOHZMeFlXV2F5Q21ac0lSZVhIOHlnS05sdkR5ZjhJTU9HazJ6MWJR"
+    },
+    {
+        "title": "OpenAI unveils $200-a-month ChatGPT package for engineering, research use - The Express Tribune",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkI0NDNnc0VjRG5BSkJSbUFLQVcxOFU5TlFpaFBBU1gzVmZiNVRZTHpENU45RWtleG1Xa2NPT0NSUHE5OXR2WGZlcUcyNHVyNXFMTWx1eVU1T3o5UmpobVNYLTA4N0lUVHJ6OHBpOFBNd0NabGJCMTl1ZnFvNlFDMjk1ZDRmdHU2Y0toUXBwTUticlNWZzM1aEJVakFGaEVIbnZ3Q0ZLalpoWE1s0gG0AUFVX3lxTFB5N2pTa0V2czJfSHRkS0pXb1JPYTRaUWc4THdYa1ltRm5GSklVZldNTzVNbWpOSjdiSzBJc1hxbGo5Yk9sM2RPUzVHX1JrZGVBYW8zWl9sZmdQdm9Hd2hQSWVvUVFhc0U5YzhzOEw4Y2piaEpWaE1oQkF0NkhwUlpZbnIzZHRJanNKQ3lvZC1rY3NXWWl6dmhiMG1qNFU4cDZJRC1UR1FaSk1hMGh5cEx6V1BaMg?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 19:03:57 GMT",
+        "source": "The Express Tribune",
+        "source_url": "https://tribune.com.pk",
+        "guid": "CBMirAFBVV95cUxPQkI0NDNnc0VjRG5BSkJSbUFLQVcxOFU5TlFpaFBBU1gzVmZiNVRZTHpENU45RWtleG1Xa2NPT0NSUHE5OXR2WGZlcUcyNHVyNXFMTWx1eVU1T3o5UmpobVNYLTA4N0lUVHJ6OHBpOFBNd0NabGJCMTl1ZnFvNlFDMjk1ZDRmdHU2Y0toUXBwTUticlNWZzM1aEJVakFGaEVIbnZ3Q0ZLalpoWE1s0gG0AUFVX3lxTFB5N2pTa0V2czJfSHRkS0pXb1JPYTRaUWc4THdYa1ltRm5GSklVZldNTzVNbWpOSjdiSzBJc1hxbGo5Yk9sM2RPUzVHX1JrZGVBYW8zWl9sZmdQdm9Hd2hQSWVvUVFhc0U5YzhzOEw4Y2piaEpWaE1oQkF0NkhwUlpZbnIzZHRJanNKQ3lvZC1rY3NXWWl6dmhiMG1qNFU4cDZJRC1UR1FaSk1hMGh5cEx6V1BaMg"
+    },
+    {
+        "title": "ChatGPT: Everything you need to know about the AI-powered chatbot - TechCrunch",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFM1ZVFXNWI2WTZtMU5YSUVwYlVrN3VQZ0U0OWp3N2NXUHc0dGlXXy02SmFVRVpzcFpmd0IwNXFaenhZTXViU0NSZzMyVXRSWU15WnRpRDVBVEdyUzdIbmpja2dQbjYxNlQybk5BUmVsSF9FMGJCQ3ZqdU9WT1lhRGh1bDRLZ2RubGc?oc=5",
+        "publication_date": "Wed, 04 Dec 2024 08:00:00 GMT",
+        "source": "TechCrunch",
+        "source_url": "https://techcrunch.com",
+        "guid": "CBMiigFBVV95cUxOcFM1ZVFXNWI2WTZtMU5YSUVwYlVrN3VQZ0U0OWp3N2NXUHc0dGlXXy02SmFVRVpzcFpmd0IwNXFaenhZTXViU0NSZzMyVXRSWU15WnRpRDVBVEdyUzdIbmpja2dQbjYxNlQybk5BUmVsSF9FMGJCQ3ZqdU9WT1lhRGh1bDRLZ2RubGc"
+    },
+    {
+        "title": "How to subscribe to ChatGPT Plus (and 7 reasons why you should) - ZDNet",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDdreVQ5RDIydWx6aElDSk5XUE5VcXlra01ldktZUzFRaDVIRUp2eXU3REUxcWJwVEJLNWpObDVIQ0RnMmdvVHo5ZDBJeG1zeXg2T2ZRZEdTVGF1YnViQjUzUFVrUGxVM2xPU3JveFlDN015emtuQ2R2SXo4azVVNklkR19jWVJMNVBVdlY3NFl5QmJLT3NF?oc=5",
+        "publication_date": "Thu, 14 Nov 2024 08:00:00 GMT",
+        "source": "ZDNet",
+        "source_url": "https://www.zdnet.com",
+        "guid": "CBMilwFBVV95cUxPMDdreVQ5RDIydWx6aElDSk5XUE5VcXlra01ldktZUzFRaDVIRUp2eXU3REUxcWJwVEJLNWpObDVIQ0RnMmdvVHo5ZDBJeG1zeXg2T2ZRZEdTVGF1YnViQjUzUFVrUGxVM2xPU3JveFlDN015emtuQ2R2SXo4azVVNklkR19jWVJMNVBVdlY3NFl5QmJLT3NF"
+    },
+    {
+        "title": "iOS 18.2 beta adds ‘Upgrade to ChatGPT Plus’ option in the Settings app - 9to5Mac",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUF9yZEt1MGI5VmpwNnNMOVhvNjdnQ1d2UzhMNEROX0ZYeW1MYzdOV2JBOHdXSXlVNmJ5RjhqNE1nTEhtZ0loTjRjTkFjeWN5cVY1TVBjb1ZpdXpiNk42WHN0Qk15eHE4SlNDMjVOcGs0NDlQWjl4anJhSGlYRk4xUjFfRnZOVGxsalo2Z1B3MVpEZjdrdU9CWUpQYTlJR3dmQWFN?oc=5",
+        "publication_date": "Mon, 04 Nov 2024 08:00:00 GMT",
+        "source": "9to5Mac",
+        "source_url": "https://9to5mac.com",
+        "guid": "CBMiowFBVV95cUxPUF9yZEt1MGI5VmpwNnNMOVhvNjdnQ1d2UzhMNEROX0ZYeW1MYzdOV2JBOHdXSXlVNmJ5RjhqNE1nTEhtZ0loTjRjTkFjeWN5cVY1TVBjb1ZpdXpiNk42WHN0Qk15eHE4SlNDMjVOcGs0NDlQWjl4anJhSGlYRk4xUjFfRnZOVGxsalo2Z1B3MVpEZjdrdU9CWUpQYTlJR3dmQWFN"
+    },
+    {
+        "title": "Introducing ChatGPT search - OpenAI",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wX0Mya2pYOEJaR2JQbkw4WE1SdmRPa0pSNVZCT0VsSFFIQ0dXZ1NtOXQ5clVZbFo3aFlwcjQ0VWlMYVpnYmo0MTFrVmlxdU9yUWZJbVI3MU56UkxzQ1FaSmxn?oc=5",
+        "publication_date": "Thu, 31 Oct 2024 07:00:00 GMT",
+        "source": "OpenAI",
+        "source_url": "https://openai.com",
+        "guid": "CBMiYkFVX3lxTE5wX0Mya2pYOEJaR2JQbkw4WE1SdmRPa0pSNVZCT0VsSFFIQ0dXZ1NtOXQ5clVZbFo3aFlwcjQ0VWlMYVpnYmo0MTFrVmlxdU9yUWZJbVI3MU56UkxzQ1FaSmxn"
+    },
+    {
+        "title": "What is ChatGPT? How the world's most popular AI chatbot can benefit you - ZDNet",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTBYWVcxX3JwZ1g1MWE5R2ptaVBsSS1lemFpT3g5VzdtbldhSHVnOXRqeVFTV01DQzB4ekdKZ1J3bEFGOGtQSlJiVXFwYUQ3S0I2Z3hpbVN2UE9fSHlIczBHS1czVk41RGxZVHRqWFZhVHBtWmM0Q1NDX2ZUUnVkYzNsYWJwUTZabVZOWFBvMGhzOTFEOWRpWEhXQnlSUUxCSzA0?oc=5",
+        "publication_date": "Wed, 13 Nov 2024 08:00:00 GMT",
+        "source": "ZDNet",
+        "source_url": "https://www.zdnet.com",
+        "guid": "CBMiowFBVV95cUxQdTBYWVcxX3JwZ1g1MWE5R2ptaVBsSS1lemFpT3g5VzdtbldhSHVnOXRqeVFTV01DQzB4ekdKZ1J3bEFGOGtQSlJiVXFwYUQ3S0I2Z3hpbVN2UE9fSHlIczBHS1czVk41RGxZVHRqWFZhVHBtWmM0Q1NDX2ZUUnVkYzNsYWJwUTZabVZOWFBvMGhzOTFEOWRpWEhXQnlSUUxCSzA0"
+    },
+    {
+        "title": "Number of ChatGPT Users (Dec 2024) - Exploding Topics",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XeXN2SHhyRDh3X3pwTlB4VUJDMkxGZ0lKWENzakFtaWY2WmlZQ2FqdlFtZUZ5X1dHNExSQmx1V2tzTE93N08xWjZwbXdCQ2VlZnkxeTAzd29Sdw?oc=5",
+        "publication_date": "Tue, 03 Dec 2024 14:37:30 GMT",
+        "source": "Exploding Topics",
+        "source_url": "https://explodingtopics.com",
+        "guid": "CBMiWkFVX3lxTE1XeXN2SHhyRDh3X3pwTlB4VUJDMkxGZ0lKWENzakFtaWY2WmlZQ2FqdlFtZUZ5X1dHNExSQmx1V2tzTE93N08xWjZwbXdCQ2VlZnkxeTAzd29Sdw"
+    },
+    {
+        "title": "OpenAI launches $200 ChatGPT subscription for use in research purposes - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeXdaNW0wREtHbkxuZnE1aEVsS1NMbnBKM1N0bTYwMFIyMnhjX2MzTkR2TG5RaGhucnpGbHEwZTRmX1JzZUdoWjIzUGdtVkRyRGNGU0Vqend1bzNVVmpyTFZtalpFdlVDaTZFWG5aOW1jWmFVc1RXc0xyUVRUZU9wWU42MXRQUElHd0JZcWotRFpjRUliY3VyQWZDOFk4Rzl5VkVqbWlKTU9BWWhIbVNKMy1WWjRzU0JONlROSG93SlZkb3RSZXU4NWkzelRnTEZ1LS1pcnF5RThpYjVX0gHiAUFVX3lxTE9TWWQzOXBidGZycWkxdFFZX2hBRDBqa2lPYlVQRHl5MThqYkRIU0ZwYUZ1R2E0bE9nendEVVgxWkV6MTNYN3BtQzlwLXIyR0tocEVHMjR4bDJVT19uZ0ZORVhoUk9kdXVMVXU4TzhENllkbXZPNzNFbHhxa0dPR2xRd0xIWHR0WVZPZFZQdS1ySGNSdEtfbml3bE1mYnlqOVEzRnRSdVdTQnR6RUZ5cWZoQ2M0TG5DdGN2RzdtMlN6ZlJ0ZEFXcmtNYkoxR2tHQmsyLW9WUUk1OTN5QXNJejBvbVE?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 04:27:29 GMT",
+        "source": "Business Standard",
+        "source_url": "https://www.business-standard.com",
+        "guid": "CBMi3AFBVV95cUxNeXdaNW0wREtHbkxuZnE1aEVsS1NMbnBKM1N0bTYwMFIyMnhjX2MzTkR2TG5RaGhucnpGbHEwZTRmX1JzZUdoWjIzUGdtVkRyRGNGU0Vqend1bzNVVmpyTFZtalpFdlVDaTZFWG5aOW1jWmFVc1RXc0xyUVRUZU9wWU42MXRQUElHd0JZcWotRFpjRUliY3VyQWZDOFk4Rzl5VkVqbWlKTU9BWWhIbVNKMy1WWjRzU0JONlROSG93SlZkb3RSZXU4NWkzelRnTEZ1LS1pcnF5RThpYjVX0gHiAUFVX3lxTE9TWWQzOXBidGZycWkxdFFZX2hBRDBqa2lPYlVQRHl5MThqYkRIU0ZwYUZ1R2E0bE9nendEVVgxWkV6MTNYN3BtQzlwLXIyR0tocEVHMjR4bDJVT19uZ0ZORVhoUk9kdXVMVXU4TzhENllkbXZPNzNFbHhxa0dPR2xRd0xIWHR0WVZPZFZQdS1ySGNSdEtfbml3bE1mYnlqOVEzRnRSdVdTQnR6RUZ5cWZoQ2M0TG5DdGN2RzdtMlN6ZlJ0ZEFXcmtNYkoxR2tHQmsyLW9WUUk1OTN5QXNJejBvbVE"
+    },
+    {
+        "title": "OpenAI unveils $200 ChatGPT Pro subscription for engineers and researchers - Storyboard18",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzRORnBMZ1RialQ3VmxpR2F3eEdJNThxQmc2SjZKVV8zZjA4ZDB5bHQyMUVHenFwbGxNZ2NSUTNEQWFpdzMtaW5HQmVldXNhTzNJRkdld21aLU5rZ0NMSTFycWRuMy0xSWNUNy1WTXBEWUVQNjFkemRUNVlXcVhjYml5YW91R1lBVjBLUUpwbk9LNlZpb09lanN2YzZnWVRMZXdKcnRob0RUa2NRNUpCdEtELTFDT3phUmsyaFp2OGVhaUZjZC0w0gHMAUFVX3lxTFBmUkVvelFHcUstUVJwNlJKSlZ2QnlqejhYRXNfd2J6aWt6ZmFpeGpuMVRKamhNNzZ1Y0JiN2czMDRUZXpwcVpJdlJGQnVKN0JDYzZUakw0eDl1UWhGRWNiWUp4TElsS0VsVTBxQkE4aVFQZlFBSG5nZEM5TjhrQUM0dWV2M0pXVTl0cWZwWUlLclluLXBEM2d1XzAxZXl2SFpmQVhmcmlXSHJQTUx6QlRmLU5GOWJzWHg0QU1hYnpEaFQ3WUdkNlk4UGR1SA?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 04:39:23 GMT",
+        "source": "Storyboard18",
+        "source_url": "https://www.storyboard18.com",
+        "guid": "CBMixwFBVV95cUxNNzRORnBMZ1RialQ3VmxpR2F3eEdJNThxQmc2SjZKVV8zZjA4ZDB5bHQyMUVHenFwbGxNZ2NSUTNEQWFpdzMtaW5HQmVldXNhTzNJRkdld21aLU5rZ0NMSTFycWRuMy0xSWNUNy1WTXBEWUVQNjFkemRUNVlXcVhjYml5YW91R1lBVjBLUUpwbk9LNlZpb09lanN2YzZnWVRMZXdKcnRob0RUa2NRNUpCdEtELTFDT3phUmsyaFp2OGVhaUZjZC0w0gHMAUFVX3lxTFBmUkVvelFHcUstUVJwNlJKSlZ2QnlqejhYRXNfd2J6aWt6ZmFpeGpuMVRKamhNNzZ1Y0JiN2czMDRUZXpwcVpJdlJGQnVKN0JDYzZUakw0eDl1UWhGRWNiWUp4TElsS0VsVTBxQkE4aVFQZlFBSG5nZEM5TjhrQUM0dWV2M0pXVTl0cWZwWUlLclluLXBEM2d1XzAxZXl2SFpmQVhmcmlXSHJQTUx6QlRmLU5GOWJzWHg0QU1hYnpEaFQ3WUdkNlk4UGR1SA"
+    },
+    {
+        "title": "What is ChatGPT Pro? Here's what $200 per month gets you - ZDNet",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYU4tdjVCUEJRaElzUzlxQTBSWFJsa2J5NzVlZndKdHFPTXNmbE1MZ0VZZkVJYmVlVm55WVJKRlZYNkFXZ1g4TXNCdFVGcjNtNTVQR2dmLXN3RlZTdjhwcFZXZ0ZFeE9pNDBhc2dOUG1EZVJQNV9qcVA0RDlXRGJWcGtxd19iXzJLaGNzdmRKTG9UaEc5WVNwOEl4MFl4dzg5Ym1IQ3BaSGNDZw?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 18:59:00 GMT",
+        "source": "ZDNet",
+        "source_url": "https://www.zdnet.com",
+        "guid": "CBMiqgFBVV95cUxQYU4tdjVCUEJRaElzUzlxQTBSWFJsa2J5NzVlZndKdHFPTXNmbE1MZ0VZZkVJYmVlVm55WVJKRlZYNkFXZ1g4TXNCdFVGcjNtNTVQR2dmLXN3RlZTdjhwcFZXZ0ZFeE9pNDBhc2dOUG1EZVJQNV9qcVA0RDlXRGJWcGtxd19iXzJLaGNzdmRKTG9UaEc5WVNwOEl4MFl4dzg5Ym1IQ3BaSGNDZw"
+    },
+    {
+        "title": "ChatGPT's new model attempts to stop itself from being shut down, later 'lies' about it - Deccan Herald",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWC1Xc3dERFBrZzRqS1lvUG94cWdHSEdqXzJmUnJkbzVmUS1td1M3WTRsWmFLeEJtemlvdF9uM211QlBZZEllQmMyUHpEZXl4RGxYSTBIU1JsZ2NpQS0wUnViaE1CN2wzSlFPV3gxSnRwUmZEeW9xaDM2YzFvVG5sWUQ3R3NDMldrV0ZQZ2g5aWFnU2JSZWNadE1KZklFdUR1dEduVUE3bEtZa1dMcV9nRW03cU94RllFZTBzcFR4WFczVEFnZDY1a18wbw?oc=5",
+        "publication_date": "Sat, 07 Dec 2024 09:08:08 GMT",
+        "source": "Deccan Herald",
+        "source_url": "https://www.deccanherald.com",
+        "guid": "CBMiywFBVV95cUxOWC1Xc3dERFBrZzRqS1lvUG94cWdHSEdqXzJmUnJkbzVmUS1td1M3WTRsWmFLeEJtemlvdF9uM211QlBZZEllQmMyUHpEZXl4RGxYSTBIU1JsZ2NpQS0wUnViaE1CN2wzSlFPV3gxSnRwUmZEeW9xaDM2YzFvVG5sWUQ3R3NDMldrV0ZQZ2g5aWFnU2JSZWNadE1KZklFdUR1dEduVUE3bEtZa1dMcV9nRW03cU94RllFZTBzcFR4WFczVEFnZDY1a18wbw"
+    },
+    {
+        "title": "OpenAI confirms $200 ChatGPT Pro subscription with new o1 reasoning model - afaqs!",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTZSeUZfQktqSEZveE5HbnMyVVlOakhWUlVHRXpaS29CbTNEOTlITEl4WVBSYXNncV9RY1EyNjZHT3dtc2VKU240ZEtINFNZS3R1akN1QVNhSlFtNjJDUTNSbWlDbUlhWWs3RzRUWXBGR3JmaVNzemNjWTV6c0s0ZXliZHRDSVJUOGY1dWo0WmxXdVYwa2hITEczRjlyaVlGY0lqMjlLa21KYXVuNmNBcGo2WjROZw?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 06:02:18 GMT",
+        "source": "afaqs!",
+        "source_url": "https://www.afaqs.com",
+        "guid": "CBMitgFBVV95cUxNRTZSeUZfQktqSEZveE5HbnMyVVlOakhWUlVHRXpaS29CbTNEOTlITEl4WVBSYXNncV9RY1EyNjZHT3dtc2VKU240ZEtINFNZS3R1akN1QVNhSlFtNjJDUTNSbWlDbUlhWWs3RzRUWXBGR3JmaVNzemNjWTV6c0s0ZXliZHRDSVJUOGY1dWo0WmxXdVYwa2hITEczRjlyaVlGY0lqMjlLa21KYXVuNmNBcGo2WjROZw"
+    },
+    {
+        "title": "OpenAI unveils premium ChatGPT Pro subscription with advanced features - Business Insider India",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3VWdzlaTnlUMUo2SEpTZEJ3T1FaTFhlLUhyWFF6d3RCVV9LYWE0ZUZ0Q0l1N0plX1ZpMkN2amNQVVBscEpibFRCMGYxbkk5VXp3WHpKc3duZ05KMmw4eFBoMlNGSXZ3RWY5RDVDTmFNVTJnc3ByVUtsa2IxT05LM0NwVGZLb3VJNkwwX09wRlVWQWxQOWtveVNMbF9KUm5kT01wVGZJcklFNWRGbTZ1WmxvMTJXQjVkQjN2UHFNY19XdXl1OGlMX1VEZTluU29yallv0gHYAUFVX3lxTE5wWXB4NmZPX1BlaTlNZnpIZHo1UlR5eXB5ZEowZUNwckoyLW9zSXB5a2VXbGxKZ05nOHFZeTRHRW41RWpEbi14d3BvWjY1Q1p3UWNHUzBheE1ZNUVLNFU1LVZVTTNkSW5iSG10NmJ4NUdudlhiOTg5dXRHVjd3LTNHMms4cHhaLWVrSG9VM3licGVwMjZpTHdrRVVoeV9KWmRUZkpXeU9QdHNxWE9IX0w4RkNkZ3dVc0V4YUdObkFzc3JqbEpFRjl5OENsQ1g1UmpUQ3FxejlyNg?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 07:27:00 GMT",
+        "source": "Business Insider India",
+        "source_url": "https://www.businessinsider.in",
+        "guid": "CBMi0wFBVV95cUxNU3VWdzlaTnlUMUo2SEpTZEJ3T1FaTFhlLUhyWFF6d3RCVV9LYWE0ZUZ0Q0l1N0plX1ZpMkN2amNQVVBscEpibFRCMGYxbkk5VXp3WHpKc3duZ05KMmw4eFBoMlNGSXZ3RWY5RDVDTmFNVTJnc3ByVUtsa2IxT05LM0NwVGZLb3VJNkwwX09wRlVWQWxQOWtveVNMbF9KUm5kT01wVGZJcklFNWRGbTZ1WmxvMTJXQjVkQjN2UHFNY19XdXl1OGlMX1VEZTluU29yallv0gHYAUFVX3lxTE5wWXB4NmZPX1BlaTlNZnpIZHo1UlR5eXB5ZEowZUNwckoyLW9zSXB5a2VXbGxKZ05nOHFZeTRHRW41RWpEbi14d3BvWjY1Q1p3UWNHUzBheE1ZNUVLNFU1LVZVTTNkSW5iSG10NmJ4NUdudlhiOTg5dXRHVjd3LTNHMms4cHhaLWVrSG9VM3licGVwMjZpTHdrRVVoeV9KWmRUZkpXeU9QdHNxWE9IX0w4RkNkZ3dVc0V4YUdObkFzc3JqbEpFRjl5OENsQ1g1UmpUQ3FxejlyNg"
+    },
+    {
+        "title": "ChatGPT gets an upgrade — OpenAI drops full o1 reasoning model as part of 12 Days announcement - Tom's Guide",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSl9MRlpBOHdUTEpIdHBwaXhCT002VTBqS21NYUt1UnF5N182WU15QXZDd2F5MFR4YjdxS2xSdzN4eDk1cndFY2czaXhUWXpUMHhnLUptY3RPdk13bGZ0U3FBUVBDODlCXzB5OGtWRm5YSDNGQy01N3FweVlMaHRxUVFZTmZYVXV1OGhoempZY1VhbkhTd25EN0FwNDJhQ0RQSlFLLUtaeWxTUV85RnZlclBkZ1daQ1NkOWhDLTd0S1VmcHplWEVRMA?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 19:41:29 GMT",
+        "source": "Tom's Guide",
+        "source_url": "https://www.tomsguide.com",
+        "guid": "CBMiyAFBVV95cUxPSl9MRlpBOHdUTEpIdHBwaXhCT002VTBqS21NYUt1UnF5N182WU15QXZDd2F5MFR4YjdxS2xSdzN4eDk1cndFY2czaXhUWXpUMHhnLUptY3RPdk13bGZ0U3FBUVBDODlCXzB5OGtWRm5YSDNGQy01N3FweVlMaHRxUVFZTmZYVXV1OGhoempZY1VhbkhTd25EN0FwNDJhQ0RQSlFLLUtaeWxTUV85RnZlclBkZ1daQ1NkOWhDLTd0S1VmcHplWEVRMA"
+    },
+    {
+        "title": "OpenAI launches $200 ChatGPT Pro subscription with enhanced reasoning model - Republic World",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR0JfNlVEamJwdFpFR0JRTXBGemtpLUxoMERiR2FTZ3d6b21sV3ZHRnVuT2N5T3BSQkhHY0hhYzBOaEhOVEtkS3BJVlQ0ci1vSTBEaVk2Z3ZjSGluS2lLeUR1M3luazBJazloWk9rQkEzbEhzQkJVRlhfX0htbXdubDZrLWhiUlZHMnFtaEhaMFp2ek9JUnBzVjAwWmxSc0o2OFNvUE45SklOLWtPeUh5azZ5UzZ0ZlZYTVE1NURfS1Z3SnBSaVk3S0tySFZhZ9IB0wFBVV95cUxPNGZEdnE0YkJPXzB0SFlmV0RsNkQ5V25rNzVBa0F3eFU1amY1bThEUFRLWmNFS0o2OW4wZWpReUNIcF9VV1J2dHRNVUFWRGxVcHVpWEp6NVlPb2gyZ1FLOUt1bGJncjBSUTlWeXlXa3NMSjdCYm5FYTFJbm5pRnFEbm5PVWhla2VoQWpvTEZqWHNha2txalBjOXFpdkhHUkt0UlZkNWJCYTVYRzQ2TnBLNW9OY2FnbVlxUEZUUGg1UjFYNVhOdnhHdTdBNkpHa3UzOEQ4?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 07:25:24 GMT",
+        "source": "Republic World",
+        "source_url": "https://www.republicworld.com",
+        "guid": "CBMizgFBVV95cUxNR0JfNlVEamJwdFpFR0JRTXBGemtpLUxoMERiR2FTZ3d6b21sV3ZHRnVuT2N5T3BSQkhHY0hhYzBOaEhOVEtkS3BJVlQ0ci1vSTBEaVk2Z3ZjSGluS2lLeUR1M3luazBJazloWk9rQkEzbEhzQkJVRlhfX0htbXdubDZrLWhiUlZHMnFtaEhaMFp2ek9JUnBzVjAwWmxSc0o2OFNvUE45SklOLWtPeUh5azZ5UzZ0ZlZYTVE1NURfS1Z3SnBSaVk3S0tySFZhZ9IB0wFBVV95cUxPNGZEdnE0YkJPXzB0SFlmV0RsNkQ5V25rNzVBa0F3eFU1amY1bThEUFRLWmNFS0o2OW4wZWpReUNIcF9VV1J2dHRNVUFWRGxVcHVpWEp6NVlPb2gyZ1FLOUt1bGJncjBSUTlWeXlXa3NMSjdCYm5FYTFJbm5pRnFEbm5PVWhla2VoQWpvTEZqWHNha2txalBjOXFpdkhHUkt0UlZkNWJCYTVYRzQ2TnBLNW9OY2FnbVlxUEZUUGg1UjFYNVhOdnhHdTdBNkpHa3UzOEQ4"
+    },
+    {
+        "title": "iOS 18.2 will let you upgrade to ChatGPT Plus directly from Settings app - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmphbHJnWWp3bG9mSUdsRmJ6QUFsVmFpZ1pGZ042Wk9IZU5Hck9EQkdWLTMyLUphb3M3UmlKNWpjWlJ6V2hHR1d3OG45Sk5lR3dBX2p3UF9ZTTZiTWhLSWpJMW5OZjZZWnI4Yms5dnJzTWtRanNHZElmU01obnZ6QTNHQkswX0dMVlJaOW9Jc1YwT19VUWp3b0V2OHkzYVd2d2hWalNidlJRU1plR0dhSHVSdHd3TFJzazhzbmdGeWdHa2FjRkxkNXFhM1FIZmVvaENNa9IB2gFBVV95cUxQd2FqQUttYWFTbUJQeVBkUGFXUkNuOVprZlBVUm5QOHdpRFRpQVc0TDFfV2o1cWktRjhsQUtKRVl4TlZyaUZVQUJfZjFXSnRDQUNPYTNXZGh0bXlfQWVGR3kzcUU3QVM5WVl1LXAtZ19jRTFFWS1hN0x6VXo5TXpaeGNNZWQ0SG1McmxOcmhsYXVqWlg5bGZpbk5nZ1psZjhybDZQM1lTdUJRX3dUdi1kYkJtb09FRVNHeHlmRlE2YUdHZGZtWWRJcWg1eHN0YmVBd0tGb3R1RlU0UQ?oc=5",
+        "publication_date": "Tue, 05 Nov 2024 08:00:00 GMT",
+        "source": "India Today",
+        "source_url": "https://www.indiatoday.in",
+        "guid": "CBMi1AFBVV95cUxORmphbHJnWWp3bG9mSUdsRmJ6QUFsVmFpZ1pGZ042Wk9IZU5Hck9EQkdWLTMyLUphb3M3UmlKNWpjWlJ6V2hHR1d3OG45Sk5lR3dBX2p3UF9ZTTZiTWhLSWpJMW5OZjZZWnI4Yms5dnJzTWtRanNHZElmU01obnZ6QTNHQkswX0dMVlJaOW9Jc1YwT19VUWp3b0V2OHkzYVd2d2hWalNidlJRU1plR0dhSHVSdHd3TFJzazhzbmdGeWdHa2FjRkxkNXFhM1FIZmVvaENNa9IB2gFBVV95cUxQd2FqQUttYWFTbUJQeVBkUGFXUkNuOVprZlBVUm5QOHdpRFRpQVc0TDFfV2o1cWktRjhsQUtKRVl4TlZyaUZVQUJfZjFXSnRDQUNPYTNXZGh0bXlfQWVGR3kzcUU3QVM5WVl1LXAtZ19jRTFFWS1hN0x6VXo5TXpaeGNNZWQ0SG1McmxOcmhsYXVqWlg5bGZpbk5nZ1psZjhybDZQM1lTdUJRX3dUdi1kYkJtb09FRVNHeHlmRlE2YUdHZGZtWWRJcWg1eHN0YmVBd0tGb3R1RlU0UQ"
+    },
+    {
+        "title": "OpenAI launches $200 ChatGPT Pro subscription - Social Samosa",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdlJtM2cxZmZWNnRFUEk5VlB5bnBiRXVOV0Z1eEZkMWNMNllZMVhISHNiS2ZZM0I0TXY5alp6bGx5c3ZQZS1UeW9rY0daU3AwQXFlRmtodDd3bDRzX2M3aThfbmw4UkxNVHVpZ2VfY00yUklWWTBjTGk2U0p3WWxjTmdycnVjX1RJNGU4RmE0STAtQdIBkgFBVV95cUxPdlJtM2cxZmZWNnRFUEk5VlB5bnBiRXVOV0Z1eEZkMWNMNllZMVhISHNiS2ZZM0I0TXY5alp6bGx5c3ZQZS1UeW9rY0daU3AwQXFlRmtodDd3bDRzX2M3aThfbmw4UkxNVHVpZ2VfY00yUklWWTBjTGk2U0p3WWxjTmdycnVjX1RJNGU4RmE0STAtQQ?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 09:15:46 GMT",
+        "source": "Social Samosa",
+        "source_url": "https://www.socialsamosa.com",
+        "guid": "CBMikgFBVV95cUxPdlJtM2cxZmZWNnRFUEk5VlB5bnBiRXVOV0Z1eEZkMWNMNllZMVhISHNiS2ZZM0I0TXY5alp6bGx5c3ZQZS1UeW9rY0daU3AwQXFlRmtodDd3bDRzX2M3aThfbmw4UkxNVHVpZ2VfY00yUklWWTBjTGk2U0p3WWxjTmdycnVjX1RJNGU4RmE0STAtQdIBkgFBVV95cUxPdlJtM2cxZmZWNnRFUEk5VlB5bnBiRXVOV0Z1eEZkMWNMNllZMVhISHNiS2ZZM0I0TXY5alp6bGx5c3ZQZS1UeW9rY0daU3AwQXFlRmtodDd3bDRzX2M3aThfbmw4UkxNVHVpZ2VfY00yUklWWTBjTGk2U0p3WWxjTmdycnVjX1RJNGU4RmE0STAtQQ"
+    },
+    {
+        "title": "OpenAI Announces ChatGPT Pro With A $200 Monthly Price Tag - Mashable India",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSS0tTUxpOXYwbW5YNkFld2dYNTRiMENLOW1jcjJGVFR5c3JRM2N2ZFJmcHFEV1IyVDRndkNJSnRHakRFWk9rNzBKVzRObWhUMHAyX1pXZjVXRzVVMXFCYURQMm9HZDdYMndQdjZ0WWRYSDI2RWo2a081UnMwejBMZ3k0TzJHOVJsbW0ySVhlaUx2RzMtMzJV?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 19:17:32 GMT",
+        "source": "Mashable India",
+        "source_url": "https://in.mashable.com",
+        "guid": "CBMilwFBVV95cUxPSS0tTUxpOXYwbW5YNkFld2dYNTRiMENLOW1jcjJGVFR5c3JRM2N2ZFJmcHFEV1IyVDRndkNJSnRHakRFWk9rNzBKVzRObWhUMHAyX1pXZjVXRzVVMXFCYURQMm9HZDdYMndQdjZ0WWRYSDI2RWo2a081UnMwejBMZ3k0TzJHOVJsbW0ySVhlaUx2RzMtMzJV"
+    },
+    {
+        "title": "OpenAI Launches ChatGPT Pro: Advanced Features at a Premium Price - The Hans India",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVEc3UjVTU3dZVUVmMG0xSy1aM2c4M2NRd2FnMnZpajN1UHhaQ1R2MzVyaG1JbXFtZTRvUTNPaFNCZmJweTBuSnNtRVpKYkxWNUF3bkFoV2haUFR5ZnVwVXRUM1kzX2xPcEVhSzg3X1NJd0ZIVUIzamFvYlNXVTZmSE4tTHRoZ3VLLU04SWNwbkJpVVlZY3gzdmctdGZobXBYcE1Na0VXQWvSAa4BQVVfeXFMTVUxdm1DM3hidzJzdEh6bVVuXy1JY29CSENoZWdjUWNCUEFiOWU3cHplcjM0aVptQVJIcTJDMm9kTTdxQnVfdENxTjRhLUhpN1AwNFhwN1BVbU1oNHV6S2dPSkFNWFcxbWJvYnU3TGRXb1Q1WTZVZkUyZ2RSTy1QSTVpS1Vsb01TTzJHM01BYVpMcUpScHBaMzVnYXBmX2ZMdUdmaExQS3BTU1BEQzNn?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 12:29:21 GMT",
+        "source": "The Hans India",
+        "source_url": "https://www.thehansindia.com",
+        "guid": "CBMiqAFBVV95cUxOVEc3UjVTU3dZVUVmMG0xSy1aM2c4M2NRd2FnMnZpajN1UHhaQ1R2MzVyaG1JbXFtZTRvUTNPaFNCZmJweTBuSnNtRVpKYkxWNUF3bkFoV2haUFR5ZnVwVXRUM1kzX2xPcEVhSzg3X1NJd0ZIVUIzamFvYlNXVTZmSE4tTHRoZ3VLLU04SWNwbkJpVVlZY3gzdmctdGZobXBYcE1Na0VXQWvSAa4BQVVfeXFMTVUxdm1DM3hidzJzdEh6bVVuXy1JY29CSENoZWdjUWNCUEFiOWU3cHplcjM0aVptQVJIcTJDMm9kTTdxQnVfdENxTjRhLUhpN1AwNFhwN1BVbU1oNHV6S2dPSkFNWFcxbWJvYnU3TGRXb1Q1WTZVZkUyZ2RSTy1QSTVpS1Vsb01TTzJHM01BYVpMcUpScHBaMzVnYXBmX2ZMdUdmaExQS3BTU1BEQzNn"
+    },
+    {
+        "title": "ChatGPT might get ads - BGR",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTTHpxa3NxWllqeEJnMjViX283T0lveDlHMmNKamtjemJraXJvYWpNQVd5Vl9Cc0Jqa0N6TG5uRk5VbVl0eE1nRl8wRmRwMkpJb1YzSGVR?oc=5",
+        "publication_date": "Wed, 04 Dec 2024 16:18:00 GMT",
+        "source": "BGR",
+        "source_url": "https://bgr.com",
+        "guid": "CBMiVkFVX3lxTFBTTHpxa3NxWllqeEJnMjViX283T0lveDlHMmNKamtjemJraXJvYWpNQVd5Vl9Cc0Jqa0N6TG5uRk5VbVl0eE1nRl8wRmRwMkpJb1YzSGVR"
+    },
+    {
+        "title": "Why You Should Consider Upgrading to ChatGPT Plus: Key Benefits - CIOL",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSktpMVVqLXVibkZIT2FFbG9NQ2Zfa0JEVkk5MlRHMDFKbzZzeVVMT1lwMDdoQ1lNQV9SWklWTUtzbTVCYzdQWEV4NUZIWkpiRWYyMmZHS0RPMXNxcnYwQXJLSVFIUUhIZmVic3FCUGRzcXZCclkzZEVua2lPX3V3ODltRjJwdGk2cVlzSGRROHNPUVhlaDBfR1BkbG9qdDdYZUow0gGjAUFVX3lxTE5KS2kxVWotdWJuRkhPYUVsb01DZl9rQkRWSTkyVEcwMUpvNnN5VUxPWXAwN2hDWU1BX1JaSVZNS3NtNUJjN1BYRXg1RkhaSmJFZjIyZkdLRE8xc3FydjBBcktJUUhRSEhmZWJzcUJQZHNxdkJyWTNkRW5raU9fdXc4OW1GMnB0aTZxWXNIZFE4c09RWGVoMF9HUGRsb2p0N1hlSjA?oc=5",
+        "publication_date": "Mon, 18 Nov 2024 10:28:25 GMT",
+        "source": "CIOL",
+        "source_url": "https://www.ciol.com",
+        "guid": "CBMiowFBVV95cUxOSktpMVVqLXVibkZIT2FFbG9NQ2Zfa0JEVkk5MlRHMDFKbzZzeVVMT1lwMDdoQ1lNQV9SWklWTUtzbTVCYzdQWEV4NUZIWkpiRWYyMmZHS0RPMXNxcnYwQXJLSVFIUUhIZmVic3FCUGRzcXZCclkzZEVua2lPX3V3ODltRjJwdGk2cVlzSGRROHNPUVhlaDBfR1BkbG9qdDdYZUow0gGjAUFVX3lxTE5KS2kxVWotdWJuRkhPYUVsb01DZl9rQkRWSTkyVEcwMUpvNnN5VUxPWXAwN2hDWU1BX1JaSVZNS3NtNUJjN1BYRXg1RkhaSmJFZjIyZkdLRE8xc3FydjBBcktJUUhRSEhmZWJzcUJQZHNxdkJyWTNkRW5raU9fdXc4OW1GMnB0aTZxWXNIZFE4c09RWGVoMF9HUGRsb2p0N1hlSjA"
+    },
+    {
+        "title": "ChatGPT Plus plan price may hike by Rs 162 by end of the year - India Today",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdl8yVzdGZUlPV0hkSlVPSmtzOFp1OTliZ1BYNGhlMF9IYlF5dElpY3BlbGJZSk9XLTBJa2dmdS1GazE4NlFJTlJZbDNta1QwdWV5dm1Ta25fQkRnVmVfckl3R3dMYXQ0SXJ1UDdkQ1VwQjc4eFpGMUkzWXFEdHN1ay0yUXk1ZUFtX0ladTgzQ29TeU1QMDVLaUNwSl95VzJjSFRtZElRSUU0X2JLaHZOUTBKMENNRzdLSGxNcU9XRG80alljOGlv0gHMAUFVX3lxTE5NUnNXT0N0MHhxUFVydzJsTjhWREFvcWdjeUp5aUlNZkl1d28wVk1DdFNlc3U3cXZzUGNCc2w5NmREUGhRYVVJMVJMR1hCdUZfdVVuclgzVHdMTHVqeGE4OFdFRENNOUFHaXpyaThNZHFiVUpkcVYwalgzaUNUQ0ZvdE9QNENOX0hLYWo1Z3p5czZld2FaNFpJNWNUVFVHck5pLWlJTFhXZEQyTFRpajlaYkhRSFlGMHU1ajc0ZTR0MzJxRldqQ00zN2w4ZQ?oc=5",
+        "publication_date": "Tue, 01 Oct 2024 07:00:00 GMT",
+        "source": "India Today",
+        "source_url": "https://www.indiatoday.in",
+        "guid": "CBMixwFBVV95cUxQdl8yVzdGZUlPV0hkSlVPSmtzOFp1OTliZ1BYNGhlMF9IYlF5dElpY3BlbGJZSk9XLTBJa2dmdS1GazE4NlFJTlJZbDNta1QwdWV5dm1Ta25fQkRnVmVfckl3R3dMYXQ0SXJ1UDdkQ1VwQjc4eFpGMUkzWXFEdHN1ay0yUXk1ZUFtX0ladTgzQ29TeU1QMDVLaUNwSl95VzJjSFRtZElRSUU0X2JLaHZOUTBKMENNRzdLSGxNcU9XRG80alljOGlv0gHMAUFVX3lxTE5NUnNXT0N0MHhxUFVydzJsTjhWREFvcWdjeUp5aUlNZkl1d28wVk1DdFNlc3U3cXZzUGNCc2w5NmREUGhRYVVJMVJMR1hCdUZfdVVuclgzVHdMTHVqeGE4OFdFRENNOUFHaXpyaThNZHFiVUpkcVYwalgzaUNUQ0ZvdE9QNENOX0hLYWo1Z3p5czZld2FaNFpJNWNUVFVHck5pLWlJTFhXZEQyTFRpajlaYkhRSFlGMHU1ajc0ZTR0MzJxRldqQ00zN2w4ZQ"
+    },
+    {
+        "title": "OpenAI is charging $200 a month for an exclusive version of its o1 ‘reasoning’ model - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3VNb2dmZEhWSUxncU02UnEtNTlfREZCR092clVxR0VSMUF2cFdNMEk5VGJvYmJOTzB6bnpFNkhKMC1qRXQxY2JjcVlIbHBGckZUaUUwMVFEay1mX1I0WnV3MGZROHZpN3lQbzNjRGlTTldSV2NjRzA1dGkwQzd0dmNNempzdVEtZVdLblN1MUQ2dXY5QWJRaDZkbi1LQXl6RUFv?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 18:00:04 GMT",
+        "source": "The Verge",
+        "source_url": "https://www.theverge.com",
+        "guid": "CBMiowFBVV95cUxQR3VNb2dmZEhWSUxncU02UnEtNTlfREZCR092clVxR0VSMUF2cFdNMEk5VGJvYmJOTzB6bnpFNkhKMC1qRXQxY2JjcVlIbHBGckZUaUUwMVFEay1mX1I0WnV3MGZROHZpN3lQbzNjRGlTTldSV2NjRzA1dGkwQzd0dmNNempzdVEtZVdLblN1MUQ2dXY5QWJRaDZkbi1LQXl6RUFv"
+    },
+    {
+        "title": "What is ChatGPT Plus? Here’s what to know before you subscribe - Digital Trends",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xLU15ZnFYcW5uaFk4SHlydGQxX1RJanNfZDZIUkxzelZZVXQ2NEwyODJQUGRGMEtvSUwzRXVMT1FDVm9kRF94RGVlaWhnVVozSTdSZjhBWjM1cm4xM00zUEYyQTdtc2FyUlJ1WkR3?oc=5",
+        "publication_date": "Mon, 26 Aug 2024 07:00:00 GMT",
+        "source": "Digital Trends",
+        "source_url": "https://www.digitaltrends.com",
+        "guid": "CBMibkFVX3lxTE8xLU15ZnFYcW5uaFk4SHlydGQxX1RJanNfZDZIUkxzelZZVXQ2NEwyODJQUGRGMEtvSUwzRXVMT1FDVm9kRF94RGVlaWhnVVozSTdSZjhBWjM1cm4xM00zUEYyQTdtc2FyUlJ1WkR3"
+    },
+    {
+        "title": "ChatGPT Cheat Sheet: A Complete Guide for 2024 - TechRepublic",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84RGlmbFZIU0FSeFliZnhHbFVtbHVYME1yQWVaejc2YnkxRkxXaldPTkVpQVZXN2kzblJrQ3JSRmZMcmZQdzZ2MFRZejM0dGJ5VmxjeElxLWdFMGZlakJ1UVBTM2xMYkl1?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 08:00:00 GMT",
+        "source": "TechRepublic",
+        "source_url": "https://www.techrepublic.com",
+        "guid": "CBMiaEFVX3lxTE84RGlmbFZIU0FSeFliZnhHbFVtbHVYME1yQWVaejc2YnkxRkxXaldPTkVpQVZXN2kzblJrQ3JSRmZMcmZQdzZ2MFRZejM0dGJ5VmxjeElxLWdFMGZlakJ1UVBTM2xMYkl1"
+    },
+    {
+        "title": "ChatGPT Plus Subscription Fee Set to Increase: What You Need to Know - CIOL",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkJjZndmeGo0amtoTHpHcnRGenlxM0V0TGxNUDlUUW1xclFPZGtKZGRXcWdscXlSbjNJRHlkTldlS0w2ajRWV0xnVWJ2RVprTzZNZFV6N1lpUF9QLXJyanduaGcwZEFBcnhTQUlUWDZ0TGR4cFpva0lKTjdLWjQ4M05jWkxnSno0Yk9odlFlTXVwbEpDcWZ2MHBjVFRFMW5SU3VZb211S3JyUdIBqgFBVV95cUxNbkJjZndmeGo0amtoTHpHcnRGenlxM0V0TGxNUDlUUW1xclFPZGtKZGRXcWdscXlSbjNJRHlkTldlS0w2ajRWV0xnVWJ2RVprTzZNZFV6N1lpUF9QLXJyanduaGcwZEFBcnhTQUlUWDZ0TGR4cFpva0lKTjdLWjQ4M05jWkxnSno0Yk9odlFlTXVwbEpDcWZ2MHBjVFRFMW5SU3VZb211S3JyUQ?oc=5",
+        "publication_date": "Thu, 03 Oct 2024 07:00:00 GMT",
+        "source": "CIOL",
+        "source_url": "https://www.ciol.com",
+        "guid": "CBMiqgFBVV95cUxNbkJjZndmeGo0amtoTHpHcnRGenlxM0V0TGxNUDlUUW1xclFPZGtKZGRXcWdscXlSbjNJRHlkTldlS0w2ajRWV0xnVWJ2RVprTzZNZFV6N1lpUF9QLXJyanduaGcwZEFBcnhTQUlUWDZ0TGR4cFpva0lKTjdLWjQ4M05jWkxnSno0Yk9odlFlTXVwbEpDcWZ2MHBjVFRFMW5SU3VZb211S3JyUdIBqgFBVV95cUxNbkJjZndmeGo0amtoTHpHcnRGenlxM0V0TGxNUDlUUW1xclFPZGtKZGRXcWdscXlSbjNJRHlkTldlS0w2ajRWV0xnVWJ2RVprTzZNZFV6N1lpUF9QLXJyanduaGcwZEFBcnhTQUlUWDZ0TGR4cFpva0lKTjdLWjQ4M05jWkxnSno0Yk9odlFlTXVwbEpDcWZ2MHBjVFRFMW5SU3VZb211S3JyUQ"
+    },
+    {
+        "title": "OpenAI eyes revenue surge with planned $2 increase for ChatGPT Plus subscription: Report | Mint - Mint",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdEtSQ0h4akdTVTh6Rk9jb2NsTWRCdFFTdTVOQTBNZXhjRHpVdnFFRUJwMjc3ZjQtYlQtMlNHR1l1RV91NUcyVzh1MTNydzlOZXZNYkphcWJIcHJVallhM3Z3SkpxeXhjT2liS3k2QnY0MVFzMXZUWE1Uc29GSVhVRUNDUS0wQmVJSEktam45N0hjNC13X2NZOFlsT201NWdxZUszT2J3ek1WdldXRlgtTDdQR1NsS3oxSTNYSUZHTG9sQ09HSC1rOUo5TmdaZFBPa0xGMDV3M0FYQdIB3wFBVV95cUxQS1lGdTBrbUEwRm16eEhHaEZfV1hhenBUSVR1SHAybkxEUWNNdFNpQ0stOUxCX0xoWVB3Yk92dGZadjNsTVJUdFB5Y1RZY2JJdW9nNEprTWxTUVRFUlA4S050RmVzc2J5UjZZamxHcnhLMGFXbUh1OURzRldjeE1XRk5mMEpBZDR0RGpCTkdOcHFma2dPYUhQVmprU3hrSFNWRlpfN0Z4YWRUSktSZG5QNHUyLUVmbEdoUVdEcU5nOWw5TTBlWnF6WGM2bElJUVYxSFZKUGkyaTcxdHJaX09r?oc=5",
+        "publication_date": "Mon, 30 Sep 2024 07:00:00 GMT",
+        "source": "Mint",
+        "source_url": "https://www.livemint.com",
+        "guid": "CBMi2gFBVV95cUxQdEtSQ0h4akdTVTh6Rk9jb2NsTWRCdFFTdTVOQTBNZXhjRHpVdnFFRUJwMjc3ZjQtYlQtMlNHR1l1RV91NUcyVzh1MTNydzlOZXZNYkphcWJIcHJVallhM3Z3SkpxeXhjT2liS3k2QnY0MVFzMXZUWE1Uc29GSVhVRUNDUS0wQmVJSEktam45N0hjNC13X2NZOFlsT201NWdxZUszT2J3ek1WdldXRlgtTDdQR1NsS3oxSTNYSUZHTG9sQ09HSC1rOUo5TmdaZFBPa0xGMDV3M0FYQdIB3wFBVV95cUxQS1lGdTBrbUEwRm16eEhHaEZfV1hhenBUSVR1SHAybkxEUWNNdFNpQ0stOUxCX0xoWVB3Yk92dGZadjNsTVJUdFB5Y1RZY2JJdW9nNEprTWxTUVRFUlA4S050RmVzc2J5UjZZamxHcnhLMGFXbUh1OURzRldjeE1XRk5mMEpBZDR0RGpCTkdOcHFma2dPYUhQVmprU3hrSFNWRlpfN0Z4YWRUSktSZG5QNHUyLUVmbEdoUVdEcU5nOWw5TTBlWnF6WGM2bElJUVYxSFZKUGkyaTcxdHJaX09r"
+    },
+    {
+        "title": "OpenAI unveils a $200 ChatGPT Pro plan - Techloy",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKbDhMVU1PS1hHbWFzRXh4Wl9FcUw0aHJ6MGs3TWw4TXoyY0ktVjg2eDlETi1nZDZ0cmxiMVJNZmFDQ0k5X05aR19LQXBlcVVualYzWmhtV0Z1Rl9JU2N2TnNDekxYMDRUa05NSExSY9IBdEFVX3lxTFBmSnRoWVNlb01pbXFsMk9BZDFKTm44T1EzbE94eHplVFVIZDk5X1l0bUN5N0kwNzNCdTZaamZHaDFLWVZXWkNUaGRmbnBabHFrS19OT0Y3a215Tlh3TmtmbW54VXJqVmJBY3JGVjV1SHBTV1lE?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 14:57:24 GMT",
+        "source": "Techloy",
+        "source_url": "https://www.techloy.com",
+        "guid": "CBMib0FVX3lxTFBKbDhMVU1PS1hHbWFzRXh4Wl9FcUw0aHJ6MGs3TWw4TXoyY0ktVjg2eDlETi1nZDZ0cmxiMVJNZmFDQ0k5X05aR19LQXBlcVVualYzWmhtV0Z1Rl9JU2N2TnNDekxYMDRUa05NSExSY9IBdEFVX3lxTFBmSnRoWVNlb01pbXFsMk9BZDFKTm44T1EzbE94eHplVFVIZDk5X1l0bUN5N0kwNzNCdTZaamZHaDFLWVZXWkNUaGRmbnBabHFrS19OT0Y3a215Tlh3TmtmbW54VXJqVmJBY3JGVjV1SHBTV1lE"
+    },
+    {
+        "title": "Apple integrates ChatGPT Plus subscription option in iOS 18.2 beta; here’s how iPhone users can benefit - Business Today",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeHBReWZ3ODJMR2tQNndYYUFuT0Y1eUNreGFmb3lRM1V6SkgzcGxPRWdWRjhDOFU3MHdxM0hrQ09tbEktUFJ4R3l1bFIxYVNuY0g0WE1rRFg2TV9NOEs5aVJTMlR5NmV1bnlWMlp2cmRMYjJTTnZtTURWb1ZrTHhzTFFPamVadTMtY2prZ1d5QWVoZ1YxNjM5dFdORV9WQ0R0T3k2Tk4xamtDREZFbndGWVJEUkxTX3ZOZHpSOXZlTlltUlpHMFUxZkg1MmhzNVpuaWVNOVBhVzlyMFpVelRmdFlQQ0JGVXR4dW90RmZPOGJ0c0JrajlsdTc1WEdiZw?oc=5",
+        "publication_date": "Tue, 05 Nov 2024 08:00:00 GMT",
+        "source": "Business Today",
+        "source_url": "https://www.businesstoday.in",
+        "guid": "CBMi_gFBVV95cUxOeHBReWZ3ODJMR2tQNndYYUFuT0Y1eUNreGFmb3lRM1V6SkgzcGxPRWdWRjhDOFU3MHdxM0hrQ09tbEktUFJ4R3l1bFIxYVNuY0g0WE1rRFg2TV9NOEs5aVJTMlR5NmV1bnlWMlp2cmRMYjJTTnZtTURWb1ZrTHhzTFFPamVadTMtY2prZ1d5QWVoZ1YxNjM5dFdORV9WQ0R0T3k2Tk4xamtDREZFbndGWVJEUkxTX3ZOZHpSOXZlTlltUlpHMFUxZkg1MmhzNVpuaWVNOVBhVzlyMFpVelRmdFlQQ0JGVXR4dW90RmZPOGJ0c0JrajlsdTc1WEdiZw"
+    },
+    {
+        "title": "Apple Users Can Get ChatGPT Plus Upgrade Via iOS 18.2 Beta: Here's How - ABP Live",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3E5dU1mX2hLNU9LcDJYYW9yam1tYjZGRHFCVldtS2EzQVZCVGxlOFB2RFpDZVFLQ05UN2VzSmMtTHZhbUVOX3p3TWxwalBGZk54R0x2OVB0ZnhYSi1rWkdhUnlSSUZKdy1ZZHBqejRCUkFuZUJUbDJXREJPOUxzSjVPRTE2X0szNEJpenNqSEVpOTFGMzhkbk1BaDVWVGdhcUNHUUNxS2trenVpNjRMLVdfb9IBuAFBVV95cUxOUlpDaHYxYjRPR0JqdFJ1QklYVUxFX3J2V2ExVGhVUFJTYXEyUGJBVHJhbTlnYlNYNExrbjNiYzJQZjRLLWxwc2VHM2hla1NJNUNKMTQ1MVVlbGh6OGlJQUl0ZlFHU3Zxa1pXOEdQWVM3cnBnTmVjMlV2cVR4dDZsZXE4dU96ZmRNUDAtNHBtQXhVSlRaOTkzMDdPRldLUXRSR01oQnpmSmdHYlJJeVlkVjduMnAyWmNp?oc=5",
+        "publication_date": "Thu, 07 Nov 2024 08:00:00 GMT",
+        "source": "ABP Live",
+        "source_url": "https://news.abplive.com",
+        "guid": "CBMiswFBVV95cUxQV3E5dU1mX2hLNU9LcDJYYW9yam1tYjZGRHFCVldtS2EzQVZCVGxlOFB2RFpDZVFLQ05UN2VzSmMtTHZhbUVOX3p3TWxwalBGZk54R0x2OVB0ZnhYSi1rWkdhUnlSSUZKdy1ZZHBqejRCUkFuZUJUbDJXREJPOUxzSjVPRTE2X0szNEJpenNqSEVpOTFGMzhkbk1BaDVWVGdhcUNHUUNxS2trenVpNjRMLVdfb9IBuAFBVV95cUxOUlpDaHYxYjRPR0JqdFJ1QklYVUxFX3J2V2ExVGhVUFJTYXEyUGJBVHJhbTlnYlNYNExrbjNiYzJQZjRLLWxwc2VHM2hla1NJNUNKMTQ1MVVlbGh6OGlJQUl0ZlFHU3Zxa1pXOEdQWVM3cnBnTmVjMlV2cVR4dDZsZXE4dU96ZmRNUDAtNHBtQXhVSlRaOTkzMDdPRldLUXRSR01oQnpmSmdHYlJJeVlkVjduMnAyWmNp"
+    },
+    {
+        "title": "OpenAI Introduces ChatGPT Pro: Unlimited Access to o1 Model at $200/Month - Udaipur Kiran",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY1BER0x2QkJPZzY3NG16RTFhbkVSaWdmU3JOZGpNdHZuUkNlM3VLUndBSGM4QzVzZkJETWpId0FqSGU0UzEzdFMtUkNfQS1aZ0VJcGNxRTA1ZHJTMEc0Vm95TVVjZVFMS3R5ejdVbHdMOVR3ZnlQZ2gya2tSampMY2I0cXJSZnR2Q1poRmxFNFJyWEVfZnltZVFQemI?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 10:01:29 GMT",
+        "source": "Udaipur Kiran",
+        "source_url": "https://udaipurkiran.in",
+        "guid": "CBMinAFBVV95cUxPY1BER0x2QkJPZzY3NG16RTFhbkVSaWdmU3JOZGpNdHZuUkNlM3VLUndBSGM4QzVzZkJETWpId0FqSGU0UzEzdFMtUkNfQS1aZ0VJcGNxRTA1ZHJTMEc0Vm95TVVjZVFMS3R5ejdVbHdMOVR3ZnlQZ2gya2tSampMY2I0cXJSZnR2Q1poRmxFNFJyWEVfZnltZVFQemI"
+    },
+    {
+        "title": "OpenAI confirms new $200 monthly subscription, ChatGPT Pro, which includes its o1 reasoning model - TechCrunch",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHJlZzd3RW44UkFpSFlsbV81cEU4dWZWU01yc2ZhZmRrVmt0NzdlZkVuSWc3clBZUWVmQzRIVWZzQ2xreFJMMGcycnlTMGRuSngxX0hzMkpDX2RmQnVYSlZWVTBJVFFWbUZ6NmdOMzJtcWNmQm02cmRBc0JGa3FlUC1DTFl3ZFNoVmhCbTlWVm1HQWppeDgyYWJTODZHZEVDTXlfX2FNT3J3V1RMdWkzeEhTbFlqQ2JjSVpMaQ?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 18:00:00 GMT",
+        "source": "TechCrunch",
+        "source_url": "https://techcrunch.com",
+        "guid": "CBMivAFBVV95cUxPVHJlZzd3RW44UkFpSFlsbV81cEU4dWZWU01yc2ZhZmRrVmt0NzdlZkVuSWc3clBZUWVmQzRIVWZzQ2xreFJMMGcycnlTMGRuSngxX0hzMkpDX2RmQnVYSlZWVTBJVFFWbUZ6NmdOMzJtcWNmQm02cmRBc0JGa3FlUC1DTFl3ZFNoVmhCbTlWVm1HQWppeDgyYWJTODZHZEVDTXlfX2FNT3J3V1RMdWkzeEhTbFlqQ2JjSVpMaQ"
+    },
+    {
+        "title": "OpenAI introduces ChatGPT Pro for industry use - Dig Watch Updates",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1UlRYRVBKcFFFOXZwVDZTbFdQdzZjbGVNVXgzdFZ0bDhVNEkyVVNyR3djLUlpdXE2UmdEczNlTE50YVNPX2FvQkN4VEJ4N0VHRUhPb2lZZnN5Y1prOVdtOG9nb2ZuZTJPNlQ5YWxNcWRiUWVvR2xZTElIRmc?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 12:18:34 GMT",
+        "source": "Dig Watch Updates",
+        "source_url": "https://dig.watch",
+        "guid": "CBMifEFVX3lxTFB1UlRYRVBKcFFFOXZwVDZTbFdQdzZjbGVNVXgzdFZ0bDhVNEkyVVNyR3djLUlpdXE2UmdEczNlTE50YVNPX2FvQkN4VEJ4N0VHRUhPb2lZZnN5Y1prOVdtOG9nb2ZuZTJPNlQ5YWxNcWRiUWVvR2xZTElIRmc"
+    },
+    {
+        "title": "iPhone users may have to shell out Rs 2,000 a month to enjoy best Apple Intelligence - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLTgwc0ktMTB6bmJ6eXlUQ19IX0tRSTRfYWFfQzlOb0lFeHdaUkdfS1RsZzBndktFSDI1d2dmRFowRDNSN3hGcWxXSDNyR1ZWcHY0TzRMc3RfM3dHZzl1QTJIVlhZWU9xLTFHc2JNci0xU3ZaYzVVdDhCN3dkWHJLd2ZVejdrQS10RUM3a0RSRndSR2hibUJkWWtGR0NyUUxPVnIyVGRYa0NUTkhES3pUSDJWQmVLbEdI0gG_AUFVX3lxTE9zY253YXp3WkV3aGFQVzM3Ym1DZl93ZUxzV25tcFlYZWxPblIxWXBPMDJhNEdMb3Z4bEtsbUJiNnZZQTRSZ0l5T1Q4V0EyNlVYaUx6dFhnTGV0UGJXMng3V1VVSmFkNGdjcnFfNVl6ZzFsMWRIdGh3WUpRcnA1RGJQWjFDN0lWYWNzYWlzcjNSaFY3OXExNTZ3ZXc0VXFlTkVneDdUS09temdjLWtydFczeHdBQVpXRnp5Tkp2Uko0?oc=5",
+        "publication_date": "Thu, 07 Nov 2024 08:00:00 GMT",
+        "source": "The Indian Express",
+        "source_url": "https://indianexpress.com",
+        "guid": "CBMiuAFBVV95cUxPLTgwc0ktMTB6bmJ6eXlUQ19IX0tRSTRfYWFfQzlOb0lFeHdaUkdfS1RsZzBndktFSDI1d2dmRFowRDNSN3hGcWxXSDNyR1ZWcHY0TzRMc3RfM3dHZzl1QTJIVlhZWU9xLTFHc2JNci0xU3ZaYzVVdDhCN3dkWHJLd2ZVejdrQS10RUM3a0RSRndSR2hibUJkWWtGR0NyUUxPVnIyVGRYa0NUTkhES3pUSDJWQmVLbEdI0gG_AUFVX3lxTE9zY253YXp3WkV3aGFQVzM3Ym1DZl93ZUxzV25tcFlYZWxPblIxWXBPMDJhNEdMb3Z4bEtsbUJiNnZZQTRSZ0l5T1Q4V0EyNlVYaUx6dFhnTGV0UGJXMng3V1VVSmFkNGdjcnFfNVl6ZzFsMWRIdGh3WUpRcnA1RGJQWjFDN0lWYWNzYWlzcjNSaFY3OXExNTZ3ZXc0VXFlTkVneDdUS09temdjLWtydFczeHdBQVpXRnp5Tkp2Uko0"
+    },
+    {
+        "title": "ChatGPT vs. ChatGPT Plus: Is a paid subscription still worth it? - ZDNet",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNel9aeDVicUZ4UEdJc2VRbUQxejJiUTZyQUFXSjVyTzdvM1NoakVYVVhTNmtRZ203Y1MwMXh4RVRhZkk0UzBKckNxbU5qQTl6QlJtRzN0Y2tLNGxGN0k0TWFHNWJWd21meWJkMlJOUThjWGRjTllnQmtGUnlHY0NkRFBISVNGZ3JkUFNYRklaN0pVMUpSOW8w?oc=5",
+        "publication_date": "Tue, 19 Nov 2024 08:00:00 GMT",
+        "source": "ZDNet",
+        "source_url": "https://www.zdnet.com",
+        "guid": "CBMilwFBVV95cUxNel9aeDVicUZ4UEdJc2VRbUQxejJiUTZyQUFXSjVyTzdvM1NoakVYVVhTNmtRZ203Y1MwMXh4RVRhZkk0UzBKckNxbU5qQTl6QlJtRzN0Y2tLNGxGN0k0TWFHNWJWd21meWJkMlJOUThjWGRjTllnQmtGUnlHY0NkRFBISVNGZ3JkUFNYRklaN0pVMUpSOW8w"
+    },
+    {
+        "title": "Introducing canvas, a new way to write and code with ChatGPT. - OpenAI",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uOHZ6NlJ1QVJhTDJGQXo1dlJVY3ROaEQ4MXpsRWt6blR0UjNGb3hJT3hJdFM2VHQ2dUZjaHViMzhlMmZSdkJQT2oweWtSNEZxQXVQcGY0Zw?oc=5",
+        "publication_date": "Thu, 03 Oct 2024 07:00:00 GMT",
+        "source": "OpenAI",
+        "source_url": "https://openai.com",
+        "guid": "CBMiV0FVX3lxTE5uOHZ6NlJ1QVJhTDJGQXo1dlJVY3ROaEQ4MXpsRWt6blR0UjNGb3hJT3hJdFM2VHQ2dUZjaHViMzhlMmZSdkJQT2oweWtSNEZxQXVQcGY0Zw"
+    },
+    {
+        "title": "ChatGPT Plus Price Hike Ahead: How Much Will It Really Cost You In India? - Times Now",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOVR0N0VUOTVfVjE2Q3M5SHdaeUFMZVVTWEMxY25oSGlDWUNFTFo5QnN1YnlXbHFXN19rZkJjU2R0YmVCYlVHcE0xMmF1dm1wLUV1SUtLZ0FBTU1aS1pfR3hUV0RhZEZoRlZnN05LeUxWQ01OU3hfUXk2MkU2NUtQaXYwc0dpUHpxTlYzcWlWZ0R1ZXlkVTNBQmNaVWo0cXBQRWhwc0Exa3U1UDUyeXdSdkJRc21mbnJ6SXBOQ0JvcjVQVUI2MHRwN3BNNDFKQ1IxMGx3?oc=5",
+        "publication_date": "Tue, 01 Oct 2024 07:00:00 GMT",
+        "source": "Times Now",
+        "source_url": "https://www.timesnownews.com",
+        "guid": "CBMi0wFBVV95cUxNOVR0N0VUOTVfVjE2Q3M5SHdaeUFMZVVTWEMxY25oSGlDWUNFTFo5QnN1YnlXbHFXN19rZkJjU2R0YmVCYlVHcE0xMmF1dm1wLUV1SUtLZ0FBTU1aS1pfR3hUV0RhZEZoRlZnN05LeUxWQ01OU3hfUXk2MkU2NUtQaXYwc0dpUHpxTlYzcWlWZ0R1ZXlkVTNBQmNaVWo0cXBQRWhwc0Exa3U1UDUyeXdSdkJRc21mbnJ6SXBOQ0JvcjVQVUI2MHRwN3BNNDFKQ1IxMGx3"
+    },
+    {
+        "title": "Introducing GPT-4o and more tools to ChatGPT free users - OpenAI",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2c0xhM3JUcDV5STZNaFBLYm1JMFluY0owT1NFYjZQVC1lQWVHYlNmUXNxdGxEQWttXzJGZmwtbmpRYkUwVWpOTHFfVi1GcjctNTRWTDFMdnJYa2pqNlpwTjVYZml1a3JQRlZ1TWlzYTU?oc=5",
+        "publication_date": "Mon, 13 May 2024 07:00:00 GMT",
+        "source": "OpenAI",
+        "source_url": "https://openai.com",
+        "guid": "CBMicEFVX3lxTFB2c0xhM3JUcDV5STZNaFBLYm1JMFluY0owT1NFYjZQVC1lQWVHYlNmUXNxdGxEQWttXzJGZmwtbmpRYkUwVWpOTHFfVi1GcjctNTRWTDFMdnJYa2pqNlpwTjVYZml1a3JQRlZ1TWlzYTU"
+    },
+    {
+        "title": "OpenAI may be planning a ChatGPT Pro plan for $200 per month - TechCrunch",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGVYcENKWXU2WDhycFdFX25LTElrdjBOVGNpVDlPVktWNkJlOWJTSl9yVXM0ZVROOWlQd1NtS2RkdmJxSTZZNVdyR0ZndlI5R1FETUlpek5SWjgwRTMwbXFteTl1Q2p0NUhBTUhTZjBFWTVUeEhaT1NGd3Zpa3lHdkVXT1g0bjZTN2Jnb3RsT0NJUkdRMkZkM3V3?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 16:38:04 GMT",
+        "source": "TechCrunch",
+        "source_url": "https://techcrunch.com",
+        "guid": "CBMimgFBVV95cUxQTGVYcENKWXU2WDhycFdFX25LTElrdjBOVGNpVDlPVktWNkJlOWJTSl9yVXM0ZVROOWlQd1NtS2RkdmJxSTZZNVdyR0ZndlI5R1FETUlpek5SWjgwRTMwbXFteTl1Q2p0NUhBTUhTZjBFWTVUeEhaT1NGd3Zpa3lHdkVXT1g0bjZTN2Jnb3RsT0NJUkdRMkZkM3V3"
+    },
+    {
+        "title": "ChatGPT Plus Subscription Price Set to Increase: Details - The Hans India",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2QzQms1bktpTkFvVWtFT2NjRDRjU2hpNFpaODRNQTI3dFFPTGt6MnhIQURQLURMOFdYazVjWXJDVWJfc19XLW9rTC1XdFpFcFRPWWdiTkQ2UjNaay1fT1dsbGk2aTVZTXNKZUpuLUdSLURCc01oNXF1WV9iZkUwU19BVzFRSEhrTEgwd2NTRUZWemtrWEFBZU1IT21fck13UlM4ZjlqWkhBbDJxdUZzQlRB0gG3AUFVX3lxTE1GLU11bTJfVTFBWnFIUmZuSFZQQThkSkRMU1YwbklVeGRKTmtKQUdtVkRuVnFlazlycDFEQ1AzbzRKSVFCTmhFNi1HakJGSzFRZjV4bWNvUXQwSFlsakZTOV9XVlBsV29DMVc2MDBLcGZuWnR4SmhHSlVTcC1ZYjc2b1ZTYXJDZmwzaVlJeHZNVmwxS0p1ZHlZV0l0UUsyNTFtT1Utc2hEd0tRR2dPVWQ4TVZXRmdrbw?oc=5",
+        "publication_date": "Tue, 01 Oct 2024 07:00:00 GMT",
+        "source": "The Hans India",
+        "source_url": "https://www.thehansindia.com",
+        "guid": "CBMisgFBVV95cUxOS2QzQms1bktpTkFvVWtFT2NjRDRjU2hpNFpaODRNQTI3dFFPTGt6MnhIQURQLURMOFdYazVjWXJDVWJfc19XLW9rTC1XdFpFcFRPWWdiTkQ2UjNaay1fT1dsbGk2aTVZTXNKZUpuLUdSLURCc01oNXF1WV9iZkUwU19BVzFRSEhrTEgwd2NTRUZWemtrWEFBZU1IT21fck13UlM4ZjlqWkhBbDJxdUZzQlRB0gG3AUFVX3lxTE1GLU11bTJfVTFBWnFIUmZuSFZQQThkSkRMU1YwbklVeGRKTmtKQUdtVkRuVnFlazlycDFEQ1AzbzRKSVFCTmhFNi1HakJGSzFRZjV4bWNvUXQwSFlsakZTOV9XVlBsV29DMVc2MDBLcGZuWnR4SmhHSlVTcC1ZYjc2b1ZTYXJDZmwzaVlJeHZNVmwxS0p1ZHlZV0l0UUsyNTFtT1Utc2hEd0tRR2dPVWQ4TVZXRmdrbw"
+    },
+    {
+        "title": "Introducing OpenAI o1-preview - OpenAI",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZTZIanJRQnF3TWhzTDNOQjBPNGpnX096NTZnZDYyV3Frc09Sdl9GbG1aMk1hN3FhX2VPcm9oZFZMbkl0Y1B3U1poeExYanY1WmR2RTRjQ25EeFVPWERlZkdsdlE4dw?oc=5",
+        "publication_date": "Thu, 12 Sep 2024 07:00:00 GMT",
+        "source": "OpenAI",
+        "source_url": "https://openai.com",
+        "guid": "CBMiZkFVX3lxTE9kZTZIanJRQnF3TWhzTDNOQjBPNGpnX096NTZnZDYyV3Frc09Sdl9GbG1aMk1hN3FhX2VPcm9oZFZMbkl0Y1B3U1poeExYanY1WmR2RTRjQ25EeFVPWERlZkdsdlE4dw"
+    },
+    {
+        "title": "OpenAI Wants You to Spend $200/Month On ChatGPT's New Tier - How-To Geek",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40QTU5bG52UTNtUExGdGZ5Uml3Ym04c1AxVmxHeGgxRkZ4WHJ1QUxtSkl0UGEtNVlrbUhoNlRPVGJaS1NIVm1NT2I0TEU2VHFWX2dPLTVCYVQ5RExwZTRtMQ?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 20:04:00 GMT",
+        "source": "How-To Geek",
+        "source_url": "https://www.howtogeek.com",
+        "guid": "CBMiYEFVX3lxTE40QTU5bG52UTNtUExGdGZ5Uml3Ym04c1AxVmxHeGgxRkZ4WHJ1QUxtSkl0UGEtNVlrbUhoNlRPVGJaS1NIVm1NT2I0TEU2VHFWX2dPLTVCYVQ5RExwZTRtMQ"
+    },
+    {
+        "title": "ChatGPT Pro at sky-soaring $200 announced! What’s new? - News9 LIVE",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWtGUXE5bkx2VVJQNEpySmp0NDNSZHRzNkRSMU94UG9haDhNU3YtemJqR0JmRzJmUnRWSWhEZ01RTTBLbWRXdkRYSEdhZjhaQXBJRFhJMnl2U0ttdDljRk9EaHdad2RERGE1MG9oR0JkTlp0dGxaazQ4MXhNUzZvYmdNaU53bzBHYzYzaG5HTktQc3FNLVB2b21INmM0VFg5R0x5NjVTcEzSAa4BQVVfeXFMT3ZtX2FIR0lGS1lYVlBDSG1DbWdKemE3ZUtFcW4yLXBud3dlSTYwQmtUNkRHaENKMWJ3SnRPcnJQLUV1aThjX0pMWG5fRENTRUpRbkZ3b213MUJFTnlLRWFLWWthUGhXcFVES2FTcmo3WXBIX1lBQUJOYUpZR0FKMUFrdzl6bC1yTmFWallfLW9KdEtNbW50Yzd4aEE3MWhHbTRHMWxjRnVLMkhvZzl3?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 04:34:11 GMT",
+        "source": "News9 LIVE",
+        "source_url": "https://www.news9live.com",
+        "guid": "CBMiqAFBVV95cUxNZWtGUXE5bkx2VVJQNEpySmp0NDNSZHRzNkRSMU94UG9haDhNU3YtemJqR0JmRzJmUnRWSWhEZ01RTTBLbWRXdkRYSEdhZjhaQXBJRFhJMnl2U0ttdDljRk9EaHdad2RERGE1MG9oR0JkTlp0dGxaazQ4MXhNUzZvYmdNaU53bzBHYzYzaG5HTktQc3FNLVB2b21INmM0VFg5R0x5NjVTcEzSAa4BQVVfeXFMT3ZtX2FIR0lGS1lYVlBDSG1DbWdKemE3ZUtFcW4yLXBud3dlSTYwQmtUNkRHaENKMWJ3SnRPcnJQLUV1aThjX0pMWG5fRENTRUpRbkZ3b213MUJFTnlLRWFLWWthUGhXcFVES2FTcmo3WXBIX1lBQUJOYUpZR0FKMUFrdzl6bC1yTmFWallfLW9KdEtNbW50Yzd4aEE3MWhHbTRHMWxjRnVLMkhvZzl3"
+    },
+    {
+        "title": "OpenAI rolls out advanced voice mode in ChatGPT for Plus users: What is it - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGFPV3ZSeFc1cHNmemJTMlpib3ZGYV9PSW1uVWJwdDNjcjdTcXpra2NvNlBJaGlOajRuWkRFWE1NeHlHZHdrRFM2cFhjcjNEN3RzRWhiektkVFJXZVI0VDBqUXM0VGVScEVVZUVsRGJmenFveHR2QllINXZWUXBweVhFT0FjWnBMaDJBQnJLX2d3QnZrQ0drb2xFLTgwcHlCLV9zaVJBSjBvSDlMcjI3UWNUbTN1Q2laSXlHUWp2dDBmVTFxT2h2MUt3Y0tEUDB4ejJ6Q19jQVVFdW56RThsVEln0gHnAUFVX3lxTE9UMlFuWHF5R0xDQkdXd08xUXNjVlEtNENXYl9zdEItVHRZVWZic1dvRGItSG5qTU1PMkVOY0l0WVhrd3VHTlEwT3dxWHluSDNMYm5CbnlUQVJZeEFzemxsSmV2T1dqWUNiSkFjTEVBNVdwb2VJeTRoZnJ5dnJKbXNfb1JlbG5XODQtMXVya1hlUDY1VG5YazlicXozaXlrM3ZZNC1aY2ZaS2tKa3U1VFRmTUppN2xlbmFKYjNlMUhKZDRoZ1BwbUNybFhMMGt3ZEUzamJLeldaN3dNMl9pRlFRZU8tWHU3TQ?oc=5",
+        "publication_date": "Wed, 31 Jul 2024 07:00:00 GMT",
+        "source": "Business Standard",
+        "source_url": "https://www.business-standard.com",
+        "guid": "CBMi4gFBVV95cUxNWGFPV3ZSeFc1cHNmemJTMlpib3ZGYV9PSW1uVWJwdDNjcjdTcXpra2NvNlBJaGlOajRuWkRFWE1NeHlHZHdrRFM2cFhjcjNEN3RzRWhiektkVFJXZVI0VDBqUXM0VGVScEVVZUVsRGJmenFveHR2QllINXZWUXBweVhFT0FjWnBMaDJBQnJLX2d3QnZrQ0drb2xFLTgwcHlCLV9zaVJBSjBvSDlMcjI3UWNUbTN1Q2laSXlHUWp2dDBmVTFxT2h2MUt3Y0tEUDB4ejJ6Q19jQVVFdW56RThsVEln0gHnAUFVX3lxTE9UMlFuWHF5R0xDQkdXd08xUXNjVlEtNENXYl9zdEItVHRZVWZic1dvRGItSG5qTU1PMkVOY0l0WVhrd3VHTlEwT3dxWHluSDNMYm5CbnlUQVJZeEFzemxsSmV2T1dqWUNiSkFjTEVBNVdwb2VJeTRoZnJ5dnJKbXNfb1JlbG5XODQtMXVya1hlUDY1VG5YazlicXozaXlrM3ZZNC1aY2ZaS2tKa3U1VFRmTUppN2xlbmFKYjNlMUhKZDRoZ1BwbUNybFhMMGt3ZEUzamJLeldaN3dNMl9pRlFRZU8tWHU3TQ"
+    },
+    {
+        "title": "OpenAI launches $200 ChatGPT subscription for research use - The Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNl8zMFM4UFRNTlBwRF90ZkoycXMzT0t2eEhjZGxqeEhwdXRRcVkzVmJHUUF5aWVzbWtLMWZ6NWZ5OUVLMEtpRGZzdThoNExjOFFzSjY1bzdFbWJlWUZFNE1IdmcxZFZZN3dlMHcwV3ZGSGprNmM0X3FJbU1PZ0dnMmtKbTZOMkljVG1zWGF2bkVYbE5Q0gGaAUFVX3lxTE03ZUhzSVh3VU4wSE13UGRaNHZJNHBmZnlHWV9QdTNCazFORS1ONDVDNFlsTWRJV21NQVZTYjhDcjdGS2QyaDc5STdjeGN3cDdLSjljamlRYm5udlRGdUhWcmYxbG94NVp3cV9vcXRkVmdBcU5hb2VLSkhmTGR1WkJoWEVrVHdYcV9QSWs0ZjBkc240c200V0ZwaHc?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 12:05:00 GMT",
+        "source": "The Business Standard",
+        "source_url": "https://www.tbsnews.net",
+        "guid": "CBMilAFBVV95cUxNNl8zMFM4UFRNTlBwRF90ZkoycXMzT0t2eEhjZGxqeEhwdXRRcVkzVmJHUUF5aWVzbWtLMWZ6NWZ5OUVLMEtpRGZzdThoNExjOFFzSjY1bzdFbWJlWUZFNE1IdmcxZFZZN3dlMHcwV3ZGSGprNmM0X3FJbU1PZ0dnMmtKbTZOMkljVG1zWGF2bkVYbE5Q0gGaAUFVX3lxTE03ZUhzSVh3VU4wSE13UGRaNHZJNHBmZnlHWV9QdTNCazFORS1ONDVDNFlsTWRJV21NQVZTYjhDcjdGS2QyaDc5STdjeGN3cDdLSjljamlRYm5udlRGdUhWcmYxbG94NVp3cV9vcXRkVmdBcU5hb2VLSkhmTGR1WkJoWEVrVHdYcV9QSWs0ZjBkc240c200V0ZwaHc"
+    },
+    {
+        "title": "No, you don’t need to pay $200 a month for ChatGPT — here’s why - Tom's Guide",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlBfS2tPNk9uQ1JGd25zaE1mb3hYRDBudjZEZUl1aFpqaEt6MVpKT0VjSy0tR3VPanpKd24yTVptWlJQLXNaT3A4QzhqQmdQUDZkSkxFbnFSRGxNOVhDZHBzMEEwN0l0b0ZNUFd5UTBiWEZQMjlTdmk3SDZjeE51eGFLSU5xQkNPaGZ3SjdoM0JQVnRFNUtRR0Z5MV8yQQ?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 11:53:37 GMT",
+        "source": "Tom's Guide",
+        "source_url": "https://www.tomsguide.com",
+        "guid": "CBMingFBVV95cUxNRlBfS2tPNk9uQ1JGd25zaE1mb3hYRDBudjZEZUl1aFpqaEt6MVpKT0VjSy0tR3VPanpKd24yTVptWlJQLXNaT3A4QzhqQmdQUDZkSkxFbnFSRGxNOVhDZHBzMEEwN0l0b0ZNUFd5UTBiWEZQMjlTdmk3SDZjeE51eGFLSU5xQkNPaGZ3SjdoM0JQVnRFNUtRR0Z5MV8yQQ"
+    },
+    {
+        "title": "Apple Intelligence gets ChatGPT Plus upgrade with iOS 18.2 beta: 3 features the paid version gets you - Mashable",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcXZYdWhyOHdvMEtxVEhmd0pVejd5ak5hZzJMWFE3Y0lYVFBsSmlJcXFVZV84R3lrVjdWcFVSVWFDN2dFM18wVE9TRHF6MWlBc2lLVzBvUlFMb3RCVlZxMGtFanVpYVVBaWZmakRTVzRpVXJRRnk4dFI2akpUQ1lodTZWZzdBSjdMT2hKcTdKQTUtaDN5NzJGb0tVTDdzelFW?oc=5",
+        "publication_date": "Mon, 04 Nov 2024 08:00:00 GMT",
+        "source": "Mashable",
+        "source_url": "https://mashable.com",
+        "guid": "CBMioAFBVV95cUxQcXZYdWhyOHdvMEtxVEhmd0pVejd5ak5hZzJMWFE3Y0lYVFBsSmlJcXFVZV84R3lrVjdWcFVSVWFDN2dFM18wVE9TRHF6MWlBc2lLVzBvUlFMb3RCVlZxMGtFanVpYVVBaWZmakRTVzRpVXJRRnk4dFI2akpUQ1lodTZWZzdBSjdMT2hKcTdKQTUtaDN5NzJGb0tVTDdzelFW"
+    },
+    {
+        "title": "OpenAI Finally Rolls Out Advanced Voice to ChatGPT Plus and Team Users - AIM",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzRzdFozWmxlS3NxdVgzWk1aZnlteVVEemZIOFRlSUN4d282TFhIUHhSNEF4Y09YeThWZEdWZ21WN3A3ZWVnZWNtTzFwbTd4ekhMb0JPZFYtOGFpT2pGR25MQ2ZOYk1HMS1UOTNCQV9iVm9lczZiWkFtbmVzV2JSakM4M0lMM0VXSHRTUFlmRGlnQlVGZ0tDN1RPUGI5OXlRM3JLX2pJWHVNSG4xaDlsTE11QWdfQUtn?oc=5",
+        "publication_date": "Wed, 25 Sep 2024 07:00:00 GMT",
+        "source": "AIM",
+        "source_url": "https://analyticsindiamag.com",
+        "guid": "CBMiuAFBVV95cUxQZzRzdFozWmxlS3NxdVgzWk1aZnlteVVEemZIOFRlSUN4d282TFhIUHhSNEF4Y09YeThWZEdWZ21WN3A3ZWVnZWNtTzFwbTd4ekhMb0JPZFYtOGFpT2pGR25MQ2ZOYk1HMS1UOTNCQV9iVm9lczZiWkFtbmVzV2JSakM4M0lMM0VXSHRTUFlmRGlnQlVGZ0tDN1RPUGI5OXlRM3JLX2pJWHVNSG4xaDlsTE11QWdfQUtn"
+    },
+    {
+        "title": "Is OpenAI’s ChatGPT Pro a Bold Move or Next Industry Trendsetter? - Industry Leaders Magazine",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDhjUWlKNGhHNmhGMkItb3NnMW5YZC1DX3VvSDkwQnNWWVlKSk16Z1pFNDU2eXBaT2ZoZ3dZS2NTVnFxYXVOYVZxRm1QLVRhejU3UTNteGNJbVREMDVzaDhMaWtfbm05WEZfbWVCQlc4X3kxM0hicmRVbW9yS09KSzZLbEk0N29nZkFrbGc3V0h6MG51WUF0MVEyY1lVNnc0amxxVEpqdw?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 08:20:18 GMT",
+        "source": "Industry Leaders Magazine",
+        "source_url": "https://www.industryleadersmagazine.com",
+        "guid": "CBMipwFBVV95cUxQdDhjUWlKNGhHNmhGMkItb3NnMW5YZC1DX3VvSDkwQnNWWVlKSk16Z1pFNDU2eXBaT2ZoZ3dZS2NTVnFxYXVOYVZxRm1QLVRhejU3UTNteGNJbVREMDVzaDhMaWtfbm05WEZfbWVCQlc4X3kxM0hicmRVbW9yS09KSzZLbEk0N29nZkFrbGc3V0h6MG51WUF0MVEyY1lVNnc0amxxVEpqdw"
+    },
+    {
+        "title": "Sam Altman confirms ChatGPT Advanced Voice mode will be available to Plus users next week - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQml4dlR3a2haQUdGOUxZUHg2VkhLLTRfcUFldU1JMG8zRDZNU3UwanFFb0lUbUtYSXJWd2daZWtUMDBtNG5yYlV3bmhvQlcyZUk3dFljVURta3NMR0VPamtTX0xXclFlSV9nNXNEYjY4Z3lNZXhuNXZaZ01LaW0tazBvS1A5SlRjcWJPZVh5amVIMkxYdjJNTjlfUUllVDFWUUp1Wmxna3JteFQ0eVFra0lnZmEzNXFaSGlKYVRpaHRlQ1RpSlBsdWRTYzhOdzhPMWVzcURianNPVHI0SGJJSHVzbHpET1ZDbHZj0gHyAUFVX3lxTE1VVXUxSmc1U0huTGF2aDJ0RWZ0OWd5eWZCVTdHeURTRnJmTjJCX2xkNWE1cmNaVHBjVHVFMHhLMll2TTJlcG9XMDBNcTVpRlYydzlxVGZ2Tkxlamp6blJJMnRVU1I5bGxwM2hxcXl2LTVqT3pqaWd3cU5QTE1CbWU0eDRuZlJZb19tQjRpanJJWm1ZUFpGX1M2TWNaWFB2c3pYNmJHdEFfUlZydEtjMmExSlFNenNtWEJmZFdUdmFLbzF3MzJxVnllZmdQbjRQMTk2LWVNUWszME5pYVEtWnVqZGNwYzlfQUxMTkNoVllnaXR3?oc=5",
+        "publication_date": "Fri, 26 Jul 2024 07:00:00 GMT",
+        "source": "The Indian Express",
+        "source_url": "https://indianexpress.com",
+        "guid": "CBMi6wFBVV95cUxOQml4dlR3a2haQUdGOUxZUHg2VkhLLTRfcUFldU1JMG8zRDZNU3UwanFFb0lUbUtYSXJWd2daZWtUMDBtNG5yYlV3bmhvQlcyZUk3dFljVURta3NMR0VPamtTX0xXclFlSV9nNXNEYjY4Z3lNZXhuNXZaZ01LaW0tazBvS1A5SlRjcWJPZVh5amVIMkxYdjJNTjlfUUllVDFWUUp1Wmxna3JteFQ0eVFra0lnZmEzNXFaSGlKYVRpaHRlQ1RpSlBsdWRTYzhOdzhPMWVzcURianNPVHI0SGJJSHVzbHpET1ZDbHZj0gHyAUFVX3lxTE1VVXUxSmc1U0huTGF2aDJ0RWZ0OWd5eWZCVTdHeURTRnJmTjJCX2xkNWE1cmNaVHBjVHVFMHhLMll2TTJlcG9XMDBNcTVpRlYydzlxVGZ2Tkxlamp6blJJMnRVU1I5bGxwM2hxcXl2LTVqT3pqaWd3cU5QTE1CbWU0eDRuZlJZb19tQjRpanJJWm1ZUFpGX1M2TWNaWFB2c3pYNmJHdEFfUlZydEtjMmExSlFNenNtWEJmZFdUdmFLbzF3MzJxVnllZmdQbjRQMTk2LWVNUWszME5pYVEtWnVqZGNwYzlfQUxMTkNoVllnaXR3"
+    },
+    {
+        "title": "ChatGPT Plus vs. Perplexity: Which Is the Better AI Chatbot? - MUO - MakeUseOf",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IN3ZOWDE4YUtRcGhKQnFNeFhQaXFManUwN3o0VFVVLTVxdTh6ZWxvUzFEVFQ0MklBUlFLR3N1MktQdzZKaTRTcG1DYU5fZElpdVBnVWg5eTRFWGlySXRQSlZHenE4T245R1QzQ0tzY0pMSVEzQ2c?oc=5",
+        "publication_date": "Tue, 26 Nov 2024 08:00:00 GMT",
+        "source": "MUO - MakeUseOf",
+        "source_url": "https://www.makeuseof.com",
+        "guid": "CBMidkFVX3lxTE5IN3ZOWDE4YUtRcGhKQnFNeFhQaXFManUwN3o0VFVVLTVxdTh6ZWxvUzFEVFQ0MklBUlFLR3N1MktQdzZKaTRTcG1DYU5fZElpdVBnVWg5eTRFWGlySXRQSlZHenE4T245R1QzQ0tzY0pMSVEzQ2c"
+    },
+    {
+        "title": "OpenAI Adds ChatGPT Pro Tier, With an Eye-Popping Price - PCMag Middle East",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdE9aLUctS1o5d1cyQVcxeGlUbDFSWTExTS1DVWFwUnY4ZHU1V0hKWmVMemFvTHpJS0NKQkNMTVhzMlFwdWw4bUJuT05rZGJuMlMzRXozcUdvU0RSZHRHdjF5bG0zOHNpYzYwLVRoVGZGODZtQldxQ0NzVlpkNmJYaFVVS2NxZERvcDRKcWJOdTc?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 18:26:44 GMT",
+        "source": "PCMag Middle East",
+        "source_url": "https://me.pcmag.com",
+        "guid": "CBMikAFBVV95cUxOdE9aLUctS1o5d1cyQVcxeGlUbDFSWTExTS1DVWFwUnY4ZHU1V0hKWmVMemFvTHpJS0NKQkNMTVhzMlFwdWw4bUJuT05rZGJuMlMzRXozcUdvU0RSZHRHdjF5bG0zOHNpYzYwLVRoVGZGODZtQldxQ0NzVlpkNmJYaFVVS2NxZERvcDRKcWJOdTc"
+    },
+    {
+        "title": "OpenAI's ChatGPT Plus subscription costs set to rise significantly - NewsBytes",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWNWaVNObTFwNTFvTDcyelU2bDdYZ1ZJM0t6MHZjTVZfeEJGTjhhQlp5R0pHOFl2SHR6cExUOHUxMW44U1YwQ3pGcUc4VzlXN2k4M0pxM1J0bWlUaU1raEZ5clZKUTJZN0YxNTZ6WkpyekZRRFZuSUxNRVBianZyTFViWTRUWkwxYnBkZVhRT3J6LTB1ZTVnSmEzQjg1U3YtbjFDUklVRW1OT1JfdlFr?oc=5",
+        "publication_date": "Mon, 30 Sep 2024 07:00:00 GMT",
+        "source": "NewsBytes",
+        "source_url": "https://www.newsbytesapp.com",
+        "guid": "CBMirwFBVV95cUxOTWNWaVNObTFwNTFvTDcyelU2bDdYZ1ZJM0t6MHZjTVZfeEJGTjhhQlp5R0pHOFl2SHR6cExUOHUxMW44U1YwQ3pGcUc4VzlXN2k4M0pxM1J0bWlUaU1raEZ5clZKUTJZN0YxNTZ6WkpyekZRRFZuSUxNRVBianZyTFViWTRUWkwxYnBkZVhRT3J6LTB1ZTVnSmEzQjg1U3YtbjFDUklVRW1OT1JfdlFr"
+    },
+    {
+        "title": "ChatGPT Plus vs. Google Gemini Advanced: Battle of the Premium AI Chatbots - Video - CNET",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDNaOGpJcjNuSWgzRDZIMWdnN0FKNHZTS25Mdk1QZ0YwTHlSWmwwSTg0RlBucTdYc0hUc3g0cldvZGVWSlloN3hEVUxKS25qdjRmXzd2WTBBWUtGbmk4azAzUDhoUkVibHBtX1R3am1ldG9kWWM5SDFRNGFSMUxDQ3hYSmhOYXlnbGhFUGp6Wloyc3pnNVl5QWVlQ0dLMjBmdHJJ?oc=5",
+        "publication_date": "Tue, 29 Oct 2024 07:00:00 GMT",
+        "source": "CNET",
+        "source_url": "https://www.cnet.com",
+        "guid": "CBMiowFBVV95cUxQbDNaOGpJcjNuSWgzRDZIMWdnN0FKNHZTS25Mdk1QZ0YwTHlSWmwwSTg0RlBucTdYc0hUc3g0cldvZGVWSlloN3hEVUxKS25qdjRmXzd2WTBBWUtGbmk4azAzUDhoUkVibHBtX1R3am1ldG9kWWM5SDFRNGFSMUxDQ3hYSmhOYXlnbGhFUGp6Wloyc3pnNVl5QWVlQ0dLMjBmdHJJ"
+    },
+    {
+        "title": "7 Reasons to Upgrade to ChatGPT Plus - PCMag",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBva1VkY1JES0JrNlFlRDRueTI2NHFCeTNxZXREWWFiTDJRYl9ua2JvcTNwTGRwQk1rbnhjTGhCNWhkTzVQNmt1aThhZFlFQ3hyc1hSdTJBcDZSY3hCdW5jUkN3N0YxTnFnNGlseA?oc=5",
+        "publication_date": "Mon, 09 Sep 2024 07:00:00 GMT",
+        "source": "PCMag",
+        "source_url": "https://www.pcmag.com",
+        "guid": "CBMibEFVX3lxTFBva1VkY1JES0JrNlFlRDRueTI2NHFCeTNxZXREWWFiTDJRYl9ua2JvcTNwTGRwQk1rbnhjTGhCNWhkTzVQNmt1aThhZFlFQ3hyc1hSdTJBcDZSY3hCdW5jUkN3N0YxTnFnNGlseA"
+    },
+    {
+        "title": "ChatGPT’s search engine might end your dependence on Google - BGR",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDktY2YwTklodlU2MnpjSmJwVEhpME8waW9lTVlZbURkcVFoaGZCVlJ1VmIxNjgyZ255S2tsdk0weGlXaENQQ0ZfRExkeUhJbVhkcklaQlZfNFIzN3IyaTZlTHhzR1YwNXc5R2QwQU56NUdNOXVfSjVPa0ZNX01GeGZ5UFZTcFU?oc=5",
+        "publication_date": "Mon, 18 Nov 2024 08:00:00 GMT",
+        "source": "BGR",
+        "source_url": "https://bgr.com",
+        "guid": "CBMihwFBVV95cUxNZDktY2YwTklodlU2MnpjSmJwVEhpME8waW9lTVlZbURkcVFoaGZCVlJ1VmIxNjgyZ255S2tsdk0weGlXaENQQ0ZfRExkeUhJbVhkcklaQlZfNFIzN3IyaTZlTHhzR1YwNXc5R2QwQU56NUdNOXVfSjVPa0ZNX01GeGZ5UFZTcFU"
+    },
+    {
+        "title": "Is ChatGPT Plus Worth $20/Month? What G2 Users Think - G2",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82MG8tb3BfNlo1Y0d1SHNhb3EzenFkaU5wcC1jNVdROEN3dW96QzA5MU0ycXEzeE1yVmo4ckRCeEMxVWs3WXZIQV9ZTGZESURScFZRWVhHR3c?oc=5",
+        "publication_date": "Mon, 23 Sep 2024 07:00:00 GMT",
+        "source": "G2",
+        "source_url": "https://learn.g2.com",
+        "guid": "CBMiWEFVX3lxTE82MG8tb3BfNlo1Y0d1SHNhb3EzenFkaU5wcC1jNVdROEN3dW96QzA5MU0ycXEzeE1yVmo4ckRCeEMxVWs3WXZIQV9ZTGZESURScFZRWVhHR3c"
+    },
+    {
+        "title": "ChatGPT Pro: OpenAI releases new subscription tier for $200 a month - CyberNews.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qcXFiZXFVQTJUVng0ME82aW5wVjlOMXQxTVVGcVVvbHlVUERDTnRvRmQ0OGFqZlNaRFNld3N0MGk4VG1QYWlvNzh5bm5lQnU5Xy1fU0ROYTM4Nm1oX3QwOHNOMXQ1ang3MDByVlRpVnlUalBvb3c?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 07:43:29 GMT",
+        "source": "CyberNews.com",
+        "source_url": "https://cybernews.com",
+        "guid": "CBMidkFVX3lxTE5qcXFiZXFVQTJUVng0ME82aW5wVjlOMXQxTVVGcVVvbHlVUERDTnRvRmQ0OGFqZlNaRFNld3N0MGk4VG1QYWlvNzh5bm5lQnU5Xy1fU0ROYTM4Nm1oX3QwOHNOMXQ1ang3MDByVlRpVnlUalBvb3c"
+    },
+    {
+        "title": "OpenAI launches enhanced GPT-4 turbo for ChatGPT plus users and developers - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTGlGZTVraUhjdWZjbUtKV0lTdGpqdFJUTzNVTFdId3VicGxjM3RIRHBjUVdtelNLaHpfeGVYdTA5MG9YVFdBQ3NidWtaUW95aTUyQWVJdUU2NmVvVV9JdVg2a2xyVU9acmc1ekp1ZHlSZ18zZ1c2N3h1dzRxOVQxNTBYVEpZaUhJdVdzS3VQWXNBT05CMHc1UjhZdGNUYnViY1FTMFdsbVhYaHFaYzBZWGdVMnJDMVN1T2RaQmoyU1NMT3NsX21YSjhZbEpnSFlKYzFrTGtYTDdlcXR3TkJzRy0zUdIB6AFBVV95cUxQX09PRVlTMm8wVV9NQjJqdThLT25KbVo0blR4bXRiWDNYREE1d2RjLWh6UGdoMERvNVZ5bE9ReVlaRzh2dEd5TVBCVnlCLWhaaHhoT3hKdjZLdXQ1aldUaW9QcFdsTndkM094VlQwRmZxekJvejlIMmJBNmE3ZEpTVDFBaDM2ZnhIcUkzSk5qbm0wMjhoR3czNmwtX1VNNE96MXpOYkh0aUN3eUhqU3NoSXBaQ0hTbUk2U2lVWmpacURCcUM2YXlUQU1GT1pVbldoZ3QzUGpfdGpWVGNaWFp1Tmc4anpYVERT?oc=5",
+        "publication_date": "Thu, 11 Apr 2024 07:00:00 GMT",
+        "source": "Business Standard",
+        "source_url": "https://www.business-standard.com",
+        "guid": "CBMi4wFBVV95cUxNTGlGZTVraUhjdWZjbUtKV0lTdGpqdFJUTzNVTFdId3VicGxjM3RIRHBjUVdtelNLaHpfeGVYdTA5MG9YVFdBQ3NidWtaUW95aTUyQWVJdUU2NmVvVV9JdVg2a2xyVU9acmc1ekp1ZHlSZ18zZ1c2N3h1dzRxOVQxNTBYVEpZaUhJdVdzS3VQWXNBT05CMHc1UjhZdGNUYnViY1FTMFdsbVhYaHFaYzBZWGdVMnJDMVN1T2RaQmoyU1NMT3NsX21YSjhZbEpnSFlKYzFrTGtYTDdlcXR3TkJzRy0zUdIB6AFBVV95cUxQX09PRVlTMm8wVV9NQjJqdThLT25KbVo0blR4bXRiWDNYREE1d2RjLWh6UGdoMERvNVZ5bE9ReVlaRzh2dEd5TVBCVnlCLWhaaHhoT3hKdjZLdXQ1aldUaW9QcFdsTndkM094VlQwRmZxekJvejlIMmJBNmE3ZEpTVDFBaDM2ZnhIcUkzSk5qbm0wMjhoR3czNmwtX1VNNE96MXpOYkh0aUN3eUhqU3NoSXBaQ0hTbUk2U2lVWmpacURCcUM2YXlUQU1GT1pVbldoZ3QzUGpfdGpWVGNaWFp1Tmc4anpYVERT"
+    },
+    {
+        "title": "OpenAI introduces Canvas, a new ChatGPT interface to help coders - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUXFKLVNOMWJtZDFhbk5ySDR6S3g2QWlMTUlDRklmNzhYalVhSXdXV1JsWFVBZC1BcDRFMUlhekpXUm1wOGVSaTVERG11STZGY1hQamN3eWNKV2s4M2RWeWdlODlxRkJTNnV1UmFILUVNdzB1bHVRSXRjN0Npc3BPYVlrOWU4Z0xCcm05VUFOZ3oydkNEU2NOdXotUEtsYkwtZkpheUtfVzdNdm9WbVhsTFZpU0lWR2lQSVdIVHR0VmNxcXRobnNZS2sxZm12V3VKbE1NaFZkejbSAd8BQVVfeXFMUHE1dFFuVlhMS3Y1Y3kwOFVza1F6QzNDUEJwNlZUQ2Z0RWVHTG5TNVJDSk5pZlM0VzFUQm9tamhlOG40YUluMjJ4c1hBb0hVOWh1eTZnWTF1MFNHbGNQbWlIYVZfU3l0OGJETnJjV3A5QzFMMVJKS2dGMFJDSnFQR0tNYXdSdkt2aExJRlpyOFB4eF9GWjBqVGM1dE9EU0drQmlEZzk4dG55LVpHTE9PNnZpSmNLd1dCMWY3ZjViMXd6T3FyanI2T21NR25fVklmRmgtdnVYV3EtNS1xMnl3aw?oc=5",
+        "publication_date": "Fri, 04 Oct 2024 07:00:00 GMT",
+        "source": "The Indian Express",
+        "source_url": "https://indianexpress.com",
+        "guid": "CBMi2AFBVV95cUxPUXFKLVNOMWJtZDFhbk5ySDR6S3g2QWlMTUlDRklmNzhYalVhSXdXV1JsWFVBZC1BcDRFMUlhekpXUm1wOGVSaTVERG11STZGY1hQamN3eWNKV2s4M2RWeWdlODlxRkJTNnV1UmFILUVNdzB1bHVRSXRjN0Npc3BPYVlrOWU4Z0xCcm05VUFOZ3oydkNEU2NOdXotUEtsYkwtZkpheUtfVzdNdm9WbVhsTFZpU0lWR2lQSVdIVHR0VmNxcXRobnNZS2sxZm12V3VKbE1NaFZkejbSAd8BQVVfeXFMUHE1dFFuVlhMS3Y1Y3kwOFVza1F6QzNDUEJwNlZUQ2Z0RWVHTG5TNVJDSk5pZlM0VzFUQm9tamhlOG40YUluMjJ4c1hBb0hVOWh1eTZnWTF1MFNHbGNQbWlIYVZfU3l0OGJETnJjV3A5QzFMMVJKS2dGMFJDSnFQR0tNYXdSdkt2aExJRlpyOFB4eF9GWjBqVGM1dE9EU0drQmlEZzk4dG55LVpHTE9PNnZpSmNLd1dCMWY3ZjViMXd6T3FyanI2T21NR25fVklmRmgtdnVYV3EtNS1xMnl3aw"
+    },
+    {
+        "title": "How to use ChatGPT Plus: From GPT-4o to interactive tables - ZDNet",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVG5YSkNPZGxDMml0YTZuNHp6Q3NBX19Ra2NORGNrOVI4aEZzV2FuNXJnYXFlczZWRVdhZ3hRaXhaSk5CWFpDQmZkZmNidHN0b2hCWjM5SFVOeTVrNy1yQkpvbFBoQ19tRmNSd2gtUktMRDd3d3dNRlA5aENoa2ZoNHdpLVZFZzZYdHFFeEpJUHRCQQ?oc=5",
+        "publication_date": "Wed, 22 May 2024 07:00:00 GMT",
+        "source": "ZDNet",
+        "source_url": "https://www.zdnet.com",
+        "guid": "CBMikgFBVV95cUxOVG5YSkNPZGxDMml0YTZuNHp6Q3NBX19Ra2NORGNrOVI4aEZzV2FuNXJnYXFlczZWRVdhZ3hRaXhaSk5CWFpDQmZkZmNidHN0b2hCWjM5SFVOeTVrNy1yQkpvbFBoQ19tRmNSd2gtUktMRDd3d3dNRlA5aENoa2ZoNHdpLVZFZzZYdHFFeEpJUHRCQQ"
+    },
+    {
+        "title": "ChatGPT maker OpenAI rolling out o1-mini model for free users: Here’s how to access it - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN21fZ3l3T3NBWUd2V1RuVFB5d1dwU1JLd0RadkpxRTNyRWNNVC1sTmRVc0VIQm4zVnhreEJoWDNQX0hPTlVONmljSWExa19ZLTZ3V0Z4Zl92RFdmcGVxSnV5OEhUb3JOMjBMNjY2TTMyLVM4aVVfbjJsc0RiSVE5NF9OM2RvcnZKZ0hCa2FJTnZuX3pFWHpDNVprUzQ1UnNrMEZfeldQOHFkV1ctNmFtZTdhd28za0EzMlpreDFB0gHEAUFVX3lxTE0yYlNjMGJQcnhEZ2dTZFU1bWtoeEI4b2RoWndYMlJESHMyd0NJSWNwOXdoRnptR2RCT1NaczFyLTl0YUIxdE9jTmJRVnlwWVJQM0g2SUhRYzNrbHZPYXdNY1h0VEE5WnhhVFRLNWxNVlR5Z3doQ3NGX29xMTRBUGNRUnotWHVrZnd5b01OV2hUTlNqX0pwaXhKd0hsTFU2Q01xQTViNnJHeXN1dE1oZ3F4NXdlclJjb1ItSG5RUWtlZF9WMXE?oc=5",
+        "publication_date": "Tue, 17 Sep 2024 07:00:00 GMT",
+        "source": "The Indian Express",
+        "source_url": "https://indianexpress.com",
+        "guid": "CBMivgFBVV95cUxQN21fZ3l3T3NBWUd2V1RuVFB5d1dwU1JLd0RadkpxRTNyRWNNVC1sTmRVc0VIQm4zVnhreEJoWDNQX0hPTlVONmljSWExa19ZLTZ3V0Z4Zl92RFdmcGVxSnV5OEhUb3JOMjBMNjY2TTMyLVM4aVVfbjJsc0RiSVE5NF9OM2RvcnZKZ0hCa2FJTnZuX3pFWHpDNVprUzQ1UnNrMEZfeldQOHFkV1ctNmFtZTdhd28za0EzMlpreDFB0gHEAUFVX3lxTE0yYlNjMGJQcnhEZ2dTZFU1bWtoeEI4b2RoWndYMlJESHMyd0NJSWNwOXdoRnptR2RCT1NaczFyLTl0YUIxdE9jTmJRVnlwWVJQM0g2SUhRYzNrbHZPYXdNY1h0VEE5WnhhVFRLNWxNVlR5Z3doQ3NGX29xMTRBUGNRUnotWHVrZnd5b01OV2hUTlNqX0pwaXhKd0hsTFU2Q01xQTViNnJHeXN1dE1oZ3F4NXdlclJjb1ItSG5RUWtlZF9WMXE"
+    },
+    {
+        "title": "Apple gives OpenAI's ChatGPT Plus a digital billboard for a cut - Windows Central",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVFaaFk0NlVqTHoxZ0pEUFJxY2lzVXZ2STlmYm5wVk5KdlRFN0xvS2NYejl2aElrNVhPX1ZpTnN3TVU2NUtlTDlRYmp6eVE2aDRuSDBnNHkwVmhSSHhaYnRXaTZUQjdYZGJ1WXpRbEh2U0FNTWt5NEdScjBhNkVkTWJKWHlGN2M1RnF1eE50OHNHLTl5S1EyZ1ZISEtwZXFLRU5LeTg2RGl5V0wxdVAtUXdTNA?oc=5",
+        "publication_date": "Wed, 13 Nov 2024 08:00:00 GMT",
+        "source": "Windows Central",
+        "source_url": "https://www.windowscentral.com",
+        "guid": "CBMiswFBVV95cUxPOVFaaFk0NlVqTHoxZ0pEUFJxY2lzVXZ2STlmYm5wVk5KdlRFN0xvS2NYejl2aElrNVhPX1ZpTnN3TVU2NUtlTDlRYmp6eVE2aDRuSDBnNHkwVmhSSHhaYnRXaTZUQjdYZGJ1WXpRbEh2U0FNTWt5NEdScjBhNkVkTWJKWHlGN2M1RnF1eE50OHNHLTl5S1EyZ1ZISEtwZXFLRU5LeTg2RGl5V0wxdVAtUXdTNA"
+    },
+    {
+        "title": "OpenAI launches new version of ChatGPT for research use - Geo News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYklEamRNWVduUzdJNUxGMGhIdGJnSmlVc09vbERBZmlBS0ExSmE1d0MxYURVOUxrN1dsVEc1dlFaUGZDVnBLRmNCX29KT1MtbkZlNHhXSklHRzd3Mll5eDJTcjEwa1d4b19iRUVVWHREZDE5Z3pPZ285RHVXby1pbmVUSzd5T3ZSSElqX0VOUWlJZw?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 05:52:00 GMT",
+        "source": "Geo News",
+        "source_url": "https://www.geo.tv",
+        "guid": "CBMikgFBVV95cUxQYklEamRNWVduUzdJNUxGMGhIdGJnSmlVc09vbERBZmlBS0ExSmE1d0MxYURVOUxrN1dsVEc1dlFaUGZDVnBLRmNCX29KT1MtbkZlNHhXSklHRzd3Mll5eDJTcjEwa1d4b19iRUVVWHREZDE5Z3pPZ285RHVXby1pbmVUSzd5T3ZSSElqX0VOUWlJZw"
+    },
+    {
+        "title": "OpenAI Introduces Advanced Voice Mode for ChatGPT Plus Users - CIOL",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHNzSmZZanFzUzVtX0o3VVpOSlFlTmEyMDZNMHFlM0ZMYWZXOFl0ZHV2YmVWNllSMlBCdnBFRDlZU0J1bFBMcWdyUDQyLVRGSVN1bkdsMjYtZnJXVmZtX3BoT09ZX3EzeWVheW91cjh2QTNiQXRRam4tdGtkTVNuUzVVLUtTV0Nid2FoT2VURVBKWWktTGZvNDZR0gGaAUFVX3lxTFA0c3NKZllqcXNTNW1fSjdVWk5KUWVOYTIwNk0wcWUzRkxhZlc4WXRkdXZiZVY2WVIyUEJ2cEVEOVlTQnVsUExxZ3JQNDItVEZJU3VuR2wyNi1mcldWZm1fcGhPT1lfcTN5ZWF5b3VyOHZBM2JBdFFqbi10a2RNU25TNVUtS1NXQ2J3YWhPZVRFUEpZaS1MZm80NlE?oc=5",
+        "publication_date": "Mon, 05 Aug 2024 07:00:00 GMT",
+        "source": "CIOL",
+        "source_url": "https://www.ciol.com",
+        "guid": "CBMimgFBVV95cUxQNHNzSmZZanFzUzVtX0o3VVpOSlFlTmEyMDZNMHFlM0ZMYWZXOFl0ZHV2YmVWNllSMlBCdnBFRDlZU0J1bFBMcWdyUDQyLVRGSVN1bkdsMjYtZnJXVmZtX3BoT09ZX3EzeWVheW91cjh2QTNiQXRRam4tdGtkTVNuUzVVLUtTV0Nid2FoT2VURVBKWWktTGZvNDZR0gGaAUFVX3lxTFA0c3NKZllqcXNTNW1fSjdVWk5KUWVOYTIwNk0wcWUzRkxhZlc4WXRkdXZiZVY2WVIyUEJ2cEVEOVlTQnVsUExxZ3JQNDItVEZJU3VuR2wyNi1mcldWZm1fcGhPT1lfcTN5ZWF5b3VyOHZBM2JBdFFqbi10a2RNU25TNVUtS1NXQ2J3YWhPZVRFUEpZaS1MZm80NlE"
+    },
+    {
+        "title": "ChatGPT Plus is getting Advanced Voice Mode - FoneArena",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTndsU191TlhBTFVuSFQ5SkRoSU9QSmlkeWx6ekJRSmNlTlBnbUV6dmlvNTdhSFhpWHdIR2xwdFk1c1hsQXFYNDVFNENnNFVlZ3F0MnQ4VVpGWW8wajRLbUdmY3NKVHpLZ2dXRm8xU3Jscl9pM19qLS04SWtIbXBpUdIBhgFBVV95cUxQVXRxUHZpeHR6ekV4cFM3SXJ2LWxzbkdkQnA3dWlJUGlIX3g4VEJHNGJjRFloak9YRTZiYnAxYk5QRTE1ZVdleGVLX0xlM1B1LXViNkViQ1huWGRtbGViUEtzcy1LVWxkbzJvQVNicTk3dFhLekQ5RU9tSDgxY0w0OUhaeERRdw?oc=5",
+        "publication_date": "Wed, 31 Jul 2024 07:00:00 GMT",
+        "source": "FoneArena",
+        "source_url": "https://www.fonearena.com",
+        "guid": "CBMigAFBVV95cUxOTndsU191TlhBTFVuSFQ5SkRoSU9QSmlkeWx6ekJRSmNlTlBnbUV6dmlvNTdhSFhpWHdIR2xwdFk1c1hsQXFYNDVFNENnNFVlZ3F0MnQ4VVpGWW8wajRLbUdmY3NKVHpLZ2dXRm8xU3Jscl9pM19qLS04SWtIbXBpUdIBhgFBVV95cUxQVXRxUHZpeHR6ekV4cFM3SXJ2LWxzbkdkQnA3dWlJUGlIX3g4VEJHNGJjRFloak9YRTZiYnAxYk5QRTE1ZVdleGVLX0xlM1B1LXViNkViQ1huWGRtbGViUEtzcy1LVWxkbzJvQVNicTk3dFhLekQ5RU9tSDgxY0w0OUhaeERRdw"
+    },
+    {
+        "title": "ChatGPT Advanced Voice Mode Rolls Out to Some ChatGPT Plus Users - Gadgets 360",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUE4SUt2VDItbzVKTjV0ckhmV2Nvekd6SjlzOURLWkdUZnlvdEl2QXV4MnZHUzdFeGZFSlRTLTNSQXRmV3FZTGJXME9pYlFvaU1LYmNzTzlvcUR4aFZxY2tBR1NqN3dZVWtzakFCcURLclh4aFlSTkRubDd2TVA4bFlQZWlJZzBROExja0JlUnBNNXNrZkd1ZGtSOEJDYWM5RHfSAacBQVVfeXFMT3Rfb01hY28tWll3SVI5XzFlSVdKVHg5U3FaNXc1OGZMeWEtX1BMZ2dWNlBKRkpFSExUS0w1MnZrUUVidTFhcEhyODV2d0VmQTZHeVQ4Q0gtQXhSd3M3dUdPczU2ZFMzbl9RUjFkZFFvQjlnMGt3MENMWDhTRk1KOVZuTUxCM2R3UWZJODI0cmtneE1Md1VtNEZYT2E0d0w0cEo3SE5UNW8?oc=5",
+        "publication_date": "Wed, 31 Jul 2024 07:00:00 GMT",
+        "source": "Gadgets 360",
+        "source_url": "https://www.gadgets360.com",
+        "guid": "CBMiogFBVV95cUxNVUE4SUt2VDItbzVKTjV0ckhmV2Nvekd6SjlzOURLWkdUZnlvdEl2QXV4MnZHUzdFeGZFSlRTLTNSQXRmV3FZTGJXME9pYlFvaU1LYmNzTzlvcUR4aFZxY2tBR1NqN3dZVWtzakFCcURLclh4aFlSTkRubDd2TVA4bFlQZWlJZzBROExja0JlUnBNNXNrZkd1ZGtSOEJDYWM5RHfSAacBQVVfeXFMT3Rfb01hY28tWll3SVI5XzFlSVdKVHg5U3FaNXc1OGZMeWEtX1BMZ2dWNlBKRkpFSExUS0w1MnZrUUVidTFhcEhyODV2d0VmQTZHeVQ4Q0gtQXhSd3M3dUdPczU2ZFMzbl9RUjFkZFFvQjlnMGt3MENMWDhTRk1KOVZuTUxCM2R3UWZJODI0cmtneE1Md1VtNEZYT2E0d0w0cEo3SE5UNW8"
+    },
+    {
+        "title": "OpenAI brings 'memory' feature to ChatGPT Plus plan - Deccan Herald",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbXFVdC1uZ2hvSjN6XzBVSFA4a3pWbTdtX1BVT2JGbUNYeVlnU0k1azFnQVBnMWpfeE5xVllPZ1lBY0Y1czdObzNZMU5iQ2I5aGYxcjF0REhVaFQ2UENpUHRSWUZiV0t2YVpUdEI1ZDFwM19mamIxT0FzMmlLUXVtVF9vM2VEblRkeGtMQXNtZ1I2Z1NiVHByVXRHaC1HUQ?oc=5",
+        "publication_date": "Wed, 01 May 2024 07:00:00 GMT",
+        "source": "Deccan Herald",
+        "source_url": "https://www.deccanherald.com",
+        "guid": "CBMingFBVV95cUxQbXFVdC1uZ2hvSjN6XzBVSFA4a3pWbTdtX1BVT2JGbUNYeVlnU0k1azFnQVBnMWpfeE5xVllPZ1lBY0Y1czdObzNZMU5iQ2I5aGYxcjF0REhVaFQ2UENpUHRSWUZiV0t2YVpUdEI1ZDFwM19mamIxT0FzMmlLUXVtVF9vM2VEblRkeGtMQXNtZ1I2Z1NiVHByVXRHaC1HUQ"
+    },
+    {
+        "title": "Here’s why you should get ready to pay a lot more for ChatGPT Plus - BGR",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUw2RTdlQ2E3QVVXQTNST3F6TXJoS1NHX2U5NkloQjgtcGdkTVNfWnkxcURkZ3FlWkdueldyRkk4SldMd0ttTU5DZVdZQ3U5S3pxNXF0NGFCUXBTOFp4R2JONm1KandtRklERnJmZm83SXR3N0pUY2hxU18wNjItdUpRQjQwMU91bkRGalZtLWw?oc=5",
+        "publication_date": "Mon, 30 Sep 2024 07:00:00 GMT",
+        "source": "BGR",
+        "source_url": "https://bgr.com",
+        "guid": "CBMikAFBVV95cUxQVUw2RTdlQ2E3QVVXQTNST3F6TXJoS1NHX2U5NkloQjgtcGdkTVNfWnkxcURkZ3FlWkdueldyRkk4SldMd0ttTU5DZVdZQ3U5S3pxNXF0NGFCUXBTOFp4R2JONm1KandtRklERnJmZm83SXR3N0pUY2hxU18wNjItdUpRQjQwMU91bkRGalZtLWw"
+    },
+    {
+        "title": "OpenAI rolls out advanced Voice Mode for select ChatGPT Plus users - CNBCTV18",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHI1NVZLNEx0cmxNZ1lHV3cxV2ZSXzBRbGlmNlFmMkszU1NNTUZmUkJ3SlZRUFc1b2pneG1GSnlFZjVoTzBteGplNTJ3QmNxSFY3dG5IazR0TEhlM0c2Rmprb3FYNHJRalhLWkZZQ181eGNnQktoR2pFd2dpQ05IR3ZuU3J2ekhRaV9wNUo4Z2xfdEJVTnd0X2l4djBEZWQxbWhQUVpTbmNBdlpBbC1EakE5RzQtZ9IBuwFBVV95cUxPNTc4UG9oZlotaHRiYmU2bXZyUzZHT0prOU1fOVNFTmg0VktOQkVxTWFBRW14SUpqOWZzQUpUQUE4MnRtcG5yWk5QTjQweGcxZW1JdjEzWVp6SFJ4YkVpWllzMHFqWElwNWwxUVh3QmU4dFdOTXk4QVZLa0VZRzR2VzlvblczS1Z1RTN3OVFqcVVNRVhCVktZSkVMSmdRVFg5RTFyNzBMeHRsTU5DSjc1TTltOU5UQlRjWnRJ?oc=5",
+        "publication_date": "Wed, 31 Jul 2024 07:00:00 GMT",
+        "source": "CNBCTV18",
+        "source_url": "https://www.cnbctv18.com",
+        "guid": "CBMitgFBVV95cUxNTHI1NVZLNEx0cmxNZ1lHV3cxV2ZSXzBRbGlmNlFmMkszU1NNTUZmUkJ3SlZRUFc1b2pneG1GSnlFZjVoTzBteGplNTJ3QmNxSFY3dG5IazR0TEhlM0c2Rmprb3FYNHJRalhLWkZZQ181eGNnQktoR2pFd2dpQ05IR3ZuU3J2ekhRaV9wNUo4Z2xfdEJVTnd0X2l4djBEZWQxbWhQUVpTbmNBdlpBbC1EakE5RzQtZ9IBuwFBVV95cUxPNTc4UG9oZlotaHRiYmU2bXZyUzZHT0prOU1fOVNFTmg0VktOQkVxTWFBRW14SUpqOWZzQUpUQUE4MnRtcG5yWk5QTjQweGcxZW1JdjEzWVp6SFJ4YkVpWllzMHFqWElwNWwxUVh3QmU4dFdOTXk4QVZLa0VZRzR2VzlvblczS1Z1RTN3OVFqcVVNRVhCVktZSkVMSmdRVFg5RTFyNzBMeHRsTU5DSjc1TTltOU5UQlRjWnRJ"
+    },
+    {
+        "title": "‘I readily prefer this one’: What I learned testing Copilot Pro and ChatGPT Plus side by side - PCWorld",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcWU1aG1kYkUtUF91UWtlcHhYV2lCZnUxenlDVXlsYXRscU1PM09QM0YyZGxWMUZVSFd5MENwRnpsY29OOXRPWGF4bHFnVE84WF9UY01RNnpIQ0RBSzRhSENkZlVOSms1TEIzWXdIb1hod05nSG9JS2tJWERFazN4RExPZm9NWXJLMU9tVDhRNktPLVVxTlNPSFJyMWFraU9rVlNOcg?oc=5",
+        "publication_date": "Tue, 29 Oct 2024 07:00:00 GMT",
+        "source": "PCWorld",
+        "source_url": "https://www.pcworld.com",
+        "guid": "CBMipAFBVV95cUxOcWU1aG1kYkUtUF91UWtlcHhYV2lCZnUxenlDVXlsYXRscU1PM09QM0YyZGxWMUZVSFd5MENwRnpsY29OOXRPWGF4bHFnVE84WF9UY01RNnpIQ0RBSzRhSENkZlVOSms1TEIzWXdIb1hod05nSG9JS2tJWERFazN4RExPZm9NWXJLMU9tVDhRNktPLVVxTlNPSFJyMWFraU9rVlNOcg"
+    },
+    {
+        "title": "Apple will let you buy ChatGPT Plus from the iPhone’s Settings, but should you? - BGR",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclpjM2ZLb1lFcS1hVGJiUDdENU5abkljNDVJQUU3R2lTYVdHRlBSNnBkUmxwdm5lNzFGZEJ0UzlTOXFkTXpLU1FkQ0NDakljS1lWdVMzTmxNZ1BlZ2ZFNHBFSnI4STdmb0hyV184dGRHdGZNWkw4UUZEcTg3ZUhHbVJWTzdKZGdEc2kw?oc=5",
+        "publication_date": "Tue, 05 Nov 2024 08:00:00 GMT",
+        "source": "BGR",
+        "source_url": "https://bgr.com",
+        "guid": "CBMiiwFBVV95cUxNclpjM2ZLb1lFcS1hVGJiUDdENU5abkljNDVJQUU3R2lTYVdHRlBSNnBkUmxwdm5lNzFGZEJ0UzlTOXFkTXpLU1FkQ0NDakljS1lWdVMzTmxNZ1BlZ2ZFNHBFSnI4STdmb0hyV184dGRHdGZNWkw4UUZEcTg3ZUhHbVJWTzdKZGdEc2kw"
+    },
+    {
+        "title": "ChatGPT gets ‘Memory’ feature, can recall personalised interactions of Plus users - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVDMxVjMxSXpQMzBaNlFIUE9ZRlNGZ2g4V240eFJ4MnhWcUNPallXVEJ4SmRtQVJnWERVYTdjeXAyOFk2UTBDX0VRZ0NETnRjcVVwWTVvb09zbXpNbnpKaklDWFJhU09EMDlEVjRVT3UzX3cyUFhGOV9OWnRrTW1uUm1LWnBUWmJDZTZGdV9uSUdwUmx6MU84aVBXT1dlNEVCSnZYSjZqXzZHcUlBRjBaSWpfNnJaSjZfZnV5NTFvWlVoQdIByAFBVV95cUxQQXdaVFdueUM5YXY3V0hJNlVRb0o0UWxEREdjTGtkYnluX2NpcnI5bjZpOUVkMGhaVWNaLWdyaDZtTDVRZE4ycDhFamF0bzBESHdPOTQtcVhrbkFFRERfY1lHbWRza3ZjV1QyWnYyUFpwRTdfSVJmNVE3WnRrbG9qdmV2T2NSVWNSSWdIMW45T3cwbVBOOEVzbXI5NnZfTHdveEZNQWd5V3RiX2ZJaUhmZnZBVnlxbmFxS1kyZHZjZGM0OERWSjZkeg?oc=5",
+        "publication_date": "Tue, 30 Apr 2024 07:00:00 GMT",
+        "source": "The Indian Express",
+        "source_url": "https://indianexpress.com",
+        "guid": "CBMiwgFBVV95cUxOVDMxVjMxSXpQMzBaNlFIUE9ZRlNGZ2g4V240eFJ4MnhWcUNPallXVEJ4SmRtQVJnWERVYTdjeXAyOFk2UTBDX0VRZ0NETnRjcVVwWTVvb09zbXpNbnpKaklDWFJhU09EMDlEVjRVT3UzX3cyUFhGOV9OWnRrTW1uUm1LWnBUWmJDZTZGdV9uSUdwUmx6MU84aVBXT1dlNEVCSnZYSjZqXzZHcUlBRjBaSWpfNnJaSjZfZnV5NTFvWlVoQdIByAFBVV95cUxQQXdaVFdueUM5YXY3V0hJNlVRb0o0UWxEREdjTGtkYnluX2NpcnI5bjZpOUVkMGhaVWNaLWdyaDZtTDVRZE4ycDhFamF0bzBESHdPOTQtcVhrbkFFRERfY1lHbWRza3ZjV1QyWnYyUFpwRTdfSVJmNVE3WnRrbG9qdmV2T2NSVWNSSWdIMW45T3cwbVBOOEVzbXI5NnZfTHdveEZNQWd5V3RiX2ZJaUhmZnZBVnlxbmFxS1kyZHZjZGM0OERWSjZkeg"
+    },
+    {
+        "title": "Apple users can soon upgrade to ChatGPT Plus within the Settings app - TechCrunch",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1oxMzJFQWwzNnRpLVFWUDVIVlM5enFSbmtzZ2JLUEg0Y3JzQk5CM2tEbmJtSVFmdXV0TEE0U0R3bFl4Wk5GNi1oZmNnMDVuZl9fNWEwMmxkWndxNnZuOUxXcEx1WURoU3JiZWhQSkUxYnJFV05IWDM2YUZJSUhzR1E0RTRXZG5OVkdtUVhJRmFuX3dHSTMxdkpuVnhmUlBCODZ0aWNn?oc=5",
+        "publication_date": "Mon, 04 Nov 2024 08:00:00 GMT",
+        "source": "TechCrunch",
+        "source_url": "https://techcrunch.com",
+        "guid": "CBMipgFBVV95cUxOc1oxMzJFQWwzNnRpLVFWUDVIVlM5enFSbmtzZ2JLUEg0Y3JzQk5CM2tEbmJtSVFmdXV0TEE0U0R3bFl4Wk5GNi1oZmNnMDVuZl9fNWEwMmxkWndxNnZuOUxXcEx1WURoU3JiZWhQSkUxYnJFV05IWDM2YUZJSUhzR1E0RTRXZG5OVkdtUVhJRmFuX3dHSTMxdkpuVnhmUlBCODZ0aWNn"
+    },
+    {
+        "title": "Google's Gemini just got two popular ChatGPT Plus features - and one is free to use - ZDNet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORFE0RkVabWlNU0hHMHZobUlSclk3N0ZWQy1ZSXhNZi1HOGxNZEZHRnlBYkNMNlh5MHlFZnhuRGRtR2VEaEdYS2JVTV9FeVYzcVZ1VVRjeDFRY1lmUFpMOVhWMDlfRlNicGxyVzM3bXZfa0h2VGJyajc2dXd4T0gyekNMRXQyLWFKRGQ1MWNUbHQ3TjNrc1kyVEtabk5sYzhsb0wxNTA1aUtfZC1iTnQxSw?oc=5",
+        "publication_date": "Wed, 28 Aug 2024 07:00:00 GMT",
+        "source": "ZDNet",
+        "source_url": "https://www.zdnet.com",
+        "guid": "CBMisAFBVV95cUxORFE0RkVabWlNU0hHMHZobUlSclk3N0ZWQy1ZSXhNZi1HOGxNZEZHRnlBYkNMNlh5MHlFZnhuRGRtR2VEaEdYS2JVTV9FeVYzcVZ1VVRjeDFRY1lmUFpMOVhWMDlfRlNicGxyVzM3bXZfa0h2VGJyajc2dXd4T0gyekNMRXQyLWFKRGQ1MWNUbHQ3TjNrc1kyVEtabk5sYzhsb0wxNTA1aUtfZC1iTnQxSw"
+    },
+    {
+        "title": "ChatGPT Free vs. ChatGPT Plus: Worth the $20 Upgrade? - CNET",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVFOWXIxekJ4dzZQaGQ4RThoMnp5R08xRHp3RWxXX3JKWGZ3YThkZ1MzUlY0ay16cjZ3enRXYmEzNE5USlhOd3dmTWtvOWhLVTl2aGNRUzZvc0lyb3FkVFh1RkE3OHFIX0hxZHZndjFxQVlFay1Fb0twbWNxRThJeGlxaVZMNmVKbzlYenRsWTJEUlMwNzF3NFRQWnlxU3c?oc=5",
+        "publication_date": "Sun, 14 Jul 2024 07:00:00 GMT",
+        "source": "CNET",
+        "source_url": "https://www.cnet.com",
+        "guid": "CBMinwFBVV95cUxPaVFOWXIxekJ4dzZQaGQ4RThoMnp5R08xRHp3RWxXX3JKWGZ3YThkZ1MzUlY0ay16cjZ3enRXYmEzNE5USlhOd3dmTWtvOWhLVTl2aGNRUzZvc0lyb3FkVFh1RkE3OHFIX0hxZHZndjFxQVlFay1Fb0twbWNxRThJeGlxaVZMNmVKbzlYenRsWTJEUlMwNzF3NFRQWnlxU3c"
+    },
+    {
+        "title": "Introducing ChatGPT and Whisper APIs - OpenAI",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FLXlVNC1xWTdldFg1alhwZmI4c3dKMEFuS0czU2Y5ZlhEblA4OGsxcll1djhkY1NTblk2SFVFdXphR3NiRGpnQ255SHZLZkhfOXdpSGZ5SURmUTItUkFOaUtSZFRHRHpHSXl4ZE1WVQ?oc=5",
+        "publication_date": "Wed, 24 Apr 2024 07:00:00 GMT",
+        "source": "OpenAI",
+        "source_url": "https://openai.com",
+        "guid": "CBMib0FVX3lxTE5FLXlVNC1xWTdldFg1alhwZmI4c3dKMEFuS0czU2Y5ZlhEblA4OGsxcll1djhkY1NTblk2SFVFdXphR3NiRGpnQ255SHZLZkhfOXdpSGZ5SURmUTItUkFOaUtSZFRHRHpHSXl4ZE1WVQ"
+    },
+    {
+        "title": "ChatGPT’s new Pro subscription will cost you $200 per month - Digital Trends",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQejdKQWVPamt1SnYyMUJZR0FrVTFnbFRpQ2luT3ZvUDVxVGhaU2pobHFWaGduc0NlN1Vsa1YweDZfTEVZMEQyX0phQ2JkZEtZQkpGUDdSRVBYX1NXZHlSMWZTVEtKQUVxdWpqVjIxamhKbG9BclRhUkN1YTZFMEFtRGhRQW9jSkhHRkJjWTR4YnVqQWM?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 19:04:13 GMT",
+        "source": "Digital Trends",
+        "source_url": "https://www.digitaltrends.com",
+        "guid": "CBMikwFBVV95cUxQejdKQWVPamt1SnYyMUJZR0FrVTFnbFRpQ2luT3ZvUDVxVGhaU2pobHFWaGduc0NlN1Vsa1YweDZfTEVZMEQyX0phQ2JkZEtZQkpGUDdSRVBYX1NXZHlSMWZTVEtKQUVxdWpqVjIxamhKbG9BclRhUkN1YTZFMEFtRGhRQW9jSkhHRkJjWTR4YnVqQWM"
+    },
+    {
+        "title": "With OpenAI’s release of GPT-4o, is ChatGPT Plus still worth it? - WIRED Middle East - English",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DUnBfOHdCeE5Jc0kwUHV3YzI5b3RIRWFEVlpmYURYOVFpVGI0RVdEMnhtSmktUlhFZnN5c2U3VEV5czY5eElyWWtsdFhrZkE?oc=5",
+        "publication_date": "Tue, 14 May 2024 07:00:00 GMT",
+        "source": "WIRED Middle East - English",
+        "source_url": "https://wired.me",
+        "guid": "CBMiT0FVX3lxTE5DUnBfOHdCeE5Jc0kwUHV3YzI5b3RIRWFEVlpmYURYOVFpVGI0RVdEMnhtSmktUlhFZnN5c2U3VEV5czY5eElyWWtsdFhrZkE"
+    },
+    {
+        "title": "GPT-4o vs. GPT-4: How do they compare? - TechTarget",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbXhlRHBnU2pidVJ3NFZjWXQyUTZuVW9qZXZGeFJ5M1l6MUktenF2NTBtNnhWNDB1WVJ6U0QzTDZ2VTd6cFpKUHRyOF9XT2JSZzBiVlpQZzgyaldvbldIb1lHSVhsQ2NHZXlPWWNmT1JpUWZXZGFFQjNOc1ZGblotZkpuTUxLWERqaDdmQWU1c2dDOHc?oc=5",
+        "publication_date": "Fri, 26 Jul 2024 07:00:00 GMT",
+        "source": "TechTarget",
+        "source_url": "https://www.techtarget.com",
+        "guid": "CBMikwFBVV95cUxPbXhlRHBnU2pidVJ3NFZjWXQyUTZuVW9qZXZGeFJ5M1l6MUktenF2NTBtNnhWNDB1WVJ6U0QzTDZ2VTd6cFpKUHRyOF9XT2JSZzBiVlpQZzgyaldvbldIb1lHSVhsQ2NHZXlPWWNmT1JpUWZXZGFFQjNOc1ZGblotZkpuTUxLWERqaDdmQWU1c2dDOHc"
+    },
+    {
+        "title": "Apple will let you upgrade to ChatGPT Plus right from Settings in iOS 18.2 - The Verge",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYTVGeWNCb3BxQkRnb3pNME12YzBtelRyeEsydksxSGxxT3loT2dwa2kzejB1bWhMbm1fcUVDTVVwdjFOLWdPX29venFLcXotUTVSNHlrcEJXMkhGajJhaWIwZ09oZ09YR0t1THpzMHRXc1VlNUozQkRVd3NJbjNUZ0t6aEsxZFNlbVhlTVNyTHp4dnlqcXc?oc=5",
+        "publication_date": "Mon, 04 Nov 2024 08:00:00 GMT",
+        "source": "The Verge",
+        "source_url": "https://www.theverge.com",
+        "guid": "CBMilgFBVV95cUxQYTVGeWNCb3BxQkRnb3pNME12YzBtelRyeEsydksxSGxxT3loT2dwa2kzejB1bWhMbm1fcUVDTVVwdjFOLWdPX29venFLcXotUTVSNHlrcEJXMkhGajJhaWIwZ09oZ09YR0t1THpzMHRXc1VlNUozQkRVd3NJbjNUZ0t6aEsxZFNlbVhlTVNyTHp4dnlqcXc"
+    },
+    {
+        "title": "OpenAI introduces $200 ChatGPT subscription for research - Daily Jasarat News",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FYm1LRENVWENMclZzTE96UXVHRkdOSDQ0Szhoblc4MG5FWmZscm9xbThVSEttUlpyd2J2bE9icmM4SktCMHBFdTQ4a0E?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 05:07:30 GMT",
+        "source": "Daily Jasarat News",
+        "source_url": "https://www.jasarat.com",
+        "guid": "CBMiTEFVX3lxTE9FYm1LRENVWENMclZzTE96UXVHRkdOSDQ0Szhoblc4MG5FWmZscm9xbThVSEttUlpyd2J2bE9icmM4SktCMHBFdTQ4a0E"
+    },
+    {
+        "title": "OpenAI Rolls Out Upgraded ChatGPT Voice Mode to Plus Subscribers - AI Business",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOGJlNFNEREdSTFZXNE1jRE1LZ1p3cUY2b25KaDBtU1VDTFZLZFlfUERPanNHUXNTN3U4WEVLQ1VGRFdxeWN0enRDODBsUFpWNW1tdVB0UEYwX3dkbVNzNWxPakFGN1FLZ1BQZEFxSkRXdE9SNWVBdzBNaGNmQThHdjNUdXl6T19qVHlWbnlGbmIzdFNseFE?oc=5",
+        "publication_date": "Thu, 01 Aug 2024 07:00:00 GMT",
+        "source": "AI Business",
+        "source_url": "https://aibusiness.com",
+        "guid": "CBMilgFBVV95cUxQOGJlNFNEREdSTFZXNE1jRE1LZ1p3cUY2b25KaDBtU1VDTFZLZFlfUERPanNHUXNTN3U4WEVLQ1VGRFdxeWN0enRDODBsUFpWNW1tdVB0UEYwX3dkbVNzNWxPakFGN1FLZ1BQZEFxSkRXdE9SNWVBdzBNaGNmQThHdjNUdXl6T19qVHlWbnlGbmIzdFNseFE"
+    },
+    {
+        "title": "How to use ChatGPT: Everything to know about using GPT-4o and GPT-4o mini - ZDNet",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aM1NjZDdBLVltQ0xMYXVwYllnakgtMUNkSmZLa0RIcWpyMkU1alVPRHE4NHpKRlNPNHlfYUxlR0w3S3BIRkViclBXTVpWZEV5UTBmNVA5NFM0S1l2REE?oc=5",
+        "publication_date": "Wed, 21 Aug 2024 07:00:00 GMT",
+        "source": "ZDNet",
+        "source_url": "https://www.zdnet.com",
+        "guid": "CBMiXkFVX3lxTE5aM1NjZDdBLVltQ0xMYXVwYllnakgtMUNkSmZLa0RIcWpyMkU1alVPRHE4NHpKRlNPNHlfYUxlR0w3S3BIRkViclBXTVpWZEV5UTBmNVA5NFM0S1l2REE"
+    },
+    {
+        "title": "Memory and new controls for ChatGPT - OpenAI",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HdlVEeHc5Tnd0empBdndFYmZQckU4ZExHSnMyY3dVQzdMMmV3RDkyMHIzbVJEbURia3QzeTh1VWJlNEVyVm5vSXVSbmVXandTU3ktQUpiNnl0dWRDRFdobTUtVGRDVnQyWjlpcnZR?oc=5",
+        "publication_date": "Tue, 13 Feb 2024 08:00:00 GMT",
+        "source": "OpenAI",
+        "source_url": "https://openai.com",
+        "guid": "CBMibkFVX3lxTE1HdlVEeHc5Tnd0empBdndFYmZQckU4ZExHSnMyY3dVQzdMMmV3RDkyMHIzbVJEbURia3QzeTh1VWJlNEVyVm5vSXVSbmVXandTU3ktQUpiNnl0dWRDRFdobTUtVGRDVnQyWjlpcnZR"
+    },
+    {
+        "title": "Gemini Advanced vs ChatGPT Plus vs Copilot Pro: Which AI chatbot to subscribe to? - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmdRYlNrTWhwUUxLRWxOS1FrWjctWS15X0Q5Sk81X3dmNWFFMkpvempDb0NOWjdnY3RDd0ZqcThhbEZWTEFHcC1QckpmejhJTlg1aG0tbnRNWWhmVGl0aVhxcmlFaHNpVlMyTDEyUDhsTzlzckdVUk5iSWtqUGtpN0d2bWJOdlNjRWRsRDZqN2luYnhLMVI2VFpMMEJMcWZXcHJQaEFGb3pQVFdxWG1Vd1JIVFBWMWJ2YW9WYWYxYUNlZ9IByAFBVV95cUxQbmtURTFQQ1l1ZkVEZU1TNHItTVNucXJtTTViMG1SNjAwNGNkbVk3S2RYQ3RFdGNlbXJiLUZ4TXV0S1poUnVOUXhLdDJEMzZpNmo4Tnd3T2pxUEhHdl9DNTlMLWtxMTEweC00SWR6Z2RSN1Uzd01BWExwLWlYdmdPS2VaYWVmSXRESHhJLWl6a3NIMDNLZF82czVJd2NRVmhpeDdWTDlKUHdVN2ZoVzF3Szl4SEpSazEtdUhHNTdpdVBlcjc1TFhsZA?oc=5",
+        "publication_date": "Tue, 26 Mar 2024 07:00:00 GMT",
+        "source": "The Indian Express",
+        "source_url": "https://indianexpress.com",
+        "guid": "CBMiwgFBVV95cUxOdmdRYlNrTWhwUUxLRWxOS1FrWjctWS15X0Q5Sk81X3dmNWFFMkpvempDb0NOWjdnY3RDd0ZqcThhbEZWTEFHcC1QckpmejhJTlg1aG0tbnRNWWhmVGl0aVhxcmlFaHNpVlMyTDEyUDhsTzlzckdVUk5iSWtqUGtpN0d2bWJOdlNjRWRsRDZqN2luYnhLMVI2VFpMMEJMcWZXcHJQaEFGb3pQVFdxWG1Vd1JIVFBWMWJ2YW9WYWYxYUNlZ9IByAFBVV95cUxQbmtURTFQQ1l1ZkVEZU1TNHItTVNucXJtTTViMG1SNjAwNGNkbVk3S2RYQ3RFdGNlbXJiLUZ4TXV0S1poUnVOUXhLdDJEMzZpNmo4Tnd3T2pxUEhHdl9DNTlMLWtxMTEweC00SWR6Z2RSN1Uzd01BWExwLWlYdmdPS2VaYWVmSXRESHhJLWl6a3NIMDNLZF82czVJd2NRVmhpeDdWTDlKUHdVN2ZoVzF3Szl4SEpSazEtdUhHNTdpdVBlcjc1TFhsZA"
+    },
+    {
+        "title": "How iPhone Users Benefit from ChatGPT Plus - Zee Business",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmhSeWR5UTc2bkFMYS1pOUZMTkxrWlZjeENpVDJqZHFtcEctTzVTSHFUcjZ2WGFOZ3JhQ0J0cWtWelgtVmpZTldEUkZCNWtDMDZDQURDdlI4S09kSlpCNG85YnZQZUdyVFRpY3Zhd3VvS3BkZW9temJ4M0FZZXBhNDdHcE5DcWtTZ3E0Y09fdF91bWk5STMw0gGcAUFVX3lxTE44Z0xzREVKV1Y0XzlpTDdYR2JySDVXaUZvdE5HczBtelY3cGxmQVhkSGo2b08tMURmNFgtRHVUcHBoTlF3OEhSQ3Z1eEpLc2lSSEhKc05tQVhGdGRKU2tfakw1RDFrUnpXRWlTQU8zV1JsQjVaRmF6WmViQjFpa2lEX21rWS1XUUdNbzhBeUpzc2YtX3ZLdk1WZG1lZg?oc=5",
+        "publication_date": "Tue, 05 Nov 2024 08:00:00 GMT",
+        "source": "Zee Business",
+        "source_url": "https://www.zeebiz.com",
+        "guid": "CBMilwFBVV95cUxQRmhSeWR5UTc2bkFMYS1pOUZMTkxrWlZjeENpVDJqZHFtcEctTzVTSHFUcjZ2WGFOZ3JhQ0J0cWtWelgtVmpZTldEUkZCNWtDMDZDQURDdlI4S09kSlpCNG85YnZQZUdyVFRpY3Zhd3VvS3BkZW9temJ4M0FZZXBhNDdHcE5DcWtTZ3E0Y09fdF91bWk5STMw0gGcAUFVX3lxTE44Z0xzREVKV1Y0XzlpTDdYR2JySDVXaUZvdE5HczBtelY3cGxmQVhkSGo2b08tMURmNFgtRHVUcHBoTlF3OEhSQ3Z1eEpLc2lSSEhKc05tQVhGdGRKU2tfakw1RDFrUnpXRWlTQU8zV1JsQjVaRmF6WmViQjFpa2lEX21rWS1XUUdNbzhBeUpzc2YtX3ZLdk1WZG1lZg"
+    },
+    {
+        "title": "OpenAI starts rolling out advanced Voice Mode for ChatGPT: Here’s how it is used - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQU5EMDhKS1l6c0JIaHE2VmFUZkNKRk9Qc1BMRFEwek1tbk5VN2hzOXQxOERwWTE0WHFId3NhWTZPRFZkN1Bhb3EzWHFaZTdIRDNlWENHdmhrZUFHUF9Eb1I0a0plWU5BdTlSa0xLQ0FPWWlEVjZwQ1FJcVdqVjF0RV9XQUhTRkJQWU9vQ3dtX1N5enlQVjRwVHV3MHp2ZDVoSG91VklQaVQxUUdWM2pjZ2pn0gG4AUFVX3lxTFBHZXluMVQ2MVNubXFkaEZOc1IxWU1VdUhZbGtJbHZIV1Z0SnYzSU1pSjQ5akJBcjVaSGNuSVR0TmRkOV9qczQ1bmZfaG1hY1pXcEdfUjRGaVRvMS13TDRsMmlpUC1SZ2dQU2I5MkxHcVRtZ3Y1aXNRSmtfYTRUeHNnRnYtWWRTYlJWaDR6THlnZVNMZy1xbWxmQ3dTcjdodV9BVkR3NDRJUG5HYmxNb2hFQU85TURobzA?oc=5",
+        "publication_date": "Wed, 31 Jul 2024 07:00:00 GMT",
+        "source": "The Indian Express",
+        "source_url": "https://indianexpress.com",
+        "guid": "CBMisgFBVV95cUxOQU5EMDhKS1l6c0JIaHE2VmFUZkNKRk9Qc1BMRFEwek1tbk5VN2hzOXQxOERwWTE0WHFId3NhWTZPRFZkN1Bhb3EzWHFaZTdIRDNlWENHdmhrZUFHUF9Eb1I0a0plWU5BdTlSa0xLQ0FPWWlEVjZwQ1FJcVdqVjF0RV9XQUhTRkJQWU9vQ3dtX1N5enlQVjRwVHV3MHp2ZDVoSG91VklQaVQxUUdWM2pjZ2pn0gG4AUFVX3lxTFBHZXluMVQ2MVNubXFkaEZOc1IxWU1VdUhZbGtJbHZIV1Z0SnYzSU1pSjQ5akJBcjVaSGNuSVR0TmRkOV9qczQ1bmZfaG1hY1pXcEdfUjRGaVRvMS13TDRsMmlpUC1SZ2dQU2I5MkxHcVRtZ3Y1aXNRSmtfYTRUeHNnRnYtWWRTYlJWaDR6THlnZVNMZy1xbWxmQ3dTcjdodV9BVkR3NDRJUG5HYmxNb2hFQU85TURobzA"
+    },
+    {
+        "title": "OpenAI unveils improved version of GPT-4 Turbo: Rolling out ChatGPT Plus users and developers - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUZBN3ZGUVVlU1NZZ0RXblhQd0c1aGJxSEFnRU1tOFFPTjJhdXdaVjhKSTFoeDJoc2NYSlJLM2ZzM0RtQW1iSkR1M0ZqYjlsaWEyMlhHYmhXUTd3WWtpYk50WEkyRDRTOFVwVFJEZFd0dnlkOTYzSm5tOVJ4b2p4UjhRcmhQbEs5SUY3MVNHNzMyaVZSa1NMT2VLNHVLQ21HQ21TMzFwOFJfMWtKNWRmeWF3WktxWElMUllJY1pZNFVRUdIByAFBVV95cUxOajBtRHJqWUxReEwtVURZaFhRYktJenp6R2wxUS1UNE5Ed0d6Zkt5bnRzcVhuQmR2LUFlcW1VX1pLbFVjbnBNbzAxdXc1UzVHa2V6WUNkQTBud1hxRk04Z0FqcmdQR0ZIS3U2Y3dOOENKeEowd0VTaEpLUVI3X1BkQjEwQnlXV3l2bjNJS2kyMEFSdlVEU1Q4MDNnSm5Way1pS3lPU3Y3VVdGZFBVdnkyanhPRHdTbmhjazZ6eC02WkVuM3QxQjNNcw?oc=5",
+        "publication_date": "Wed, 10 Apr 2024 07:00:00 GMT",
+        "source": "The Indian Express",
+        "source_url": "https://indianexpress.com",
+        "guid": "CBMiwgFBVV95cUxOUUZBN3ZGUVVlU1NZZ0RXblhQd0c1aGJxSEFnRU1tOFFPTjJhdXdaVjhKSTFoeDJoc2NYSlJLM2ZzM0RtQW1iSkR1M0ZqYjlsaWEyMlhHYmhXUTd3WWtpYk50WEkyRDRTOFVwVFJEZFd0dnlkOTYzSm5tOVJ4b2p4UjhRcmhQbEs5SUY3MVNHNzMyaVZSa1NMT2VLNHVLQ21HQ21TMzFwOFJfMWtKNWRmeWF3WktxWElMUllJY1pZNFVRUdIByAFBVV95cUxOajBtRHJqWUxReEwtVURZaFhRYktJenp6R2wxUS1UNE5Ed0d6Zkt5bnRzcVhuQmR2LUFlcW1VX1pLbFVjbnBNbzAxdXc1UzVHa2V6WUNkQTBud1hxRk04Z0FqcmdQR0ZIS3U2Y3dOOENKeEowd0VTaEpLUVI3X1BkQjEwQnlXV3l2bjNJS2kyMEFSdlVEU1Q4MDNnSm5Way1pS3lPU3Y3VVdGZFBVdnkyanhPRHdTbmhjazZ6eC02WkVuM3QxQjNNcw"
+    },
+    {
+        "title": "7 reasons why ChatGPT Plus is the best AI tool: A look at key features - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWWVZaHZhejE3WDB2djE2MjBGVjJ2M2dDc3h6a21TNmQxdy1RTFVOa202c2g4YnYwR0xscjNaTG1yRTBoVzFZd21VME8yZEhZM0wxbWo0OW8tYVQ5cnhtcHpFR2tCWWgtTWFTWkg2UDBscVZlYXRDaGc2TmxZSzNUWUMtd3dzdTNRT3RDN2ViZVRmbEtpaDhmMHNhVnFZd3VWYzFzQ3N4X2ZyZm92enNvZWlBdkhQZTQ2QTYxeFpMdUJpUG9qZVg3RVVwaEJGc013amRiYm1R0gHcAUFVX3lxTE9xUFhQU0JjeFpLZTIzTXpLcndSUGJhYmF2RWpvSmtJSXplOW1jZGxQczFzWnZTNlZLX2NXNEVpbDhpektUZDJBTVZnLVhtSzVsbm05XzZiWmg5dDF2V3pzekI3OHYwLUNjVjdvZ1dJc1VCY05UcGR6TDlUVEEwRUY0eTdFMUhZOHpUN2RxeWF0ZlRSbEpjQW84U04xcDZaY080Z1VEZ0M1Qk5nZE01blNhS3dmTG9wOWs0enQxMDdRX1E3R3ZvY0sxeGhhWllyTWdRc3AtRmxPdnV4SWI?oc=5",
+        "publication_date": "Wed, 13 Mar 2024 07:00:00 GMT",
+        "source": "The Indian Express",
+        "source_url": "https://indianexpress.com",
+        "guid": "CBMi1gFBVV95cUxPWWVZaHZhejE3WDB2djE2MjBGVjJ2M2dDc3h6a21TNmQxdy1RTFVOa202c2g4YnYwR0xscjNaTG1yRTBoVzFZd21VME8yZEhZM0wxbWo0OW8tYVQ5cnhtcHpFR2tCWWgtTWFTWkg2UDBscVZlYXRDaGc2TmxZSzNUWUMtd3dzdTNRT3RDN2ViZVRmbEtpaDhmMHNhVnFZd3VWYzFzQ3N4X2ZyZm92enNvZWlBdkhQZTQ2QTYxeFpMdUJpUG9qZVg3RVVwaEJGc013amRiYm1R0gHcAUFVX3lxTE9xUFhQU0JjeFpLZTIzTXpLcndSUGJhYmF2RWpvSmtJSXplOW1jZGxQczFzWnZTNlZLX2NXNEVpbDhpektUZDJBTVZnLVhtSzVsbm05XzZiWmg5dDF2V3pzekI3OHYwLUNjVjdvZ1dJc1VCY05UcGR6TDlUVEEwRUY0eTdFMUhZOHpUN2RxeWF0ZlRSbEpjQW84U04xcDZaY080Z1VEZ0M1Qk5nZE01blNhS3dmTG9wOWs0enQxMDdRX1E3R3ZvY0sxeGhhWllyTWdRc3AtRmxPdnV4SWI"
+    },
+    {
+        "title": "OpenAI rolls out Memory feature for ChatGPT Plus customers: Here’s how it works - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVnp0UkRpV1BtWFJ5aE9PUWJPaVlvTzdiSEpJOXRrX2ZYYUNoZHdGVUtwbFZIVFpLM2JiUWNaWGJGbW54UDV5SG9iWld4UHJPYURyRmxtbkxVbWR3LTAzdnpIMnR0bi0xQjN3Qm9lNEg4U1lPV2c0LXAyek9rLUphanpRcWtTNGExbk1XcWRLRm5pZDQ4V3JwOXpSSkl0ZXplMWN5UDhpdFFxZjloUHhoNWlDblFVLWpacTdpUVMwZ2xpWW9UNkVnaURvdVgwblZ1c05MR3lsZjZ5Ry1EOXBSNS1zOTRBekNSY0swUDlIbFlTUQ?oc=5",
+        "publication_date": "Tue, 30 Apr 2024 07:00:00 GMT",
+        "source": "The Times of India",
+        "source_url": "https://timesofindia.indiatimes.com",
+        "guid": "CBMi8gFBVV95cUxNVnp0UkRpV1BtWFJ5aE9PUWJPaVlvTzdiSEpJOXRrX2ZYYUNoZHdGVUtwbFZIVFpLM2JiUWNaWGJGbW54UDV5SG9iWld4UHJPYURyRmxtbkxVbWR3LTAzdnpIMnR0bi0xQjN3Qm9lNEg4U1lPV2c0LXAyek9rLUphanpRcWtTNGExbk1XcWRLRm5pZDQ4V3JwOXpSSkl0ZXplMWN5UDhpdFFxZjloUHhoNWlDblFVLWpacTdpUVMwZ2xpWW9UNkVnaURvdVgwblZ1c05MR3lsZjZ5Ry1EOXBSNS1zOTRBekNSY0swUDlIbFlTUQ"
+    },
+    {
+        "title": "You can now upgrade to ChatGPT Plus directly in iOS — here’s how - Tom's Guide",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1pGZVBGMHljbVRxYlJuNlNkbDZNRGxRYkdxOXdoOFc5ZnZPc2V2N1ZGRDhEdjN3cm9NcWs4WnhXaHI3bTFQbU5keWVTSVEzVEZWVXBSLVN2dDF2SHNoc29NRFo3SkpyaGdXYmFUaW9VWE1TQ09wMkVVTDFZOUVqTXU1U0dZajU3YzRrM0IyblREcWQ0cUs0N3dUZWIwRHBKVWNsdG45SGpEWTY0d3c?oc=5",
+        "publication_date": "Tue, 05 Nov 2024 08:00:00 GMT",
+        "source": "Tom's Guide",
+        "source_url": "https://www.tomsguide.com",
+        "guid": "CBMirgFBVV95cUxPX1pGZVBGMHljbVRxYlJuNlNkbDZNRGxRYkdxOXdoOFc5ZnZPc2V2N1ZGRDhEdjN3cm9NcWs4WnhXaHI3bTFQbU5keWVTSVEzVEZWVXBSLVN2dDF2SHNoc29NRFo3SkpyaGdXYmFUaW9VWE1TQ09wMkVVTDFZOUVqTXU1U0dZajU3YzRrM0IyblREcWQ0cUs0N3dUZWIwRHBKVWNsdG45SGpEWTY0d3c"
+    },
+    {
+        "title": "ChatGPT vs. Microsoft Copilot vs. Gemini: Which is the best AI chatbot? - ZDNet",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHVUM0k0Yng3SmZ0Zk40ZHlCbV9WSTN4REZ0bmxDOFdNMUVsUnRVbzJ3Y3FlTWlvaTQ0UmVoQXB3Zi1KOGNLMkc1cW14SW1NWFUteWlHSlFZM1c4d3kxUmZSRGZFck1vUkxHaVZNVWRfRndKa3U4cndvMFJxNkItbm5PYkR2b3R3cFpWRnRIVVk5Nk1maVdjLWQwV3lKMzQ?oc=5",
+        "publication_date": "Tue, 13 Aug 2024 07:00:00 GMT",
+        "source": "ZDNet",
+        "source_url": "https://www.zdnet.com",
+        "guid": "CBMinwFBVV95cUxQRHVUM0k0Yng3SmZ0Zk40ZHlCbV9WSTN4REZ0bmxDOFdNMUVsUnRVbzJ3Y3FlTWlvaTQ0UmVoQXB3Zi1KOGNLMkc1cW14SW1NWFUteWlHSlFZM1c4d3kxUmZSRGZFck1vUkxHaVZNVWRfRndKa3U4cndvMFJxNkItbm5PYkR2b3R3cFpWRnRIVVk5Nk1maVdjLWQwV3lKMzQ"
+    },
+    {
+        "title": "OpenAI announces full “o1” reasoning model, $200 ChatGPT Pro tier - Ars Technica",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0J1eEUzVGMxTEhQTnFNaTJBSVA3LVUxN3o5NEhQNGx5M0IwTWp6UHA3OWZPX1dxSk1aeWZ6dlUtYm9WRXNiZkZEVGh3MWIwUjd0V3RUU1JRdDYybEsyTkRObjN1a1VidmZPWGNmeC1HU2d6MmtnVzBoMzFoeEdpME5KZ0JTOC1DVVlxSWIyQVJRSUkyazJQRXhPakQxUWlWbEU3QlgxOC1XQQ?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 18:39:23 GMT",
+        "source": "Ars Technica",
+        "source_url": "https://arstechnica.com",
+        "guid": "CBMiqgFBVV95cUxPY0J1eEUzVGMxTEhQTnFNaTJBSVA3LVUxN3o5NEhQNGx5M0IwTWp6UHA3OWZPX1dxSk1aeWZ6dlUtYm9WRXNiZkZEVGh3MWIwUjd0V3RUU1JRdDYybEsyTkRObjN1a1VidmZPWGNmeC1HU2d6MmtnVzBoMzFoeEdpME5KZ0JTOC1DVVlxSWIyQVJRSUkyazJQRXhPakQxUWlWbEU3QlgxOC1XQQ"
+    },
+    {
+        "title": "OpenAI launched ChatGPT Pro for $200: what is included in the premium subscription and who needs it - ITC",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUjFzdk1pN2Iyc3dxNlV1V2FXSlgxM21Vcmp0aVpadDZYWWhCamNQQ0FMRWNNcTBpMUVLX0N0V0JKdDhnZFFKSS1UN2JHMVhSbGpENFJFRjdVUjNYRDZ5YVc3VnNWT1VYSmdOblBNUW4zMDI4dWFYS05jTXBHeXpOYXVEVTZ2LTNCX3pqTTV2cUF3QjJHZEpZbmg3SE5nemh2cDF6NzJzR2NNVjgwVWw0Nm9oOUtibXoxNnZPdjN30gHDAUFVX3lxTE1hcHJQSHd2S0VxQ3RwM0ZtS3BBWXpfeWRVbmhidGxSZVlGdUlsY1RDLXZWeW1rWTkyY2VNT0xIcFNLLUlBZHQwZnhtMFFUd0p2SzZmMEpxR0R6VklHeEZYSkZjV1JnMmVDYzE0LVd5TFpMX3RsYUVtUWJrS2xDZG5nYnN0SEFUdkkteU9rSVA4NWFybmNnNDdrWVl0cFdINUs0NUQwSTNzaHBGSkRGWVRvUDB3QXpkSXdnSHpxdjd0OURySQ?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 07:24:38 GMT",
+        "source": "ITC",
+        "source_url": "https://itc.ua",
+        "guid": "CBMivgFBVV95cUxNUjFzdk1pN2Iyc3dxNlV1V2FXSlgxM21Vcmp0aVpadDZYWWhCamNQQ0FMRWNNcTBpMUVLX0N0V0JKdDhnZFFKSS1UN2JHMVhSbGpENFJFRjdVUjNYRDZ5YVc3VnNWT1VYSmdOblBNUW4zMDI4dWFYS05jTXBHeXpOYXVEVTZ2LTNCX3pqTTV2cUF3QjJHZEpZbmg3SE5nemh2cDF6NzJzR2NNVjgwVWw0Nm9oOUtibXoxNnZPdjN30gHDAUFVX3lxTE1hcHJQSHd2S0VxQ3RwM0ZtS3BBWXpfeWRVbmhidGxSZVlGdUlsY1RDLXZWeW1rWTkyY2VNT0xIcFNLLUlBZHQwZnhtMFFUd0p2SzZmMEpxR0R6VklHeEZYSkZjV1JnMmVDYzE0LVd5TFpMX3RsYUVtUWJrS2xDZG5nYnN0SEFUdkkteU9rSVA4NWFybmNnNDdrWVl0cFdINUs0NUQwSTNzaHBGSkRGWVRvUDB3QXpkSXdnSHpxdjd0OURySQ"
+    },
+    {
+        "title": "ChatGPT Plus is going to get a bit more expensive soon - Techloy",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPckVJckE0TTBGUVJvUW0zYVFKU05RS3Z2ek5Xa0VtZ0tlOTV3ZzVuV3BST3V6SnFlbnpqQzJ1MkQzNXo2N0V0NWN1djBmUGZWYTRaN29RUHpqMFB1eWw2cGNuU3dOOWxlWmo4VHZHUjVsQkZvYTNBYlBTWnNvN3drb1lpRW9td9IBiwFBVV95cUxQZHdsd29MRFRmSUw5MVBpQ3RFMHJEdDk1dmRoUjJScjd5X1RIaGpaT2RwNUlKSDNlcC1wdXhWbVhJM2VtTjQwOTJ1TDlDdFFTaTBnSG85MmQwT0ZGUzhtdVJNTm55cDUyU2UwRzNOdGNHSnhkMDdNdDNDSFllZm5HWmNHdTFDWGlKa093?oc=5",
+        "publication_date": "Mon, 30 Sep 2024 07:00:00 GMT",
+        "source": "Techloy",
+        "source_url": "https://www.techloy.com",
+        "guid": "CBMihgFBVV95cUxPckVJckE0TTBGUVJvUW0zYVFKU05RS3Z2ek5Xa0VtZ0tlOTV3ZzVuV3BST3V6SnFlbnpqQzJ1MkQzNXo2N0V0NWN1djBmUGZWYTRaN29RUHpqMFB1eWw2cGNuU3dOOWxlWmo4VHZHUjVsQkZvYTNBYlBTWnNvN3drb1lpRW9td9IBiwFBVV95cUxQZHdsd29MRFRmSUw5MVBpQ3RFMHJEdDk1dmRoUjJScjd5X1RIaGpaT2RwNUlKSDNlcC1wdXhWbVhJM2VtTjQwOTJ1TDlDdFFTaTBnSG85MmQwT0ZGUzhtdVJNTm55cDUyU2UwRzNOdGNHSnhkMDdNdDNDSFllZm5HWmNHdTFDWGlKa093"
+    },
+    {
+        "title": "Google One AI Premium Plan vs ChatGPT Plus: Which one is better for you? - Business Today",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObUtyYmNlWE1OVDlnY1MyRENnMVdOQ3dXbHAybXc4VDBnbE5jd0hoLTRXUGo1MG51M2xhNWVVUXFXeGlVRmZqejI4bk9VSnZIdERiVW9XM25idUpjZHNOVk5heDJOeGgyLXozakZhSjVXUFgycFR3Ti15RVBJM0xJTFNZaHdDd0E1dDIzYi03cEFJUlF5TG40VjB3SGo4VHFxNGNRLVFQNnlTNkVrRVBqSDljcHQ4b3VzcU9RWmlDYkFFRW0zV3FFTGtodXItcU82d1lUQzh3?oc=5",
+        "publication_date": "Tue, 13 Feb 2024 08:00:00 GMT",
+        "source": "Business Today",
+        "source_url": "https://www.businesstoday.in",
+        "guid": "CBMi1gFBVV95cUxObUtyYmNlWE1OVDlnY1MyRENnMVdOQ3dXbHAybXc4VDBnbE5jd0hoLTRXUGo1MG51M2xhNWVVUXFXeGlVRmZqejI4bk9VSnZIdERiVW9XM25idUpjZHNOVk5heDJOeGgyLXozakZhSjVXUFgycFR3Ti15RVBJM0xJTFNZaHdDd0E1dDIzYi03cEFJUlF5TG40VjB3SGo4VHFxNGNRLVFQNnlTNkVrRVBqSDljcHQ4b3VzcU9RWmlDYkFFRW0zV3FFTGtodXItcU82d1lUQzh3"
+    },
+    {
+        "title": "iOS 18.2 Will Allow You to Upgrade to ChatGPT Plus Right From the Settings App - Beebom",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fSmc3a1NTUWJPaENYTUhEanh6NFVfaVpKTDFmMXFQNnI0OWpkUGM1MjVYb0FEREVoMlhDVWtQbFdiUFA0ZDVrcjdnWWtyMmV4VDlIRmk0b0hVampUaDFnUEN0Vm1xVVVJYkswQXZhONIBdEFVX3lxTE1hc0dqLThzbkJ6NUthY1J4UndRRGs2d0Y1NWVNQjEyQTc2a2FhdnNOVTFHRFM2R2FiSGRJSmtnVkVrYUQ2MzdrZkJBd3FzZVo3UE1WUjlYb2xNTzdLSUtqV1RzNEtIWE8zUjJQMEw1eTNYV3Ex?oc=5",
+        "publication_date": "Tue, 05 Nov 2024 08:00:00 GMT",
+        "source": "Beebom",
+        "source_url": "https://beebom.com",
+        "guid": "CBMib0FVX3lxTE9fSmc3a1NTUWJPaENYTUhEanh6NFVfaVpKTDFmMXFQNnI0OWpkUGM1MjVYb0FEREVoMlhDVWtQbFdiUFA0ZDVrcjdnWWtyMmV4VDlIRmk0b0hVampUaDFnUEN0Vm1xVVVJYkswQXZhONIBdEFVX3lxTE1hc0dqLThzbkJ6NUthY1J4UndRRGs2d0Y1NWVNQjEyQTc2a2FhdnNOVTFHRFM2R2FiSGRJSmtnVkVrYUQ2MzdrZkJBd3FzZVo3UE1WUjlYb2xNTzdLSUtqV1RzNEtIWE8zUjJQMEw1eTNYV3Ex"
+    },
+    {
+        "title": "ChatGPT vs Google Gemini (2024): What Are the Main Differences? - TechRepublic",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51aFY1cTJDMFFVNG5VMlZxcUhHMEJ5WEFZUzN1Mm9CaDdoX19rN0tDd1NXNUZWQTY1MUttejFUbnJZVEMxR2pkWWJPX28tc2Mwcl9sSGtYLUZhbUZKVGEzejEySUZFVTNWS0JiaDB1RQ?oc=5",
+        "publication_date": "Fri, 09 Aug 2024 07:00:00 GMT",
+        "source": "TechRepublic",
+        "source_url": "https://www.techrepublic.com",
+        "guid": "CBMib0FVX3lxTE51aFY1cTJDMFFVNG5VMlZxcUhHMEJ5WEFZUzN1Mm9CaDdoX19rN0tDd1NXNUZWQTY1MUttejFUbnJZVEMxR2pkWWJPX28tc2Mwcl9sSGtYLUZhbUZKVGEzejEySUZFVTNWS0JiaDB1RQ"
+    }
+]

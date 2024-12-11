@@ -1,0 +1,802 @@
+[
+    {
+        "title": "5 Free Resources to Understand Neural Networks - KDnuggets",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fZWdzd2s2TzhzRmo4WWNBM3BlVkJXdlFzQ3NDNkpYLVlZNnVmWV8zMVptXzZtZDNnOWJSSDdFeVNrSEk0NFFudEhGTmc5S2J2QVBfcThFOWZ0TVYxTENRM09OOG1ocGx4b1l2ZU50Y2xxSS1sMFZ3RA?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 00:56:15 GMT",
+        "source": "KDnuggets",
+        "source_url": "https://www.kdnuggets.com",
+        "guid": "CBMieEFVX3lxTE1fZWdzd2s2TzhzRmo4WWNBM3BlVkJXdlFzQ3NDNkpYLVlZNnVmWV8zMVptXzZtZDNnOWJSSDdFeVNrSEk0NFFudEhGTmc5S2J2QVBfcThFOWZ0TVYxTENRM09OOG1ocGx4b1l2ZU50Y2xxSS1sMFZ3RA"
+    },
+    {
+        "title": "Neurosymbolic AI Could Be the Key to Unlocking Human-Like Intelligence - CCN.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVVBbmNYc3FqMGtVNXgwUldVdzFGbGlnS1BLTmRjTlUtN0h5TzNsamJLS2J4YlJkblV4M1lIdnNpRW4zNHB0T3EzdkxzYV9fTU9aaUw5alRaY0hGUllaVjRwZjBkRUt0WkFPem4yNnBwbnVJbktnQ0NhRVh5Q2Z1RjlvQ21sQTBaQnFuYmpn?oc=5",
+        "publication_date": "Sat, 07 Dec 2024 09:39:24 GMT",
+        "source": "CCN.com",
+        "source_url": "https://www.ccn.com",
+        "guid": "CBMijgFBVV95cUxPUVVBbmNYc3FqMGtVNXgwUldVdzFGbGlnS1BLTmRjTlUtN0h5TzNsamJLS2J4YlJkblV4M1lIdnNpRW4zNHB0T3EzdkxzYV9fTU9aaUw5alRaY0hGUllaVjRwZjBkRUt0WkFPem4yNnBwbnVJbktnQ0NhRVh5Q2Z1RjlvQ21sQTBaQnFuYmpn"
+    },
+    {
+        "title": "Neural network representations of multiphase Equations of State - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4TjhzMmdFazh6aTkzeWw2UXd2TmpnUGRUeTlaMmhRMi1jZjk0S0ZJeEZ4aklVTzhOUS13bkJsSkNCblc2SUlmRWlXNHJsbDlTNFN6cERtQ1RRVTNyemNV?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 04:11:07 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFB4TjhzMmdFazh6aTkzeWw2UXd2TmpnUGRUeTlaMmhRMi1jZjk0S0ZJeEZ4aklVTzhOUS13bkJsSkNCblc2SUlmRWlXNHJsbDlTNFN6cERtQ1RRVTNyemNV"
+    },
+    {
+        "title": "Enhanced control of a brain–computer interface by tetraplegic participants via neural-network-mediated feature extraction - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzVEo3Y25adHBtNE5KQnFfd3d6dEhqVHROS1U4MVJmZWZOaDRQdzdsenJrbXJ0dzg5Mzh3ZjR1RzR5amhBZDYteTNrU2Z5RVZVX055ZzhablBYZkZxb3VR?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 10:32:36 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFAzVEo3Y25adHBtNE5KQnFfd3d6dEhqVHROS1U4MVJmZWZOaDRQdzdsenJrbXJ0dzg5Mzh3ZjR1RzR5amhBZDYteTNrU2Z5RVZVX055ZzhablBYZkZxb3VR"
+    },
+    {
+        "title": "What the brain can teach artificial neural networks - The Transmitter: Neuroscience News and Perspectives",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXplbG1HY003dDJVNjNEMG5BTmgxNFBpNXRubmRIM1lWaVN1WXlKdlBicGJUclFkNWxPeEYtcklxdVN5aU00LUg4cVFHdmNqdUVyS1M0azBya1hWVVJyZmpxUEo2TXZoeERvT3ZJRDA5TE9CVUFZZkVKTnFVSzNnam5hMFp5Y2dTdWN4M1ozbldZU1Y3bGc?oc=5",
+        "publication_date": "Mon, 11 Nov 2024 08:00:00 GMT",
+        "source": "The Transmitter: Neuroscience News and Perspectives",
+        "source_url": "https://www.thetransmitter.org",
+        "guid": "CBMilgFBVV95cUxPZXplbG1HY003dDJVNjNEMG5BTmgxNFBpNXRubmRIM1lWaVN1WXlKdlBicGJUclFkNWxPeEYtcklxdVN5aU00LUg4cVFHdmNqdUVyS1M0azBya1hWVVJyZmpxUEo2TXZoeERvT3ZJRDA5TE9CVUFZZkVKTnFVSzNnam5hMFp5Y2dTdWN4M1ozbldZU1Y3bGc"
+    },
+    {
+        "title": "Tesla pushes end-to-end neural networks for highway driving, but only for newer vehicles - Electrek.co",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG1zeUlKNmxndUw4NWZySlA2LTRYOGFMTFZRWHFHdzRvQ2RwVGdLQmJ4a21OZ3l3Q0Z3dm01SjlmMUVibE1Nb3hPYTlUNXRXYkRxOExsS1YxOVNKellHRFZJVnUyNmlZSEJyZzRiQ0U3Q1ZCMHlEcVBmNFBKQldiSzEzRzBKWjBITnB2bzNuVDRtYjk1dlBaNGF2T2ljbDdvU3EzTDRlajRvOHY3RDBRU3otMXNxV1VQWGg0?oc=5",
+        "publication_date": "Thu, 14 Nov 2024 08:00:00 GMT",
+        "source": "Electrek.co",
+        "source_url": "https://electrek.co",
+        "guid": "CBMiuwFBVV95cUxOOG1zeUlKNmxndUw4NWZySlA2LTRYOGFMTFZRWHFHdzRvQ2RwVGdLQmJ4a21OZ3l3Q0Z3dm01SjlmMUVibE1Nb3hPYTlUNXRXYkRxOExsS1YxOVNKellHRFZJVnUyNmlZSEJyZzRiQ0U3Q1ZCMHlEcVBmNFBKQldiSzEzRzBKWjBITnB2bzNuVDRtYjk1dlBaNGF2T2ljbDdvU3EzTDRlajRvOHY3RDBRU3otMXNxV1VQWGg0"
+    },
+    {
+        "title": "Single-chip photonic deep neural network with forward-only training - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JWlJZOHFlalNSYXhwVGk3ekZJM2h6c2RyRzJ0VkNXX29YNXlWWGlCWkZRYUluZXhxMGtaVmZQdHVkYnF3RnEwNUpRell3RHVoeEt1X3JOWmxqem5kbWhn?oc=5",
+        "publication_date": "Mon, 02 Dec 2024 16:30:25 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE9JWlJZOHFlalNSYXhwVGk3ekZJM2h6c2RyRzJ0VkNXX29YNXlWWGlCWkZRYUluZXhxMGtaVmZQdHVkYnF3RnEwNUpRell3RHVoeEt1X3JOWmxqem5kbWhn"
+    },
+    {
+        "title": "Top 10 Deep Learning Algorithms You Should Know in 2025 - Simplilearn",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0RqOEc3N1NudGVOdzNTZ2dFeFVvOVRYZDhma3hhUzVNb0ZXazctTWdEeGhaQktpdGpPZ0NMTi1PSXlKc0gyN3QwS1JDV2t6RU1CWS1iQ1pSS0poYjhyWHhfcjg4TTQwanRlSnZOMWprcFIxb21EMXJoVm1JVEJtcmsxYm5LaFBKUS15Wg?oc=5",
+        "publication_date": "Tue, 26 Nov 2024 08:00:00 GMT",
+        "source": "Simplilearn",
+        "source_url": "https://www.simplilearn.com",
+        "guid": "CBMijAFBVV95cUxNR0RqOEc3N1NudGVOdzNTZ2dFeFVvOVRYZDhma3hhUzVNb0ZXazctTWdEeGhaQktpdGpPZ0NMTi1PSXlKc0gyN3QwS1JDV2t6RU1CWS1iQ1pSS0poYjhyWHhfcjg4TTQwanRlSnZOMWprcFIxb21EMXJoVm1JVEJtcmsxYm5LaFBKUS15Wg"
+    },
+    {
+        "title": "Machine learning vs. neural networks: What's the difference? - TechTarget",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUF8yX21DSTFHZ3lKZFRqaFZ1X1dPSC0tb3gxclpIeHRkZDk5ekRlZjZydmc5a0lNaVRWM3hBb3NIc1Fad2g0dGJPY1BxY00xaHdnOWFDdjJwX2ZfUFZmMk5vZHM2ZXdqSk9xYWNSYjBrS3YwelBGRHpkVWtCV2E1ak13MHNGbU03aDZGNEZQZTVLdHJEMHNQRjNnNE9HWGs3VUw0RUE3M3ZfV1k2M2c?oc=5",
+        "publication_date": "Mon, 29 Jul 2024 07:00:00 GMT",
+        "source": "TechTarget",
+        "source_url": "https://www.techtarget.com",
+        "guid": "CBMirgFBVV95cUxOUF8yX21DSTFHZ3lKZFRqaFZ1X1dPSC0tb3gxclpIeHRkZDk5ekRlZjZydmc5a0lNaVRWM3hBb3NIc1Fad2g0dGJPY1BxY00xaHdnOWFDdjJwX2ZfUFZmMk5vZHM2ZXdqSk9xYWNSYjBrS3YwelBGRHpkVWtCV2E1ak13MHNGbU03aDZGNEZQZTVLdHJEMHNQRjNnNE9HWGs3VUw0RUE3M3ZfV1k2M2c"
+    },
+    {
+        "title": "ZipNN: A New Lossless Compression Method Tailored to Neural Networks - MarkTechPost",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTByZElSVmUweE5XUXFfcXVrSnJWd3RDczF6VV9rUTZSY2Y2QVBvX21pOWVpa2o4OHdKNEFYeENjRDNHMldEUWtzRnM4NXFJTHBlVGdaVnNXcW52V09CNVFsQ2poYTZZRTdXbUpOQ05HLS1VUGgtQ2g2dXFvNU9GdmlSMDIwT0lqS3BLOUliQzJ2VkpYSGstOUNIVVRpdTdKQ0g1VFFEZktsZkRE0gGyAUFVX3lxTE45M3QtUFVsd0U4RjdPLWcwZGVyd0dUTHktTjdUMVNwdGZ2b0dRSXEzQUo3UnhwT2RZLV9lV3hNaVJmWTREMUxwQVpRVzBUNlBfZXVRVFZfUWRpNy13bTRZMndpd2xfdHYwVWREVTNzeFVJTDJnS2NIRkpzTjVIeFh0U3pra0NibTU1d0xOeEhNakFlM0lZUnNQMURrZW8zbVIySnRybW1fbXJOVW1FbU1hZXc?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 15:05:56 GMT",
+        "source": "MarkTechPost",
+        "source_url": "https://www.marktechpost.com",
+        "guid": "CBMirAFBVV95cUxQQTByZElSVmUweE5XUXFfcXVrSnJWd3RDczF6VV9rUTZSY2Y2QVBvX21pOWVpa2o4OHdKNEFYeENjRDNHMldEUWtzRnM4NXFJTHBlVGdaVnNXcW52V09CNVFsQ2poYTZZRTdXbUpOQ05HLS1VUGgtQ2g2dXFvNU9GdmlSMDIwT0lqS3BLOUliQzJ2VkpYSGstOUNIVVRpdTdKQ0g1VFFEZktsZkRE0gGyAUFVX3lxTE45M3QtUFVsd0U4RjdPLWcwZGVyd0dUTHktTjdUMVNwdGZ2b0dRSXEzQUo3UnhwT2RZLV9lV3hNaVJmWTREMUxwQVpRVzBUNlBfZXVRVFZfUWRpNy13bTRZMndpd2xfdHYwVWREVTNzeFVJTDJnS2NIRkpzTjVIeFh0U3pra0NibTU1d0xOeEhNakFlM0lZUnNQMURrZW8zbVIySnRybW1fbXJOVW1FbU1hZXc"
+    },
+    {
+        "title": "What are Liquid Neural Networks? And why should you care? - Capgemini",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2tTWnE3X0xZUmx5YjczdlN5UEJ4V3pVTnVCcjZzVWg2c29UUVFOQlN2YWpQd0pRaTZ0RFdrSGtZZ2F1VFFTWUIxcXZmMGtxVXB3R1RBWkpiU0VrcU81Q1BLMmVQOFMzTlV1VDZuRktDRlp5eUZMbWpmdEdMUHRLWU9nT2VQV0g3ZFktRnFUMGhmMS1tTXJ2V0otX05yMDZTWFRIU0dqR01YYmNfTFJQZQ?oc=5",
+        "publication_date": "Fri, 25 Oct 2024 07:00:00 GMT",
+        "source": "Capgemini",
+        "source_url": "https://www.capgemini.com",
+        "guid": "CBMisAFBVV95cUxNM2tTWnE3X0xZUmx5YjczdlN5UEJ4V3pVTnVCcjZzVWg2c29UUVFOQlN2YWpQd0pRaTZ0RFdrSGtZZ2F1VFFTWUIxcXZmMGtxVXB3R1RBWkpiU0VrcU81Q1BLMmVQOFMzTlV1VDZuRktDRlp5eUZMbWpmdEdMUHRLWU9nT2VQV0g3ZFktRnFUMGhmMS1tTXJ2V0otX05yMDZTWFRIU0dqR01YYmNfTFJQZQ"
+    },
+    {
+        "title": "Nobel Prize: Mimicking Human Intelligence with Neural Networks - Physics",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUa0tpQXVJVWs4MnZQaGtldkxPY0NrbjJIdWh4eWQ1d3BpMUt4Q3o5c0ViTzlVOW5FaHVrc25MMWlGaDRCOGFLak95SEFzS2tROXc?oc=5",
+        "publication_date": "Tue, 08 Oct 2024 07:00:00 GMT",
+        "source": "Physics",
+        "source_url": "https://physics.aps.org",
+        "guid": "CBMiUkFVX3lxTFBUa0tpQXVJVWs4MnZQaGtldkxPY0NrbjJIdWh4eWQ1d3BpMUt4Q3o5c0ViTzlVOW5FaHVrc25MMWlGaDRCOGFLak95SEFzS2tROXc"
+    },
+    {
+        "title": "Physics Nobel awarded to neural network pioneers who laid foundations for AI - The Conversation",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzFWY3BhdnlYQklIckFjanY2U1VyS3llQTJsSEQ3SkNrMnJRNGpXNkNvVTZyeWpQY0ZaR2c2R3NDdWdEbjNRNHZPZHNOTkd3YUhkV0tpc2tYMGlWamxzeVp5UUpKX0ZQOVdnN1pTcy1HVTB5VXNmT21MOVNPYUI3N09GVWEyYklZR1B2MkRadFhvTUY2allZb0Ixd3BMa1FfekdOZWFKVkdBRzJueVZ6bw?oc=5",
+        "publication_date": "Tue, 08 Oct 2024 07:00:00 GMT",
+        "source": "The Conversation",
+        "source_url": "https://theconversation.com",
+        "guid": "CBMisAFBVV95cUxPXzFWY3BhdnlYQklIckFjanY2U1VyS3llQTJsSEQ3SkNrMnJRNGpXNkNvVTZyeWpQY0ZaR2c2R3NDdWdEbjNRNHZPZHNOTkd3YUhkV0tpc2tYMGlWamxzeVp5UUpKX0ZQOVdnN1pTcy1HVTB5VXNmT21MOVNPYUI3N09GVWEyYklZR1B2MkRadFhvTUY2allZb0Ixd3BMa1FfekdOZWFKVkdBRzJueVZ6bw"
+    },
+    {
+        "title": "Is Human Superintelligence Possible? | by Lightcone Labs | Dec, 2024 - Medium",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0t6MmZKZTNEOElaVkcyY2ZwU3ZxbmdZS0c3ZElRNEJndEY2Y3IyRDJRVUVxMVBNaEJ3TE9fSm1pT0N1djBpR3FFSUJac3F3aEdDeU1DS2kzS1BIUVNrQnZjRzVSS0xwZzVXY1VtR0FOVTVJZG11MWk3NDRtRXBKN051WWZNSVAtM0E?oc=5",
+        "publication_date": "Sat, 07 Dec 2024 20:24:29 GMT",
+        "source": "Medium",
+        "source_url": "https://medium.com",
+        "guid": "CBMiigFBVV95cUxOT0t6MmZKZTNEOElaVkcyY2ZwU3ZxbmdZS0c3ZElRNEJndEY2Y3IyRDJRVUVxMVBNaEJ3TE9fSm1pT0N1djBpR3FFSUJac3F3aEdDeU1DS2kzS1BIUVNrQnZjRzVSS0xwZzVXY1VtR0FOVTVJZG11MWk3NDRtRXBKN051WWZNSVAtM0E"
+    },
+    {
+        "title": "Object-based feedback attention in convolutional neural networks improves tumour detection in digital pathology - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLRkIwc0VGSEpYQUd1QUpRMEwwV2thd29CVHVDajBiVHVqZ0tSRDJpWWpQM2pEeEUyekk0N3pLX3pHdkg4YWlJTFBILWJxMDl5RUM3Nk1XMC10aDBobWNJ?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 20:11:03 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFBLRkIwc0VGSEpYQUd1QUpRMEwwV2thd29CVHVDajBiVHVqZ0tSRDJpWWpQM2pEeEUyekk0N3pLX3pHdkg4YWlJTFBILWJxMDl5RUM3Nk1XMC10aDBobWNJ"
+    },
+    {
+        "title": "An Ultimate Tutorial to Neural Networks in 2024 - Simplilearn",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFdmbE4wcExVVFhmM3ZVcVF5SnlaTnNDelNNZGhlZV9IRW9OT3JzbGtoYktGNmQ0V1N3ckE0NHFOTE9aOVl0NldUWUd5OU5rM1I1UUpnSERCNjhaWmYzdnlDWi1wQVhSRWZyR2l4eVY3b2xqcVdQNUF3OXU1SnZFTw?oc=5",
+        "publication_date": "Tue, 03 Sep 2024 07:00:00 GMT",
+        "source": "Simplilearn",
+        "source_url": "https://www.simplilearn.com",
+        "guid": "CBMigAFBVV95cUxPaFdmbE4wcExVVFhmM3ZVcVF5SnlaTnNDelNNZGhlZV9IRW9OT3JzbGtoYktGNmQ0V1N3ckE0NHFOTE9aOVl0NldUWUd5OU5rM1I1UUpnSERCNjhaWmYzdnlDWi1wQVhSRWZyR2l4eVY3b2xqcVdQNUF3OXU1SnZFTw"
+    },
+    {
+        "title": "A novel convolutional neural network for enhancing the continuity of pavement crack detection - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NMHd3aS1OQURWMXg1RV9LWlBWemJIZjlLTW1RYmNEdFFQaTVDaS1Uc2M2UmkyNUlJcHczaHZvazhsMG5nY2hBdlR4MXZVRENza1B4Sk5lamRpNmNINnpB?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 15:21:26 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE9NMHd3aS1OQURWMXg1RV9LWlBWemJIZjlLTW1RYmNEdFFQaTVDaS1Uc2M2UmkyNUlJcHczaHZvazhsMG5nY2hBdlR4MXZVRENza1B4Sk5lamRpNmNINnpB"
+    },
+    {
+        "title": "Spin-symmetry-enforced solution of the many-body Schrödinger equation with a deep neural network - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9heURhZ0ctVXpZVDZKWjBMTi1MSFdfaV91Ry1iOVpZQ0VDUmdwclIwTDJzb2lrSGM5ZE1Tbm04bl96VVdrMUFvemhIM2NuZDdOcnNKeGFGR1FsRW5zVXBv?oc=5",
+        "publication_date": "Wed, 04 Dec 2024 11:39:23 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE9heURhZ0ctVXpZVDZKWjBMTi1MSFdfaV91Ry1iOVpZQ0VDUmdwclIwTDJzb2lrSGM5ZE1Tbm04bl96VVdrMUFvemhIM2NuZDdOcnNKeGFGR1FsRW5zVXBv"
+    },
+    {
+        "title": "Teaching spin symmetry while learning neural network wave functions - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3QnNrcDdQa3BselA3NTFoOXV6ajN5YUczdkJEQlljaFhBUVpHLXU3bEIzdHhFWWt3SHFjd193ZHFtYzlNMGxmSTVNSC1BLUxtSU45amRSaFg0N0FjLURn?oc=5",
+        "publication_date": "Wed, 04 Dec 2024 10:45:22 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFA3QnNrcDdQa3BselA3NTFoOXV6ajN5YUczdkJEQlljaFhBUVpHLXU3bEIzdHhFWWt3SHFjd193ZHFtYzlNMGxmSTVNSC1BLUxtSU45amRSaFg0N0FjLURn"
+    },
+    {
+        "title": "Interpreting single-cell and spatial omics data using deep neural network training dynamics - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ENHRhYm14cU9nZS1pZlFRSGtXOWYyak85RUJhdFdna3hLU21nTXV5cTFjaEU4Q3hTWGc3N05mZi05cjYxUC1ybjl3LXQzYjQwejZ2cEpzQVMxT3VCakNn?oc=5",
+        "publication_date": "Wed, 04 Dec 2024 10:45:22 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE5ENHRhYm14cU9nZS1pZlFRSGtXOWYyak85RUJhdFdna3hLU21nTXV5cTFjaEU4Q3hTWGc3N05mZi05cjYxUC1ybjl3LXQzYjQwejZ2cEpzQVMxT3VCakNn"
+    },
+    {
+        "title": "Optical neural networks: progress and challenges - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwQWRBaTdCQm54YjRZVU5PVjZTSFlmaG1fNERYcENQLVRXLTUxSU5UYlEtdXdfdUhrMnVIaGliZkVqZlpxWG9kYWp1b25hdTEwWU1DNmZhSm9yX3cwTGlj?oc=5",
+        "publication_date": "Fri, 20 Sep 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFBwQWRBaTdCQm54YjRZVU5PVjZTSFlmaG1fNERYcENQLVRXLTUxSU5UYlEtdXdfdUhrMnVIaGliZkVqZlpxWG9kYWp1b25hdTEwWU1DNmZhSm9yX3cwTGlj"
+    },
+    {
+        "title": "Neural networks for abstraction and reasoning - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHMkI2U1psYUQ5ZC10RzhEeExla2tJXzJXTUVmQ0RBMXpxRUVSVFhyX3Z1Rk9JZkxHWXZ4b3dZVFV3eUR5UTFreVF3dFFlbVdGaTY3VTB1Qy1vZWpjU29v?oc=5",
+        "publication_date": "Wed, 13 Nov 2024 08:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFBHMkI2U1psYUQ5ZC10RzhEeExla2tJXzJXTUVmQ0RBMXpxRUVSVFhyX3Z1Rk9JZkxHWXZ4b3dZVFV3eUR5UTFreVF3dFFlbVdGaTY3VTB1Qy1vZWpjU29v"
+    },
+    {
+        "title": "New Algorithm Enables Neural Networks to Learn Continuously - Caltech",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdVlPaFZWOEtobWhXZ0tOVVEzRGlXU0VkdElsTi1NbjAwRHlGVnF3ck5BUEZYdm1vTllsOUc2NGNXa1BiZnVPR0dlUmtGS3dKTVZwZ2hnSkxqd3NJZDNZZEhWaG8xeU5FRFdPdGhVTVRtWlZfdTlsOXU1YzJKRkZkTDRBWVo4T0QzX2FHZFk5MGZFSUEzSkM2Tkpn?oc=5",
+        "publication_date": "Wed, 09 Oct 2024 07:00:00 GMT",
+        "source": "Caltech",
+        "source_url": "https://www.caltech.edu",
+        "guid": "CBMimgFBVV95cUxNdVlPaFZWOEtobWhXZ0tOVVEzRGlXU0VkdElsTi1NbjAwRHlGVnF3ck5BUEZYdm1vTllsOUc2NGNXa1BiZnVPR0dlUmtGS3dKTVZwZ2hnSkxqd3NJZDNZZEhWaG8xeU5FRFdPdGhVTVRtWlZfdTlsOXU1YzJKRkZkTDRBWVo4T0QzX2FHZFk5MGZFSUEzSkM2Tkpn"
+    },
+    {
+        "title": "Optical deep neural networks are revolutionizing AI computation - The Brighter Side of News",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmZCTjd0M0FDV3cxczB4cVdjWGhVaVNjLThiV0U0NUI3ZFgtY3ZIWmY3SHllWEtUMHE3aWlPVnJzTDg5eUJiNENwdEQ0SFBkWFlMZ1owRFRpMXdEUC1TdF8zblQ5VlMxQWVvT2pDX3k4X1h6YkE3TVYtaWc1cng5M3RBWm5oYnNtUlRhcnctN0tFMURLM3JrUU1YN2ljeXdWSmZyRw?oc=5",
+        "publication_date": "Wed, 04 Dec 2024 23:07:00 GMT",
+        "source": "The Brighter Side of News",
+        "source_url": "https://www.thebrighterside.news",
+        "guid": "CBMipAFBVV95cUxNQmZCTjd0M0FDV3cxczB4cVdjWGhVaVNjLThiV0U0NUI3ZFgtY3ZIWmY3SHllWEtUMHE3aWlPVnJzTDg5eUJiNENwdEQ0SFBkWFlMZ1owRFRpMXdEUC1TdF8zblQ5VlMxQWVvT2pDX3k4X1h6YkE3TVYtaWc1cng5M3RBWm5oYnNtUlRhcnctN0tFMURLM3JrUU1YN2ljeXdWSmZyRw"
+    },
+    {
+        "title": "Robust neural networks using stochastic resonance neurons - Communications Engineering - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CNGtuR2RueDcwbFhVdlRCOEJMM1d0SHB2VmNscUZmbGFPMXp0alZiRFBET0VWNnVEdnc0NTh1eTE5YnBBbGFUU3ZHTDNJb0tZV1dEMms5NnNhbjNKZlQ4?oc=5",
+        "publication_date": "Wed, 13 Nov 2024 08:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE9CNGtuR2RueDcwbFhVdlRCOEJMM1d0SHB2VmNscUZmbGFPMXp0alZiRFBET0VWNnVEdnc0NTh1eTE5YnBBbGFUU3ZHTDNJb0tZV1dEMms5NnNhbjNKZlQ4"
+    },
+    {
+        "title": "Exploring Business Applications of Artificial Neural Networks - Appinventiv",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRaENrdFd2SVVZZGI4RkRMcXNBZnlMbi13UUxLMDBzT05pUnRQWHdYOUgzcTctQi1qN04zZnVIR2RCUEdjenJYQmc3ZmFiczVORHZyYzcxZ3E0aGN5LWl1Z0VSb0gxNW95VkJVTkwtVC15SURkRnRLVQ?oc=5",
+        "publication_date": "Wed, 25 Sep 2024 07:00:00 GMT",
+        "source": "Appinventiv",
+        "source_url": "https://appinventiv.com",
+        "guid": "CBMieEFVX3lxTFBRaENrdFd2SVVZZGI4RkRMcXNBZnlMbi13UUxLMDBzT05pUnRQWHdYOUgzcTctQi1qN04zZnVIR2RCUEdjenJYQmc3ZmFiczVORHZyYzcxZ3E0aGN5LWl1Z0VSb0gxNW95VkJVTkwtVC15SURkRnRLVQ"
+    },
+    {
+        "title": "Physics solves a training problem for artificial neural networks - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vb2JCSm53UUJ4YUZDTkRPYnkyQ21pZnoyVnViQWZ0MmUxbjVtVGFHdXlkZFdLal9oeFlhWnd4eUgzMVRrTHNpVENsa0RVVmRPVmhYMkF6T3lkSXhvdXIw?oc=5",
+        "publication_date": "Wed, 07 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE5vb2JCSm53UUJ4YUZDTkRPYnkyQ21pZnoyVnViQWZ0MmUxbjVtVGFHdXlkZFdLal9oeFlhWnd4eUgzMVRrTHNpVENsa0RVVmRPVmhYMkF6T3lkSXhvdXIw"
+    },
+    {
+        "title": "Fully forward mode training for optical neural networks - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ybE9fRzZvV2w2WTNuaHNicXJMVDRPZDZGWDhfOTJ5SzI0REhmX05WaW02bGk4ajFwY3R0MFNNT3pObklkbDJaUGF0cnIxc0llNTVJS01sTUd0Z0MybUFr?oc=5",
+        "publication_date": "Wed, 07 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE0ybE9fRzZvV2w2WTNuaHNicXJMVDRPZDZGWDhfOTJ5SzI0REhmX05WaW02bGk4ajFwY3R0MFNNT3pObklkbDJaUGF0cnIxc0llNTVJS01sTUd0Z0MybUFr"
+    },
+    {
+        "title": "Time Delays Improve Performance of Certain Neural Networks - Physics",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiUEhCNFU0S2R0NEcxQ1BLME9lQnB2VzFSdHAxQjI0SlBCem9DMXBpWUttNHd3djVOTDNfQ2xzNEppTWZtRmlTejk1cjdQVklNMUE?oc=5",
+        "publication_date": "Mon, 22 Jul 2024 07:00:00 GMT",
+        "source": "Physics",
+        "source_url": "https://physics.aps.org",
+        "guid": "CBMiUkFVX3lxTFBiUEhCNFU0S2R0NEcxQ1BLME9lQnB2VzFSdHAxQjI0SlBCem9DMXBpWUttNHd3djVOTDNfQ2xzNEppTWZtRmlTejk1cjdQVklNMUE"
+    },
+    {
+        "title": "Application of physics encoded neural networks to improve predictability of properties of complex multi-scale systems - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rRGtyNGNaa0lta19felNmUVJ5LURWdUFhMUJSRDU3M3pJeWFBT0w0VWdMUGVocFZxNTFhY3JkMy15YUJJN05JS2lQZDhOcG0yQ1JYX3h4NFNZTkZDZ2Vn?oc=5",
+        "publication_date": "Mon, 01 Jul 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE5rRGtyNGNaa0lta19felNmUVJ5LURWdUFhMUJSRDU3M3pJeWFBT0w0VWdMUGVocFZxNTFhY3JkMy15YUJJN05JS2lQZDhOcG0yQ1JYX3h4NFNZTkZDZ2Vn"
+    },
+    {
+        "title": "Spatially varying nanophotonic neural networks - Science",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IRTlXTVY4Z0tzcUNvMkhQWTRDZWhhX1FjUnZTbjA4TzBZa2xhbG5BY1NISkZLUU4wV29DWHRod040ZlBMenVfWWJPa054OFprckVPVGZSZ2JRdUJZck80?oc=5",
+        "publication_date": "Fri, 08 Nov 2024 08:00:00 GMT",
+        "source": "Science",
+        "source_url": "https://www.science.org",
+        "guid": "CBMiX0FVX3lxTE1IRTlXTVY4Z0tzcUNvMkhQWTRDZWhhX1FjUnZTbjA4TzBZa2xhbG5BY1NISkZLUU4wV29DWHRod040ZlBMenVfWWJPa054OFprckVPVGZSZ2JRdUJZck80"
+    },
+    {
+        "title": "MIT Creates Neural Network Processor Based on Light - ExtremeTech",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2V0SFBRVFlPSXR3S1FXQzllZlJ3VnVFaHU0TktOWmJQZFN5M2Vrc3hPNTJ3X1BpYUotMWUxLTBDTXNvbkRzaFJWUkY5UlUyVjRjUHZUYUhIb0l6ZU1XUktDNW9maFppa1pza2hqT2FFaVlGRlg1Q1VZMkVxX1JUaklucF9lVG9FRnlhRzkwTTY?oc=5",
+        "publication_date": "Wed, 04 Dec 2024 12:00:00 GMT",
+        "source": "ExtremeTech",
+        "source_url": "https://www.extremetech.com",
+        "guid": "CBMikAFBVV95cUxQM2V0SFBRVFlPSXR3S1FXQzllZlJ3VnVFaHU0TktOWmJQZFN5M2Vrc3hPNTJ3X1BpYUotMWUxLTBDTXNvbkRzaFJWUkY5UlUyVjRjUHZUYUhIb0l6ZU1XUktDNW9maFppa1pza2hqT2FFaVlGRlg1Q1VZMkVxX1JUaklucF9lVG9FRnlhRzkwTTY"
+    },
+    {
+        "title": "Dynamical transition in controllable quantum neural networks with large depth - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjSjhNRXd1TktVWHNPU3Y4SElqWHRwZ0FiMkpFUHVJRHpCeEJlQWlTUlRUSHIzRzZrN3Q0bWpfUE9Wd3hBS0NrSWlfT1FYR2lwZl8wb3dwQnRtTjM2Znh3?oc=5",
+        "publication_date": "Tue, 29 Oct 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFBjSjhNRXd1TktVWHNPU3Y4SElqWHRwZ0FiMkpFUHVJRHpCeEJlQWlTUlRUSHIzRzZrN3Q0bWpfUE9Wd3hBS0NrSWlfT1FYR2lwZl8wb3dwQnRtTjM2Znh3"
+    },
+    {
+        "title": "Constructing neural networks with pre-specified dynamics - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sMUpJd2ZhTXR3M21vUmJPZTlrY3NYNDJabFdpMlRaQnFTOFRydkFwRExNTGNhbEhfX0pweDJVcjZjUzVJdWFkVlhkRllvMkFSRm9qZ0ppaGRfOWRqcENJ?oc=5",
+        "publication_date": "Wed, 14 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE9sMUpJd2ZhTXR3M21vUmJPZTlrY3NYNDJabFdpMlRaQnFTOFRydkFwRExNTGNhbEhfX0pweDJVcjZjUzVJdWFkVlhkRllvMkFSRm9qZ0ppaGRfOWRqcENJ"
+    },
+    {
+        "title": "The Nobel Prize in Physics 2024 - Popular science background - NobelPrize.org - NobelPrize.org",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYcUkzcVlyaHI4ZkVTUmdhMVl2OVVMeFp4R1JGRnd1WVl0R2tFMlBOTXF6S1VwTGRSUmhfX2FDV0sxcjJwWlN0cl9RWmIzWUxJclV3Zm9uenNRUm5vSlZNajdBS293R1ZpbWNjV25sWmRUQ1doREE?oc=5",
+        "publication_date": "Tue, 08 Oct 2024 09:51:55 GMT",
+        "source": "NobelPrize.org",
+        "source_url": "https://www.nobelprize.org",
+        "guid": "CBMidkFVX3lxTFBYcUkzcVlyaHI4ZkVTUmdhMVl2OVVMeFp4R1JGRnd1WVl0R2tFMlBOTXF6S1VwTGRSUmhfX2FDV0sxcjJwWlN0cl9RWmIzWUxJclV3Zm9uenNRUm5vSlZNajdBS293R1ZpbWNjV25sWmRUQ1doREE"
+    },
+    {
+        "title": "A new photonic chip for ultrafast AI computations - Tech Explorist",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZXltX0sxVmE5SGFYd1VwZ3pNOHVERXpBRkMwSDVsaGZqdFZXVWt2U3RybHdoUUdnazBrQ0t3V2pGUnpvS2ZrVzAyeGJoakJKR1p1azk0RE1BU2YtclhqYThJNl82WXlUUlFValNwWUh5NU1rRktOQjZGSzQ2NkJfRmpNaEtjcG8?oc=5",
+        "publication_date": "Thu, 05 Dec 2024 08:59:25 GMT",
+        "source": "Tech Explorist",
+        "source_url": "https://www.techexplorist.com",
+        "guid": "CBMihwFBVV95cUxPZXltX0sxVmE5SGFYd1VwZ3pNOHVERXpBRkMwSDVsaGZqdFZXVWt2U3RybHdoUUdnazBrQ0t3V2pGUnpvS2ZrVzAyeGJoakJKR1p1azk0RE1BU2YtclhqYThJNl82WXlUUlFValNwWUh5NU1rRktOQjZGSzQ2NkJfRmpNaEtjcG8"
+    },
+    {
+        "title": "Photonic processor could enable ultrafast AI computations with extreme energy efficiency - MIT News",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkhNRHdqOHZHWFRKOElPNl8wME5yQzlZbjVrTXFJRHlLMUpjM215dml2RExBTlZZWW5ITkx3aElWNnp1VGxyekczNEFWeDY3eU5WcklwZjh5VlBZOWhHSklrNHpYZjVrTnQ4SGVBX3k3c1VZOTcwZzc2ZnRxZVBNNzFXZVpWaEx0OGtITFJNSHhxdw?oc=5",
+        "publication_date": "Mon, 02 Dec 2024 16:00:00 GMT",
+        "source": "MIT News",
+        "source_url": "https://news.mit.edu",
+        "guid": "CBMikgFBVV95cUxOTkhNRHdqOHZHWFRKOElPNl8wME5yQzlZbjVrTXFJRHlLMUpjM215dml2RExBTlZZWW5ITkx3aElWNnp1VGxyekczNEFWeDY3eU5WcklwZjh5VlBZOWhHSklrNHpYZjVrTnQ4SGVBX3k3c1VZOTcwZzc2ZnRxZVBNNzFXZVpWaEx0OGtITFJNSHhxdw"
+    },
+    {
+        "title": "There Is Hope After All: Quantifying Opinion and Trustworthiness in Neural Networks - Frontiers",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTBsSFJrSXJxQzNrZ2FlWXlmM2xTVHdrcmh1Vk9QSnBhSFM2MlQtczBzZ3IwYnRFcnY3azRicXVuc3poOFdNODJva2Q3Ui1ZOWZQNEFjOFVDdFo4Vm5zUkRlYTZkOV9scFA1MWZVXzA2d3czbEQ4a0VVYTFfSUdWZHo0NHExNzdKT0tPTm9FY21lZnM0ZnhmSzhPeHR5NVk?oc=5",
+        "publication_date": "Sun, 30 Jun 2024 22:30:49 GMT",
+        "source": "Frontiers",
+        "source_url": "https://www.frontiersin.org",
+        "guid": "CBMinwFBVV95cUxNVTBsSFJrSXJxQzNrZ2FlWXlmM2xTVHdrcmh1Vk9QSnBhSFM2MlQtczBzZ3IwYnRFcnY3azRicXVuc3poOFdNODJva2Q3Ui1ZOWZQNEFjOFVDdFo4Vm5zUkRlYTZkOV9scFA1MWZVXzA2d3czbEQ4a0VVYTFfSUdWZHo0NHExNzdKT0tPTm9FY21lZnM0ZnhmSzhPeHR5NVk"
+    },
+    {
+        "title": "Physics Nobel scooped by machine-learning pioneers - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZeURQa2xKWlphTE1KRGhpYkxDOUlfVFZVcnhiR3pqRzRxTDhTU0NlQ0Q4UzFoOF9NazY0UUwzYzhzVDJ3ZDJRTnFCNjFNdkdETlJJOGJSNDBGTXdsYlVz?oc=5",
+        "publication_date": "Tue, 08 Oct 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE1ZeURQa2xKWlphTE1KRGhpYkxDOUlfVFZVcnhiR3pqRzRxTDhTU0NlQ0Q4UzFoOF9NazY0UUwzYzhzVDJ3ZDJRTnFCNjFNdkdETlJJOGJSNDBGTXdsYlVz"
+    },
+    {
+        "title": "Multi-layer graph attention neural networks for accurate drug-target interaction mapping - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhYjllbWx3SmRvUG04QVd1aXg2YWlQUFZNSWRVZUU1RE9OVF9YejlVWEtWV3lCWHNSUjFTRGhRcnJEM2xBRHZPV3dBQjZ5b3Vtcy1TYmpUeGR4RW9NMHJR?oc=5",
+        "publication_date": "Wed, 30 Oct 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFBhYjllbWx3SmRvUG04QVd1aXg2YWlQUFZNSWRVZUU1RE9OVF9YejlVWEtWV3lCWHNSUjFTRGhRcnJEM2xBRHZPV3dBQjZ5b3Vtcy1TYmpUeGR4RW9NMHJR"
+    },
+    {
+        "title": "Interpreting cis -regulatory interactions from large-scale deep neural networks - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3eXB5ekdNMC1GYWstV3h6aW8tSjFpTzBzRzc1U0Y4UDloRWtneUxCckdHenQ1TXoxSUtxMEU4VklxM2E3bEY3a2VfSnFNYllmemM2TGdZaEFySkM2NjBR?oc=5",
+        "publication_date": "Mon, 16 Sep 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFB3eXB5ekdNMC1GYWstV3h6aW8tSjFpTzBzRzc1U0Y4UDloRWtneUxCckdHenQ1TXoxSUtxMEU4VklxM2E3bEY3a2VfSnFNYllmemM2TGdZaEFySkM2NjBR"
+    },
+    {
+        "title": "Variational tensor neural networks for deep learning - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ib3lob2JoMTNvclBSQ250Z1VuaVZ6X3lBOUhjWDk5R09BaGJMQkJfTGdmRjNLcS1pdFhJZmJKdFhxQ2FQQUhXRHBzUFJlYlhHVjlqMUVKcnBrdnQ0cGRn?oc=5",
+        "publication_date": "Fri, 16 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE5ib3lob2JoMTNvclBSQ250Z1VuaVZ6X3lBOUhjWDk5R09BaGJMQkJfTGdmRjNLcS1pdFhJZmJKdFhxQ2FQQUhXRHBzUFJlYlhHVjlqMUVKcnBrdnQ0cGRn"
+    },
+    {
+        "title": "Adaptive spatiotemporal neural networks through complementary hybridization - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12cHpzUDlsempxS1dQME1TY21EV2c2SElYdmh0RjNhYTI4NDRRSE1WYUhKbWZmVGprVW05V3kxOTBVa2FKeFZDczdHUWdZU3owVmw2b2hLZDhiWHZxUmJ3?oc=5",
+        "publication_date": "Tue, 27 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE12cHpzUDlsempxS1dQME1TY21EV2c2SElYdmh0RjNhYTI4NDRRSE1WYUhKbWZmVGprVW05V3kxOTBVa2FKeFZDczdHUWdZU3owVmw2b2hLZDhiWHZxUmJ3"
+    },
+    {
+        "title": "Network properties determine neural network performance - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBdElpSmtzcXdGQ3pDcnlwY1FTRHNVeTFJTDdDV240MmtiT2tmTHc1Y3Bwa202RXdOak9qSDdTS2hNQjZyUXdEVkY5empiMHhYMkhrYk81UE5iZmJqYU1r?oc=5",
+        "publication_date": "Mon, 08 Jul 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFBBdElpSmtzcXdGQ3pDcnlwY1FTRHNVeTFJTDdDV240MmtiT2tmTHc1Y3Bwa202RXdOak9qSDdTS2hNQjZyUXdEVkY5empiMHhYMkhrYk81UE5iZmJqYU1r"
+    },
+    {
+        "title": "Correlating measures of hierarchical structures in artificial neural networks with their performance - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80eXFwb19zRGM5VXp3Q2hwbkJjSE9NWkQtWEhRWXdjck5XN3JyVjJxbzI3VEpLWDQybnluTzRqVXJydlAwUE5KRTZkT2g5eWhyLTBlMnpORThNT2ExS29V?oc=5",
+        "publication_date": "Tue, 01 Oct 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE80eXFwb19zRGM5VXp3Q2hwbkJjSE9NWkQtWEhRWXdjck5XN3JyVjJxbzI3VEpLWDQybnluTzRqVXJydlAwUE5KRTZkT2g5eWhyLTBlMnpORThNT2ExS29V"
+    },
+    {
+        "title": "Discover Deep Learning: AI's Game-Changing Technology! - Simplilearn",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUEo1NHBiWFJFczgwOUtnajJIb3EtNGN6MTJUY2hybDlkeWQ3cDl0SVdnV3IwSWRDZFZkWE1HcmJlOHREc25INWM3Q0UzWUllVWYxZDU0V2FRWTR3TEpUNXlOdXd2T1Y2ZmVIYWk2bjJEblQzRWRCUElXRWxHbUpOUno5clQ3RFM2RVE?oc=5",
+        "publication_date": "Tue, 17 Sep 2024 07:00:00 GMT",
+        "source": "Simplilearn",
+        "source_url": "https://www.simplilearn.com",
+        "guid": "CBMiigFBVV95cUxNUEo1NHBiWFJFczgwOUtnajJIb3EtNGN6MTJUY2hybDlkeWQ3cDl0SVdnV3IwSWRDZFZkWE1HcmJlOHREc25INWM3Q0UzWUllVWYxZDU0V2FRWTR3TEpUNXlOdXd2T1Y2ZmVIYWk2bjJEblQzRWRCUElXRWxHbUpOUno5clQ3RFM2RVE"
+    },
+    {
+        "title": "A blueprint for precise and fault-tolerant analog neural networks - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QUVwOF9yMk44STlCN1NkLVNkZ09RQW56SnY4bjROVTluVlJXa0thbllLR0Y1R2l1ejc2b2ltb0tJMXMzaEVkS3dNaE1DTmE3QnhJcjVzNTdlVTA3cnJZ?oc=5",
+        "publication_date": "Fri, 14 Jun 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE11QUVwOF9yMk44STlCN1NkLVNkZ09RQW56SnY4bjROVTluVlJXa0thbllLR0Y1R2l1ejc2b2ltb0tJMXMzaEVkS3dNaE1DTmE3QnhJcjVzNTdlVTA3cnJZ"
+    },
+    {
+        "title": "Enhancing deep neural network training efficiency and performance through linear prediction - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rM3NKQzFTSWt4MW9uamMzeS1SMnNXdEZFdEtXYy1NVEF6T1V1RHBUUmprTkl3MmgzSzZnRDVmZ2FzRGN0M1VfdGV0bXptU0ZCVy13cTJQbXdKWUNzNVpv?oc=5",
+        "publication_date": "Tue, 02 Jul 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE5rM3NKQzFTSWt4MW9uamMzeS1SMnNXdEZFdEtXYy1NVEF6T1V1RHBUUmprTkl3MmgzSzZnRDVmZ2FzRGN0M1VfdGV0bXptU0ZCVy13cTJQbXdKWUNzNVpv"
+    },
+    {
+        "title": "Multicellular artificial neural network-type architectures demonstrate computational problem solving - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XTTlrRXJsWGpDckhmTDZRTXpJZTBrLWpmYXZ1c19nWkxXWkpOTHRqUnFqT1NfaGhGWWJ6RnZPZXRnQVBQZmduQTN5eTdZNWM2cWtQQXBGRHItU1V2R3gw?oc=5",
+        "publication_date": "Mon, 16 Sep 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE5XTTlrRXJsWGpDckhmTDZRTXpJZTBrLWpmYXZ1c19nWkxXWkpOTHRqUnFqT1NfaGhGWWJ6RnZPZXRnQVBQZmduQTN5eTdZNWM2cWtQQXBGRHItU1V2R3gw"
+    },
+    {
+        "title": "Novel Architecture Makes Neural Networks More Understandable - Quanta Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjBkaGRkR0U4c3QzUVlRbUt3RmFnS29PYmhTOXh1S2tVQVhoX3RtYVo3a3hHcGRiTHUtVU1GMkU2bExyUEV1Qjhza2JKM0Vscno3NXJrMERjX3Fjb3dwaHdPVFZjeE9saFB5QUIwakJlNDNPUHlTbmxQQTZHXzl2ZGo5T2hWd2QzYm9vMjF6c21HVjNfQnczZFNUTy1oMWo5a3Vr?oc=5",
+        "publication_date": "Wed, 11 Sep 2024 07:00:00 GMT",
+        "source": "Quanta Magazine",
+        "source_url": "https://www.quantamagazine.org",
+        "guid": "CBMiowFBVV95cUxPUjBkaGRkR0U4c3QzUVlRbUt3RmFnS29PYmhTOXh1S2tVQVhoX3RtYVo3a3hHcGRiTHUtVU1GMkU2bExyUEV1Qjhza2JKM0Vscno3NXJrMERjX3Fjb3dwaHdPVFZjeE9saFB5QUIwakJlNDNPUHlTbmxQQTZHXzl2ZGo5T2hWd2QzYm9vMjF6c21HVjNfQnczZFNUTy1oMWo5a3Vr"
+    },
+    {
+        "title": "A geometric approach for accelerating neural networks designed for classification problems | Scientific Reports - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EUDVraXo1MC0wZFBmQ1B1UjQ4QlNSM3h3b1NVUnd5cUtpY3lSWkxTMnhUTm1NY3pEQmxLeS1hbzFOTlYyLUlpdmdOOGlKRzVDSXdPUzhyMmo3TjhtdHBJ?oc=5",
+        "publication_date": "Tue, 30 Jul 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE1EUDVraXo1MC0wZFBmQ1B1UjQ4QlNSM3h3b1NVUnd5cUtpY3lSWkxTMnhUTm1NY3pEQmxLeS1hbzFOTlYyLUlpdmdOOGlKRzVDSXdPUzhyMmo3TjhtdHBJ"
+    },
+    {
+        "title": "A new way to build neural networks could make AI more understandable - MIT Technology Review",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON1ZGSG00VlViMFJTT1l5NnZ0QklkdklZOEpuUDdwbndVd0l4ZG9sQS1ISmhFdDdzNXVZNzRYaU9qNnFzWXl2UHJ0LVh2RW9wM3g3eU15aDNLOWJzLWEtYmticGZTc0lrb3R4ZXJWUEZYU1N5OXdIODQ2bERHbmt0d25LTkllN1ktZEtGU0JtYXZUaVlIQU9DNnFOLVZQMTN6b0J0RnRRNmt1ZUhaN2FVdUk3RTdUY21pdFdTUjh30gHDAUFVX3lxTE1ZZFlTMHFmNFVpWEdIVlp0NlNCUG1YV2NPdVdKbHBfVnlEOVRZQy1jUWdXbTdiZEVYTHpfVGRVbE5LT3FmZ1hudG9pSl9xVFdWc0JTZ2llSVdkMDRKUXEzNjl2bVpRU1RQMGpZNi1vZzN6M3JtSHBzTmpyTEFJTUUwYU1wTkNaLTg2Mi03aU5mQjlGdndwa1FHdEJfeHpyNnFiMnJDM3pyWW5GcGRPT2FuaWd1clB6Q2VJa1FiZHgwWUFnRQ?oc=5",
+        "publication_date": "Fri, 30 Aug 2024 07:00:00 GMT",
+        "source": "MIT Technology Review",
+        "source_url": "https://www.technologyreview.com",
+        "guid": "CBMivgFBVV95cUxON1ZGSG00VlViMFJTT1l5NnZ0QklkdklZOEpuUDdwbndVd0l4ZG9sQS1ISmhFdDdzNXVZNzRYaU9qNnFzWXl2UHJ0LVh2RW9wM3g3eU15aDNLOWJzLWEtYmticGZTc0lrb3R4ZXJWUEZYU1N5OXdIODQ2bERHbmt0d25LTkllN1ktZEtGU0JtYXZUaVlIQU9DNnFOLVZQMTN6b0J0RnRRNmt1ZUhaN2FVdUk3RTdUY21pdFdTUjh30gHDAUFVX3lxTE1ZZFlTMHFmNFVpWEdIVlp0NlNCUG1YV2NPdVdKbHBfVnlEOVRZQy1jUWdXbTdiZEVYTHpfVGRVbE5LT3FmZ1hudG9pSl9xVFdWc0JTZ2llSVdkMDRKUXEzNjl2bVpRU1RQMGpZNi1vZzN6M3JtSHBzTmpyTEFJTUUwYU1wTkNaLTg2Mi03aU5mQjlGdndwa1FHdEJfeHpyNnFiMnJDM3pyWW5GcGRPT2FuaWd1clB6Q2VJa1FiZHgwWUFnRQ"
+    },
+    {
+        "title": "The use of artificial neural networks in studying the progression of glaucoma | Scientific Reports - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxcXlSczh2NlkwZFhCUHZIRThPTzlOeGlfbmg3SFA2SG5mWWdzS241cmVmYXZpQ3FNS0tydDExbHVvZU85RnJpYl9fS2RXZm5fM0dfQWU1VUpuelNuSXY4?oc=5",
+        "publication_date": "Fri, 23 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFAxcXlSczh2NlkwZFhCUHZIRThPTzlOeGlfbmg3SFA2SG5mWWdzS241cmVmYXZpQ3FNS0tydDExbHVvZU85RnJpYl9fS2RXZm5fM0dfQWU1VUpuelNuSXY4"
+    },
+    {
+        "title": "Opportunities and challenges of graph neural networks in electrical engineering - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FSlRZVGNwaE50SVNtaWJtOVMyODV0S1hPYm9fQkVXSGhWM0xsaEQteGJwdXA3VnhmRWZoWTlRTldNR3VvYmQzdFMzYjk3TkxydXU2Q0tha2NFc1YwTVc4?oc=5",
+        "publication_date": "Mon, 05 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE9FSlRZVGNwaE50SVNtaWJtOVMyODV0S1hPYm9fQkVXSGhWM0xsaEQteGJwdXA3VnhmRWZoWTlRTldNR3VvYmQzdFMzYjk3TkxydXU2Q0tha2NFc1YwTVc4"
+    },
+    {
+        "title": "Top 8 Deep Learning Frameworks You Should Know in 2024 - Simplilearn",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQODQzLWQ3SmFuWVJaUlNjRkdxUnNZQnBTN1VBbU4tdlMyTk1oZzNYdGRmV2trcUg4M2lwNkJNMVlvLXJ1MG9qWnJfYzVkUTYwT3ZWcFhEVEJ1NndhS1RxNnlsdng4MHFRUGVZWnR4TUdYWWFLUzFwbjR4ZjlZUGl0R2lMaV90ZEljUHFfM0p3?oc=5",
+        "publication_date": "Tue, 13 Aug 2024 07:00:00 GMT",
+        "source": "Simplilearn",
+        "source_url": "https://www.simplilearn.com",
+        "guid": "CBMijgFBVV95cUxQODQzLWQ3SmFuWVJaUlNjRkdxUnNZQnBTN1VBbU4tdlMyTk1oZzNYdGRmV2trcUg4M2lwNkJNMVlvLXJ1MG9qWnJfYzVkUTYwT3ZWcFhEVEJ1NndhS1RxNnlsdng4MHFRUGVZWnR4TUdYWWFLUzFwbjR4ZjlZUGl0R2lMaV90ZEljUHFfM0p3"
+    },
+    {
+        "title": "High-performance deep spiking neural networks with 0.3 spikes per neuron - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QWnJhdHZhOGtFNjI3ODZSUlM4Tl9tdnRuQThocHZneFlMUlVSSk44Vmd6bGE5ZTRwVzJxTDJYbG1vZkNGSGpmVzlpeXhYV1JnaXNud0hxc2xRME5sTDVj?oc=5",
+        "publication_date": "Fri, 09 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE5QWnJhdHZhOGtFNjI3ODZSUlM4Tl9tdnRuQThocHZneFlMUlVSSk44Vmd6bGE5ZTRwVzJxTDJYbG1vZkNGSGpmVzlpeXhYV1JnaXNud0hxc2xRME5sTDVj"
+    },
+    {
+        "title": "Japanese scientists were pioneers of AI, yet they’re being written out of its history - The Conversation",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXNFWDYzQ2tWaG1wUUVjWGRxUFBBZ29wNmR4ZDFzTmg5QW55WVd1OG9yMzVWYzlvMFdNRmdWOTBrc1dYZktRd3lzdWpUb2Jra0hkQXdhTWlXWGc2bTYtb1lZbGU5T3F4ZUhCWElfeUl3SHhXWHZjbHFOZkh4QVVadm5MeU9iVUpZUTN0VDcxOWZGSzU1Wk45MjRlanF3TUVfTHdVd3gtaVdRUDJxM0FOUkdDRDBmbjJ4NGc?oc=5",
+        "publication_date": "Wed, 27 Nov 2024 08:00:00 GMT",
+        "source": "The Conversation",
+        "source_url": "https://theconversation.com",
+        "guid": "CBMiugFBVV95cUxOWXNFWDYzQ2tWaG1wUUVjWGRxUFBBZ29wNmR4ZDFzTmg5QW55WVd1OG9yMzVWYzlvMFdNRmdWOTBrc1dYZktRd3lzdWpUb2Jra0hkQXdhTWlXWGc2bTYtb1lZbGU5T3F4ZUhCWElfeUl3SHhXWHZjbHFOZkh4QVVadm5MeU9iVUpZUTN0VDcxOWZGSzU1Wk45MjRlanF3TUVfTHdVd3gtaVdRUDJxM0FOUkdDRDBmbjJ4NGc"
+    },
+    {
+        "title": "Learning long sequences in spiking neural networks - Scientific Reports - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yODcwX3NPX2xTMzZuaW5jRkNiSW94cUhqLURMSWFfaVlKYnRJdjMzRVltdXpqVFJrczBSbDl2eldJaENWTGNfZk9hem5Pcm9sa194ZVZHUnBERWVxenln?oc=5",
+        "publication_date": "Fri, 20 Sep 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE1yODcwX3NPX2xTMzZuaW5jRkNiSW94cUhqLURMSWFfaVlKYnRJdjMzRVltdXpqVFJrczBSbDl2eldJaENWTGNfZk9hem5Pcm9sa194ZVZHUnBERWVxenln"
+    },
+    {
+        "title": "What Is Artificial Intelligence (AI)? - IBM",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1RllBVkNOX0NmNnRRalZjUlVuOEs3Z2ZGUVFkR2lWR3FONzdRMTVGd0VURnhFNE9sWm9GU3NKbDdfQTF1bjc5X29tZGNWckxPRHAzbDVTZnMzMEJRRkhB?oc=5",
+        "publication_date": "Fri, 16 Aug 2024 07:00:00 GMT",
+        "source": "IBM",
+        "source_url": "https://www.ibm.com",
+        "guid": "CBMiX0FVX3lxTFA1RllBVkNOX0NmNnRRalZjUlVuOEs3Z2ZGUVFkR2lWR3FONzdRMTVGd0VURnhFNE9sWm9GU3NKbDdfQTF1bjc5X29tZGNWckxPRHAzbDVTZnMzMEJRRkhB"
+    },
+    {
+        "title": "Neural networks made of light can make machine learning more sustainable - Phys.org",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mOW5WVExRbTk4ZDhHY2FqdzlNX2ZxckEtelF3RFdBa003OG1aUFNDcnBjcElQWFZqendOMFVxU01UOVo2N1kyb01ZbUQ0QnlnN0pyQk5Ed3EtSWtQUS04SW9FQWhxNGdTelg1T0dnRGo1NTY2aGEtcnZB0gF4QVVfeXFMTTI2NzdTV2hjRHlKSVlXWG1lcEstcmQyNW9nb3gyb1E2MzdFNDZpa0ZfUXZuME40WmVTU0ZEY0VRQ09uNlFuTm81MUpuWm1ycXFLY1lwT2Z3SzU2ckZ4WTAzc3hucWt4Zkk3b3NfWWhxQU9OVlNvenpn?oc=5",
+        "publication_date": "Fri, 12 Jul 2024 07:00:00 GMT",
+        "source": "Phys.org",
+        "source_url": "https://phys.org",
+        "guid": "CBMiekFVX3lxTE5mOW5WVExRbTk4ZDhHY2FqdzlNX2ZxckEtelF3RFdBa003OG1aUFNDcnBjcElQWFZqendOMFVxU01UOVo2N1kyb01ZbUQ0QnlnN0pyQk5Ed3EtSWtQUS04SW9FQWhxNGdTelg1T0dnRGo1NTY2aGEtcnZB0gF4QVVfeXFMTTI2NzdTV2hjRHlKSVlXWG1lcEstcmQyNW9nb3gyb1E2MzdFNDZpa0ZfUXZuME40WmVTU0ZEY0VRQ09uNlFuTm81MUpuWm1ycXFLY1lwT2Z3SzU2ckZ4WTAzc3hucWt4Zkk3b3NfWWhxQU9OVlNvenpn"
+    },
+    {
+        "title": "Accurate computation of quantum excited states with neural networks - Science",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zMFplU2NsXzM4VVY5dUpZODZwdHRidGhCdDdVc3pPRkFzc2ZZajdHRnlHZ2xvV1JIaUhFaXhaWDg2cGJ3OHZfUV96TU9QMnJlZ2xpbkhwYUNBZE43UW02Mw?oc=5",
+        "publication_date": "Fri, 23 Aug 2024 07:00:00 GMT",
+        "source": "Science",
+        "source_url": "https://www.science.org",
+        "guid": "CBMiYEFVX3lxTE0zMFplU2NsXzM4VVY5dUpZODZwdHRidGhCdDdVc3pPRkFzc2ZZajdHRnlHZ2xvV1JIaUhFaXhaWDg2cGJ3OHZfUV96TU9QMnJlZ2xpbkhwYUNBZE43UW02Mw"
+    },
+    {
+        "title": "Lessons From Deep Neural Networks for Studying the Coding Principles of Biological Neural Networks - Frontiers",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0dyTnhVNjZyQWVhanRya1VxQndMYVVhanhUNmhNaG11V2ZvZkpJTjh4LTZSRHVWdjRBSkRYVHVTWGtFaEFoam1fYWlFT1VGUDNWOGVKVklHQ3VIWWlGUjQ4UzdueHg5MDZBWEk0cXBmZS1yREJVZnhjV0EzZnBGckJCSENyYmwzMG40QmZuLS1TNzZkT0lYQVBJSVEzZw?oc=5",
+        "publication_date": "Wed, 26 Jun 2024 00:33:51 GMT",
+        "source": "Frontiers",
+        "source_url": "https://www.frontiersin.org",
+        "guid": "CBMingFBVV95cUxQU0dyTnhVNjZyQWVhanRya1VxQndMYVVhanhUNmhNaG11V2ZvZkpJTjh4LTZSRHVWdjRBSkRYVHVTWGtFaEFoam1fYWlFT1VGUDNWOGVKVklHQ3VIWWlGUjQ4UzdueHg5MDZBWEk0cXBmZS1yREJVZnhjV0EzZnBGckJCSENyYmwzMG40QmZuLS1TNzZkT0lYQVBJSVEzZw"
+    },
+    {
+        "title": "Biophysical neural adaptation mechanisms enable artificial neural networks to capture dynamic retinal computation - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1U0tWdVRrcVBVS0hQWk54dHRMN0FHZkhLb1pxZTlLcjR4Yno1ZVMxMFpUdmlQLXJ1ZktVNEF4OGNBSDIxdkFSZ3JNV09xcU9uZ1czamdIcFh5Z0VyTWFJ?oc=5",
+        "publication_date": "Tue, 16 Jul 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFA1U0tWdVRrcVBVS0hQWk54dHRMN0FHZkhLb1pxZTlLcjR4Yno1ZVMxMFpUdmlQLXJ1ZktVNEF4OGNBSDIxdkFSZ3JNV09xcU9uZ1czamdIcFh5Z0VyTWFJ"
+    },
+    {
+        "title": "Generalization of neural network models for complex network dynamics - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FM1R3dVVJbGhoZ1B4M2dtRUJ5RXhCSm5NVGxtZUlRMHVOd00yU3R2dDV0T3IwOVdCMGozbmlmalhqQkRtRjR0cDcya2tNZzRaS3NidU9BdkNRVVg2bzZz?oc=5",
+        "publication_date": "Fri, 25 Oct 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE1FM1R3dVVJbGhoZ1B4M2dtRUJ5RXhCSm5NVGxtZUlRMHVOd00yU3R2dDV0T3IwOVdCMGozbmlmalhqQkRtRjR0cDcya2tNZzRaS3NidU9BdkNRVVg2bzZz"
+    },
+    {
+        "title": "Distributed constrained combinatorial optimization leveraging hypergraph neural networks - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QRzhuU3ktczlhVGdxM0JpMEc3LUswcUZzRy1DVC1OM2NfbXBnalY4bWQ0TjZNLUR3MGktcVFvODJmdzZfZzQ0dTY3emlNNVZVY3YyMU9ZSjU3X2ItT2l3?oc=5",
+        "publication_date": "Thu, 30 May 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE9QRzhuU3ktczlhVGdxM0JpMEc3LUswcUZzRy1DVC1OM2NfbXBnalY4bWQ0TjZNLUR3MGktcVFvODJmdzZfZzQ0dTY3emlNNVZVY3YyMU9ZSjU3X2ItT2l3"
+    },
+    {
+        "title": "A New Type of Neural Network Is More Interpretable - IEEE Spectrum",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DYnUwczduSU12NkF2YW03R0lnUEJhaXBEeWRqZ05mU2h4TnNHbXNhYnAwUzduTm5DSElwQUhwQWY5YTlZQ3pZczZiREI3QjV3S2dlcU50b9IBa0FVX3lxTFB2c0U1bTB6SVM3dXQyZWtHRzZlZFB0cDhIdzFReTNtOHdDbk4wajREUExyMnpDbjkxNXRCc0MtcURPS1MyM01ZTzkxSE9La253SE1TTWpab2lsLUxQcWktQW80alI1TUtJYm1r?oc=5",
+        "publication_date": "Mon, 05 Aug 2024 15:04:23 GMT",
+        "source": "IEEE Spectrum",
+        "source_url": "https://spectrum.ieee.org",
+        "guid": "CBMiV0FVX3lxTE1DYnUwczduSU12NkF2YW03R0lnUEJhaXBEeWRqZ05mU2h4TnNHbXNhYnAwUzduTm5DSElwQUhwQWY5YTlZQ3pZczZiREI3QjV3S2dlcU50b9IBa0FVX3lxTFB2c0U1bTB6SVM3dXQyZWtHRzZlZFB0cDhIdzFReTNtOHdDbk4wajREUExyMnpDbjkxNXRCc0MtcURPS1MyM01ZTzkxSE9La253SE1TTWpab2lsLUxQcWktQW80alI1TUtJYm1r"
+    },
+    {
+        "title": "Deep neural networks as variational solutions for correlated open quantum systems - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PWG9PUzh0ZlNhOXhHWTUzTS1pd1FVY1d3eU9BMzdCX3FYY0huRHlPc0RvOTFlYTdMdTRJSVYwRzl1LU1YWV8zOUI3X2d2V19VNlRvbUkyeTExSHkyRXpZ?oc=5",
+        "publication_date": "Wed, 07 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE1PWG9PUzh0ZlNhOXhHWTUzTS1pd1FVY1d3eU9BMzdCX3FYY0huRHlPc0RvOTFlYTdMdTRJSVYwRzl1LU1YWV8zOUI3X2d2V19VNlRvbUkyeTExSHkyRXpZ"
+    },
+    {
+        "title": "Emergence and reconfiguration of modular structure for artificial neural networks during continual familiarity detection - Science",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWUpwY0RzYUFubzBSQXlqUXBXRVBuQU1LSnlIenAzUUhxWTg0WF9DXzFfaWV5T0swem1MZXNpcG9wVF9GN1FzbmZfZnRjX2IyaU5yWGI5MEgzMXE5WFRj?oc=5",
+        "publication_date": "Fri, 26 Jul 2024 07:00:00 GMT",
+        "source": "Science",
+        "source_url": "https://www.science.org",
+        "guid": "CBMiX0FVX3lxTE0zWUpwY0RzYUFubzBSQXlqUXBXRVBuQU1LSnlIenAzUUhxWTg0WF9DXzFfaWV5T0swem1MZXNpcG9wVF9GN1FzbmZfZnRjX2IyaU5yWGI5MEgzMXE5WFRj"
+    },
+    {
+        "title": "An Alternative to Conventional Neural Networks Could Help Reveal What AI Is Doing behind the Scenes - Scientific American",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3NGd1lvVE1yODl1RTJDZ3BOYVFNa3NpN3d3Y01JYlBfQng3WmlEVnRKcmdnMFhMVWZ0QUhRMnNXMG1XamZrVnIzLUphenI0OXhYMVg2Y0JkQmFKTFRBQ3ZVcnR0RG9ZTjNOS0JmYThWVHVwclRkSDNvOU1XSHRBanpXekFsUWtKUEhiaHNJTlBoQ3QxNjEyVkdGbjlZUUVJdElhYWdsY2otcGNYVDJRY2xDNTdwaHFvU0JB?oc=5",
+        "publication_date": "Mon, 27 May 2024 07:00:00 GMT",
+        "source": "Scientific American",
+        "source_url": "https://www.scientificamerican.com",
+        "guid": "CBMiuwFBVV95cUxNS3NGd1lvVE1yODl1RTJDZ3BOYVFNa3NpN3d3Y01JYlBfQng3WmlEVnRKcmdnMFhMVWZ0QUhRMnNXMG1XamZrVnIzLUphenI0OXhYMVg2Y0JkQmFKTFRBQ3ZVcnR0RG9ZTjNOS0JmYThWVHVwclRkSDNvOU1XSHRBanpXekFsUWtKUEhiaHNJTlBoQ3QxNjEyVkdGbjlZUUVJdElhYWdsY2otcGNYVDJRY2xDNTdwaHFvU0JB"
+    },
+    {
+        "title": "Enhancing the expressivity of quantum neural networks with residual connections - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oWHlENEwtWm9sclp5UUROLVJPWVVIV1BvbGpJNDN3bzFmY2R4N2ozY29MNWxoazU4WVZnX1pwYWptM1FyWFVsSEk5RFRWaUlWelFiOEFucUtaWVpZZ05z?oc=5",
+        "publication_date": "Sat, 06 Jul 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE1oWHlENEwtWm9sclp5UUROLVJPWVVIV1BvbGpJNDN3bzFmY2R4N2ozY29MNWxoazU4WVZnX1pwYWptM1FyWFVsSEk5RFRWaUlWelFiOEFucUtaWVpZZ05z"
+    },
+    {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks - Google Research",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUTRPNGFqQWRGYWFGOW9QZHo2VmRZVk1lMC1NV2pOakhtMnE4aXVlZ1pyV0lhS2k5WncxSGw4NTlWUGRjaVV0XzlKV3I1T09DenJHZktfQU1PZkgxeTNOWnR5ODRiMFN6Y1hZUEh3bEFQWGwtd25ZYVJUM2Q4dFJ1RGNhUzZiTkVjVVNSZnA4cmxWd1VmMHhfc1R0Z0VpaS1uWWZ4emZZSS16ZnhoS1FHbTREYVl0Wjk2NlE?oc=5",
+        "publication_date": "Thu, 28 Mar 2024 07:00:00 GMT",
+        "source": "Google Research",
+        "source_url": "http://research.google",
+        "guid": "CBMiugFBVV95cUxPUTRPNGFqQWRGYWFGOW9QZHo2VmRZVk1lMC1NV2pOakhtMnE4aXVlZ1pyV0lhS2k5WncxSGw4NTlWUGRjaVV0XzlKV3I1T09DenJHZktfQU1PZkgxeTNOWnR5ODRiMFN6Y1hZUEh3bEFQWGwtd25ZYVJUM2Q4dFJ1RGNhUzZiTkVjVVNSZnA4cmxWd1VmMHhfc1R0Z0VpaS1uWWZ4emZZSS16ZnhoS1FHbTREYVl0Wjk2NlE"
+    },
+    {
+        "title": "Mechanism-based organization of neural networks to emulate systems biology and pharmacology models - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02QnVlRm9FREhpZHluTHJZS3JWNkdfdzZTbkE0Q3N0aUo1VzJ4UnlnWl9meUxWZFlMUWlHRnV2SFZFdFJzekxRbzR3Zm0ya0cyTERpX2g4UzJsbUlDTlBn?oc=5",
+        "publication_date": "Mon, 27 May 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE02QnVlRm9FREhpZHluTHJZS3JWNkdfdzZTbkE0Q3N0aUo1VzJ4UnlnWl9meUxWZFlMUWlHRnV2SFZFdFJzekxRbzR3Zm0ya0cyTERpX2g4UzJsbUlDTlBn"
+    },
+    {
+        "title": "Neuromorphic overparameterisation and few-shot learning in multilayer physical neural networks - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkT2FyMjgzeC1vNWNxZTlXbk1PYUNnZWpiNDFHcnJaRjdpaUwyUVBxT0gxN1ZqRGM5OGdKQzhFaDFTMEJOUzhUTFBoZmd0VEIzTDRTb2dXUURCbU5zUVhB?oc=5",
+        "publication_date": "Tue, 27 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFBkT2FyMjgzeC1vNWNxZTlXbk1PYUNnZWpiNDFHcnJaRjdpaUwyUVBxT0gxN1ZqRGM5OGdKQzhFaDFTMEJOUzhUTFBoZmd0VEIzTDRTb2dXUURCbU5zUVhB"
+    },
+    {
+        "title": "Hardware implementation of memristor-based artificial neural networks - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04OUF6Nk5VSXR5eFBJOW0xaWdNdlpjbzAwQk80bXNfeDcxeVN0MTRyRE9DWll4b2VGak54cDMxanN4bklYUmNMRG45cC1aN002ZmNVWFphSUJkLU96LVln?oc=5",
+        "publication_date": "Mon, 04 Mar 2024 08:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE04OUF6Nk5VSXR5eFBJOW0xaWdNdlpjbzAwQk80bXNfeDcxeVN0MTRyRE9DWll4b2VGak54cDMxanN4bklYUmNMRG45cC1aN002ZmNVWFphSUJkLU96LVln"
+    },
+    {
+        "title": "Improved microvascular imaging with optical coherence tomography using 3D neural networks and a channel attention mechanism - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5OFctV1Z6VnJIS3hCREJpVVBsc003Y3d6MkZqSzFDS0JJOUREbV9PZ3RJeUkzZm1ma2pFLWhMUVpEd0dJOXV6V0t0YmJwU21zb1VxOU9hOXZzN0VpbnVR?oc=5",
+        "publication_date": "Thu, 01 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFB5OFctV1Z6VnJIS3hCREJpVVBsc003Y3d6MkZqSzFDS0JJOUREbV9PZ3RJeUkzZm1ma2pFLWhMUVpEd0dJOXV6V0t0YmJwU21zb1VxOU9hOXZzN0VpbnVR"
+    },
+    {
+        "title": "Loss of plasticity in deep continual learning - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83Y2wxYkxGbl9yNXc3bWwwckxiaTk1TkZCU1AzUU16clBaWXBMTlhGUDJGLXEzNXQzUDZnZUFIWEhqR3IwSGJGN3VIZFN6cHduRlhDUnZtVF9SSlhhb2g0?oc=5",
+        "publication_date": "Wed, 21 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE83Y2wxYkxGbl9yNXc3bWwwckxiaTk1TkZCU1AzUU16clBaWXBMTlhGUDJGLXEzNXQzUDZnZUFIWEhqR3IwSGJGN3VIZFN6cHduRlhDUnZtVF9SSlhhb2g0"
+    },
+    {
+        "title": "What is deep learning? - McKinsey",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUV3YWpRQjkwVThTajFIeUdEdU9xVFZnUHdNRE56Tkx4di1LMzhiNkhnTnlxOXRmMVRIUE9RZ0NpbXZGWVlxZE1KLVBMS0NRYnJNT2hqUkFQMWFlYnJzMkd4bXNmemJWRzJMcEwtbHlJT044bVhRNFFhbFVOUkVSa1NBVUtBRVRWaV9SZQ?oc=5",
+        "publication_date": "Tue, 30 Apr 2024 07:00:00 GMT",
+        "source": "McKinsey",
+        "source_url": "https://www.mckinsey.com",
+        "guid": "CBMijAFBVV95cUxPbUV3YWpRQjkwVThTajFIeUdEdU9xVFZnUHdNRE56Tkx4di1LMzhiNkhnTnlxOXRmMVRIUE9RZ0NpbXZGWVlxZE1KLVBMS0NRYnJNT2hqUkFQMWFlYnJzMkd4bXNmemJWRzJMcEwtbHlJT044bVhRNFFhbFVOUkVSa1NBVUtBRVRWaV9SZQ"
+    },
+    {
+        "title": "What are neural networks? Applications, types and examples - BBVA",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWJ5NjNyTTF1c2RxN0ZPNzB0R3JvZEpIUmYtV2Z2LXhFOEhaYWwxR2wyMjRHSkYwYWtSMXFXdnVZLUtrQXo1NzRoNUdHSDJNTVRhNkRzNTVIaFNjVjBkczIzX1RoaE01Ri12SjZkVm1iczU2WTZRUlJqbkU0QkxvTGkxOFBBQzJwRk5SS1RoVkpIaHo0RFRV?oc=5",
+        "publication_date": "Tue, 04 Jun 2024 07:00:00 GMT",
+        "source": "BBVA",
+        "source_url": "https://www.bbva.com",
+        "guid": "CBMilwFBVV95cUxOYWJ5NjNyTTF1c2RxN0ZPNzB0R3JvZEpIUmYtV2Z2LXhFOEhaYWwxR2wyMjRHSkYwYWtSMXFXdnVZLUtrQXo1NzRoNUdHSDJNTVRhNkRzNTVIaFNjVjBkczIzX1RoaE01Ri12SjZkVm1iczU2WTZRUlJqbkU0QkxvTGkxOFBBQzJwRk5SS1RoVkpIaHo0RFRV"
+    },
+    {
+        "title": "Artificial Neural Networks: Learning by Doing - The Scientist",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPelZpcjJFY0lmNU50ZkdUUWdQdUNQZzJDbWlLckJ5dUFkWDluUEx2RVRXck5sLXI4U3RlY29mNF9sb2RZd185dDBxLUU1UWlld1Jmb1d4Nm5PRzdKOHpIejJ3aTM0OXc4Qkp2OWlWSXRkaVN3OGM0bjdoQjQ1WUdjMUhlYmRvUEE?oc=5",
+        "publication_date": "Fri, 01 Mar 2024 08:00:00 GMT",
+        "source": "The Scientist",
+        "source_url": "https://www.the-scientist.com",
+        "guid": "CBMihwFBVV95cUxPelZpcjJFY0lmNU50ZkdUUWdQdUNQZzJDbWlLckJ5dUFkWDluUEx2RVRXck5sLXI4U3RlY29mNF9sb2RZd185dDBxLUU1UWlld1Jmb1d4Nm5PRzdKOHpIejJ3aTM0OXc4Qkp2OWlWSXRkaVN3OGM0bjdoQjQ1WUdjMUhlYmRvUEE"
+    },
+    {
+        "title": "Tag Archives: neural network - Neural",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DaWN3cWVWNURpRkNQNjRucTMyN0Z4MS1kX0kzRUQ5VGNkR0VYcDFvVzhocTVrZmpvX3Zsa3BUQ2RzWEFOMW9nOUxOVUpjZw?oc=5",
+        "publication_date": "Fri, 06 Dec 2024 08:22:56 GMT",
+        "source": "Neural",
+        "source_url": "https://neural.it",
+        "guid": "CBMiTkFVX3lxTE1DaWN3cWVWNURpRkNQNjRucTMyN0Z4MS1kX0kzRUQ5VGNkR0VYcDFvVzhocTVrZmpvX3Zsa3BUQ2RzWEFOMW9nOUxOVUpjZw"
+    },
+    {
+        "title": "Comparing ANI-2x, ANI-1ccx neural networks, force field, and DFT methods for predicting conformational potential energy of organic molecules - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XODdhOC1hNVhvbFUtYk5ZZk5TcWp5NUlXVHZrVWtjM3FiZzZEZnBETldYZHd6TGxic19wTk5UbERDUmNpQ05KaTJPVzlBX0lRVlhlRGEwV0dsUko4ay13?oc=5",
+        "publication_date": "Thu, 23 May 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE5XODdhOC1hNVhvbFUtYk5ZZk5TcWp5NUlXVHZrVWtjM3FiZzZEZnBETldYZHd6TGxic19wTk5UbERDUmNpQ05KaTJPVzlBX0lRVlhlRGEwV0dsUko4ay13"
+    },
+    {
+        "title": "Fast and robust analog in-memory deep neural network training - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wOXlMNHVjems5b2FkTk5vUzZ0ZGg5M1lmdXdhQlRpLU5qbWxEQVZaWWZmMFB6SEhvVmFtUjR1OTZNM2FlTm8tR2R3NnBPZHR0OW9WTVRJTzR2Ukc0NWt3?oc=5",
+        "publication_date": "Tue, 20 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE5wOXlMNHVjems5b2FkTk5vUzZ0ZGg5M1lmdXdhQlRpLU5qbWxEQVZaWWZmMFB6SEhvVmFtUjR1OTZNM2FlTm8tR2R3NnBPZHR0OW9WTVRJTzR2Ukc0NWt3"
+    },
+    {
+        "title": "Mechanism for feature learning in neural networks and backpropagation-free machine learning models - Science",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04VzljWVpmQlVhMWp3Nm83Z0JsZnh4eXd4a3lNY0NnSzZYZjBOR05za0lMZ3BpLUdVaW92WW03Y0QzcFpjQ2JnRTZZcWd5RWlxSV82bE84U1hpNlNxbV95Tg?oc=5",
+        "publication_date": "Thu, 07 Mar 2024 08:00:00 GMT",
+        "source": "Science",
+        "source_url": "https://www.science.org",
+        "guid": "CBMiYEFVX3lxTE04VzljWVpmQlVhMWp3Nm83Z0JsZnh4eXd4a3lNY0NnSzZYZjBOR05za0lMZ3BpLUdVaW92WW03Y0QzcFpjQ2JnRTZZcWd5RWlxSV82bE84U1hpNlNxbV95Tg"
+    },
+    {
+        "title": "Novel applications of Convolutional Neural Networks in the age of Transformers | Scientific Reports - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsRFBFR0p6T3ZmcE5HQXg4UElHakdzUU13SmI0WGRsQXhiV2JlMXNXVXRnaGNabU0tU0VQSGJYMTQyZ1dVekc5WW5YeUxOX2ZRbjd3M0hlY21Ccmw1Sm4w?oc=5",
+        "publication_date": "Wed, 01 May 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFBsRFBFR0p6T3ZmcE5HQXg4UElHakdzUU13SmI0WGRsQXhiV2JlMXNXVXRnaGNabU0tU0VQSGJYMTQyZ1dVekc5WW5YeUxOX2ZRbjd3M0hlY21Ccmw1Sm4w"
+    },
+    {
+        "title": "Connectome-constrained networks predict neural activity across the fly visual system - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5eTJLZHAydFNFRXJrUHV4NTEtZ0JfQUl2UVk4Sm5PWWNJZFUwYWxtdXJkQ1BWb0Vad0YzbFg0ZDNZSlcwWk1fT0pGSXRlQU1pRjJsd2c4Sjl6OGhOWHVN?oc=5",
+        "publication_date": "Wed, 11 Sep 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFB5eTJLZHAydFNFRXJrUHV4NTEtZ0JfQUl2UVk4Sm5PWWNJZFUwYWxtdXJkQ1BWb0Vad0YzbFg0ZDNZSlcwWk1fT0pGSXRlQU1pRjJsd2c4Sjl6OGhOWHVN"
+    },
+    {
+        "title": "Slow ramping emerges from spontaneous fluctuations in spiking neural networks - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTbkhDMy0tUDRPNGtRTHJnVE5rVlVheTZySUFYWUliNFlRTC1FWHllUzZPVm1DUDhFUk83ZG9GTUxPY2F6MllYcVFBc1Jrd1NFWWxNQjNPWjZiNU5iZ01r?oc=5",
+        "publication_date": "Sat, 24 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTFBTbkhDMy0tUDRPNGtRTHJnVE5rVlVheTZySUFYWUliNFlRTC1FWHllUzZPVm1DUDhFUk83ZG9GTUxPY2F6MllYcVFBc1Jrd1NFWWxNQjNPWjZiNU5iZ01r"
+    },
+    {
+        "title": "How hardware contributes to the fairness of artificial neural networks - Tech Xplore",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcThMSVU4LXNod2lMU3hNSkRZNXpZVXQxQU1PQmktNnM4ZGVMZDRlMW01aWtvaEUyeExRZTdPamI1RXhsamd3dkZCRENTbUFIOUZtbFpfUkx3MlV6SUJwWFE2d0t4ekR1emxUcFp3SC1PbkJuU2t6UW1GN29DTU5QSWYyODJBamJnWW5tanR6bGFNUdIBkAFBVV95cUxQc1g0cUNmZ3E1SUtnQjlXejE2ckZBcmhnLVRYWWZ3TVczc0steDlDQ08teXRyQWJLbENEd1dudlBueVJWS1lpYUc5MTJybHNjRl9xVkdnTUpuTjVFTV9DeWJtbUJpOFBnWE9pa0dTUjdMYmJTdjNEeE5wNmNrLWVwaXc1emxCbDcxMVVuZURZVTk?oc=5",
+        "publication_date": "Sat, 24 Aug 2024 07:00:00 GMT",
+        "source": "Tech Xplore",
+        "source_url": "https://techxplore.com",
+        "guid": "CBMikgFBVV95cUxPcThMSVU4LXNod2lMU3hNSkRZNXpZVXQxQU1PQmktNnM4ZGVMZDRlMW01aWtvaEUyeExRZTdPamI1RXhsamd3dkZCRENTbUFIOUZtbFpfUkx3MlV6SUJwWFE2d0t4ekR1emxUcFp3SC1PbkJuU2t6UW1GN29DTU5QSWYyODJBamJnWW5tanR6bGFNUdIBkAFBVV95cUxQc1g0cUNmZ3E1SUtnQjlXejE2ckZBcmhnLVRYWWZ3TVczc0steDlDQ08teXRyQWJLbENEd1dudlBueVJWS1lpYUc5MTJybHNjRl9xVkdnTUpuTjVFTV9DeWJtbUJpOFBnWE9pa0dTUjdMYmJTdjNEeE5wNmNrLWVwaXc1emxCbDcxMVVuZURZVTk"
+    },
+    {
+        "title": "What are graph neural networks (GNNs)? - TechTarget",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd0lMV2ZSc3Z5VlFYLXVmSFMxZEp1aDNyU1FKNEl1MU1acm1tSjhsSTRrZGViaWlVUWVCTGJpTTZGQjc2OUdhc1d1c01GRHEtSGM4Z2NNcUs3VmpoZ2hySHAzaVI0eGozekFyRk5yb2N4NnhBUU11QUF0RllRRmhIX2tXQlBvcXMwb0lz?oc=5",
+        "publication_date": "Thu, 01 Feb 2024 21:18:24 GMT",
+        "source": "TechTarget",
+        "source_url": "https://www.techtarget.com",
+        "guid": "CBMiiwFBVV95cUxQd0lMV2ZSc3Z5VlFYLXVmSFMxZEp1aDNyU1FKNEl1MU1acm1tSjhsSTRrZGViaWlVUWVCTGJpTTZGQjc2OUdhc1d1c01GRHEtSGM4Z2NNcUs3VmpoZ2hySHAzaVI0eGozekFyRk5yb2N4NnhBUU11QUF0RllRRmhIX2tXQlBvcXMwb0lz"
+    },
+    {
+        "title": "Local prediction-learning in high-dimensional spaces enables neural networks to plan - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xQmtFWWI1YVFKWTAtR3pRd016UXh2Tk9OY09rV3RuREdWQXFOUGNMc0dxWFhfSXUyX29NbFNDaklKN0s0cmhKTThha3ZZblJkY3hTV1AtamxUZ3lSNTRr?oc=5",
+        "publication_date": "Fri, 15 Mar 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE4xQmtFWWI1YVFKWTAtR3pRd016UXh2Tk9OY09rV3RuREdWQXFOUGNMc0dxWFhfSXUyX29NbFNDaklKN0s0cmhKTThha3ZZblJkY3hTV1AtamxUZ3lSNTRr"
+    },
+    {
+        "title": "Manifold-based approach for neural network robustness analysis - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51NHBsa1lMQTFPaHE0elotTXRGeFc4NkYyMUxDLUFtX193dkN0b0J5UVRSWGJMejZiRXpJNDBOUEVEM3JpRjI1SnllZG1LOXc4R19pVnY0QkpFNXlieEE4?oc=5",
+        "publication_date": "Sat, 24 Aug 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE51NHBsa1lMQTFPaHE0elotTXRGeFc4NkYyMUxDLUFtX193dkN0b0J5UVRSWGJMejZiRXpJNDBOUEVEM3JpRjI1SnllZG1LOXc4R19pVnY0QkpFNXlieEE4"
+    },
+    {
+        "title": "Training neural networks using physical equations of motion - pnas.org",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WUlpQQVBwbXA0OVhZYmt2VFg3RmNoMC1ENHpnY2dJOW5GS3hqWXBmZTVCY0pWVUVVUW05R080MFMtSi13Y3NJNUhJSWdDX2dyb2RuZ213TldJbXVE?oc=5",
+        "publication_date": "Mon, 15 Jul 2024 07:00:00 GMT",
+        "source": "pnas.org",
+        "source_url": "https://www.pnas.org",
+        "guid": "CBMiXEFVX3lxTE5WUlpQQVBwbXA0OVhZYmt2VFg3RmNoMC1ENHpnY2dJOW5GS3hqWXBmZTVCY0pWVUVVUW05R080MFMtSi13Y3NJNUhJSWdDX2dyb2RuZ213TldJbXVE"
+    },
+    {
+        "title": "The Potential of Neural Network Potentials - ACS Publications",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tWWNQOHRqRjlzcHlSN21EWlkzUzZKMFJlbUNlN21TV1FheDFZMllIS3preENfeXpZdjVGSmxTaWhYTUZXY0xiekd5VzJIVnNFb01rYk01T2ZLMFlIcjVYS3cyZVo?oc=5",
+        "publication_date": "Thu, 21 Mar 2024 07:00:00 GMT",
+        "source": "ACS Publications",
+        "source_url": "https://pubs.acs.org",
+        "guid": "CBMiZEFVX3lxTE5tWWNQOHRqRjlzcHlSN21EWlkzUzZKMFJlbUNlN21TV1FheDFZMllIS3preENfeXpZdjVGSmxTaWhYTUZXY0xiekd5VzJIVnNFb01rYk01T2ZLMFlIcjVYS3cyZVo"
+    },
+    {
+        "title": "Teaching Deep Neural Networks to Find Cerebral Aneurysms - RSNA Publications Online",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZTkZLSWdvNGZuRjBlV0NmUjRxSUlMMlRqUkJEQks2Q05IRkdTVzNteUJ1YURDRkx2XzRIa1RqZm9sWUdDYVNwcDlzOE1oeUFuRGk2Q01jbl9nWm5SNHZISExB?oc=5",
+        "publication_date": "Tue, 20 Aug 2024 07:00:00 GMT",
+        "source": "RSNA Publications Online",
+        "source_url": "https://pubs.rsna.org",
+        "guid": "CBMiYkFVX3lxTE1ZTkZLSWdvNGZuRjBlV0NmUjRxSUlMMlRqUkJEQks2Q05IRkdTVzNteUJ1YURDRkx2XzRIa1RqZm9sWUdDYVNwcDlzOE1oeUFuRGk2Q01jbl9nWm5SNHZISExB"
+    },
+    {
+        "title": "Pretrainable geometric graph neural network for antibody affinity maturation - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aT2lfcVRGWDRkUkJBSTFSUzJLelVVdVdYT2RMYzVvU3hJWk5WWGVLZVdBZlQtVi1maUVwcWlRNHJwd1ZaNzFoQVc5VlItZll0Zi1qc29DUm1UbzVJX0V3?oc=5",
+        "publication_date": "Fri, 06 Sep 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE1aT2lfcVRGWDRkUkJBSTFSUzJLelVVdVdYT2RMYzVvU3hJWk5WWGVLZVdBZlQtVi1maUVwcWlRNHJwd1ZaNzFoQVc5VlItZll0Zi1qc29DUm1UbzVJX0V3"
+    },
+    {
+        "title": "How to Encode Constraints to the Output of Neural Networks - Towards Data Science",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWtXZllsNVV3WlRrTFpzLV9JQzhqOW94NDIxa3FNcExDZGl0WjhQX3pkS0xHM2traEJneFNKckhNLXlWUUNLRUhwVU5pakp5R2tNS2RvcWxnQndMVjNacjE1YkpkdVRKRzN5eC0xYVJMVXU0ZndDa0gtbVBlQ2VtTFFTUER5cDVGY3Z2dWs4WTg4eTZkdkl6WnhoYXJqbl9MQl9UNQ?oc=5",
+        "publication_date": "Sun, 14 Apr 2024 07:00:00 GMT",
+        "source": "Towards Data Science",
+        "source_url": "https://towardsdatascience.com",
+        "guid": "CBMipAFBVV95cUxOQWtXZllsNVV3WlRrTFpzLV9JQzhqOW94NDIxa3FNcExDZGl0WjhQX3pkS0xHM2traEJneFNKckhNLXlWUUNLRUhwVU5pakp5R2tNS2RvcWxnQndMVjNacjE1YkpkdVRKRzN5eC0xYVJMVXU0ZndDa0gtbVBlQ2VtTFFTUER5cDVGY3Z2dWs4WTg4eTZkdkl6WnhoYXJqbl9MQl9UNQ"
+    },
+    {
+        "title": "Conditional neural field latent diffusion model for generating spatiotemporal turbulence - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WUVZmRjZORDBaT3NWSG5RT1VBTjNVejJURkJ4OHV0b1JTc180WDVtckpnYzNHdWc5U1JTd20ycFRpMEx3Tkl4UXo3WTFIY0UwZUkzd0FWWWRyY3ZVeVYw?oc=5",
+        "publication_date": "Fri, 29 Nov 2024 08:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE1WUVZmRjZORDBaT3NWSG5RT1VBTjNVejJURkJ4OHV0b1JTc180WDVtckpnYzNHdWc5U1JTd20ycFRpMEx3Tkl4UXo3WTFIY0UwZUkzd0FWWWRyY3ZVeVYw"
+    },
+    {
+        "title": "How Chain-of-Thought Reasoning Helps Neural Networks Compute - Quanta Magazine",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDNMRmY5TmhUMnBySVBjNkNINlZSbHgzM0ZJNWgwNWc0Tks5dTRWajNwX3k1ZXhWb3FKUVZyOTQ4R3BWWHNqNlJLbEFkRE52TUI2QWpsTGlSVGtLMGhISjdheGxhSmU0YlRjQWR5S2lfZjlaUl9KMTdJNmVlNENzRHk1YlV6Q3JnU2dobUN0V2FYQ29TRkd5dk1hWnRBTW5mb19B?oc=5",
+        "publication_date": "Thu, 21 Mar 2024 07:00:00 GMT",
+        "source": "Quanta Magazine",
+        "source_url": "https://www.quantamagazine.org",
+        "guid": "CBMiowFBVV95cUxNUDNMRmY5TmhUMnBySVBjNkNINlZSbHgzM0ZJNWgwNWc0Tks5dTRWajNwX3k1ZXhWb3FKUVZyOTQ4R3BWWHNqNlJLbEFkRE52TUI2QWpsTGlSVGtLMGhISjdheGxhSmU0YlRjQWR5S2lfZjlaUl9KMTdJNmVlNENzRHk1YlV6Q3JnU2dobUN0V2FYQ29TRkd5dk1hWnRBTW5mb19B"
+    },
+    {
+        "title": "Fast learning without synaptic plasticity in spiking neural networks - Nature.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xZzRDcmpPWVd0NzFKNUhyWHpucHk5NkNMSlFkX2dXNmptX0V3TXdXQlM1WVhrR282a0xRS0Vna0lRdW1iWjNoaTlRWVFoempIYmx2c3RYMHRiMGtjczBr?oc=5",
+        "publication_date": "Fri, 12 Apr 2024 07:00:00 GMT",
+        "source": "Nature.com",
+        "source_url": "https://www.nature.com",
+        "guid": "CBMiX0FVX3lxTE8xZzRDcmpPWVd0NzFKNUhyWHpucHk5NkNMSlFkX2dXNmptX0V3TXdXQlM1WVhrR282a0xRS0Vna0lRdW1iWjNoaTlRWVFoempIYmx2c3RYMHRiMGtjczBr"
+    },
+    {
+        "title": "Here’s Everything You Need To Know About Convolutional Neural Networks - Inc42 Media",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mbjAtcHNfQ3Z5eHczZzNEa0FSbF9iQlJjWGR3c3RHamxlblNJUm9tWWVJSlNlWk9mV2ptWVZWUTJ2YkZDSjlkQ1pIMXRTeWxVUTVFRjQ3M0tFREZvMVY4Y0tZZXo2VzA5?oc=5",
+        "publication_date": "Fri, 09 Feb 2024 08:00:00 GMT",
+        "source": "Inc42 Media",
+        "source_url": "https://inc42.com",
+        "guid": "CBMiaEFVX3lxTE9mbjAtcHNfQ3Z5eHczZzNEa0FSbF9iQlJjWGR3c3RHamxlblNJUm9tWWVJSlNlWk9mV2ptWVZWUTJ2YkZDSjlkQ1pIMXRTeWxVUTVFRjQ3M0tFREZvMVY4Y0tZZXo2VzA5"
+    },
+    {
+        "title": "Replica theory shows deep neural networks think alike - Cornell Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUNzWG5vYlkyU1lIcHJjVFlwV0lWdTdJRmhMdHFDSmhxX3ZmeVNrM1NBZGNYeEw4a3ZaWVB6VEtDdlozVEFLUXhaN2E3cTcyZ1MtR1Q5dHUyd3JNMG43eER3QWhWeUotZ1R1ZU42cWt5dlhhVWFyaVJzYlVaam82bXhpTG5sVktBSmRpY2NVY2JUeG02OFJtMUR3?oc=5",
+        "publication_date": "Tue, 12 Mar 2024 07:00:00 GMT",
+        "source": "Cornell Chronicle",
+        "source_url": "https://news.cornell.edu",
+        "guid": "CBMimgFBVV95cUxNdUNzWG5vYlkyU1lIcHJjVFlwV0lWdTdJRmhMdHFDSmhxX3ZmeVNrM1NBZGNYeEw4a3ZaWVB6VEtDdlozVEFLUXhaN2E3cTcyZ1MtR1Q5dHUyd3JNMG43eER3QWhWeUotZ1R1ZU42cWt5dlhhVWFyaVJzYlVaam82bXhpTG5sVktBSmRpY2NVY2JUeG02OFJtMUR3"
+    }
+]
